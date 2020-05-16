@@ -23,17 +23,18 @@ You can install the pyPM.ca software to run on your own computer/server by:
   * `jupyter notebook`
 * create a new Python 3 notebook (click "New")
 ![jupyter new](img/jupyter-new.png)
-* Import ipypm and start the gui by entering the following into the empty cell in your new jupyter notebook and
-executing the cell by hitting (shift-enter):
+* Enter the following two lines into the empty cell in the notebook:
 
 ```
 from ipypm import ipypm
 ipypm.run_gui()
 ```
 
-In more advanced analyses with ipypm, you will want access to methods and data. In that case you
-need to create an ipypm object for referencem.
-In this case:
+   these tell python to import `ipypm` and start the gui. Execute the lines by hitting _shift-enter_
+
+
+* In more advanced analyses with ipypm, you will want access to methods and data. In that case you
+need to create an ipypm object for reference, and start the gui using that object:
 
 ```
 from ipypm import ipypm
@@ -54,11 +55,10 @@ After you load a model to work with, the other tabs will appear.
 
 More information about these tabs are here:
 
-
-
 * Tabs:
-  * Open and Settings: Loading models and data
-  * Explore: Exploring models with data
+  * [Open](open.md): Loading models and data
+  * [Settings](settings.md): Selecting what is visible
+  * [Explore](explore.md): Exploring models with data
   * Explore: Adding transitions
   * Analyze: Fitting models to data (estimating model parameters)
   * MCMC: Using MCMC methods to estimate uncertainty bands in future projections
