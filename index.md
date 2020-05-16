@@ -1,5 +1,3 @@
-# Home page for pyPM.ca
-
 The pyPM.ca population modeller was developed to study and characterize the CoViD-19 epidemic. 
 The pyPM.ca suite consists of:
 
