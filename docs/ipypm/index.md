@@ -1,9 +1,61 @@
-## Introduction
-The ipypm package uses ipywidgets to provide a graphical user interface to the pypmca modelling engine. It runs in a jupyter notebook, either on your computer (software installation required) or one of the many jupyterhub servers that available (no software installation required).
+## Overview
+The `ipypm` package uses interactive python widgets (ipywidgets) to provide a graphical user interface
+to the pypmca modelling engine.
+It runs in a jupyter notebook, either on your computer (software installation required)
+or on a jupyterhub server (no software installation required).
 
-With ipypm, you can load models, explore their behaviour by adjusting parameters, load data to confront the models, and perform basic parameter estimation by fitting models to the data. The model structure itself can be edited through the GUI.
+With `ipypm`, you can load models, explore their behaviour by adjusting parameters,
+load data to confront the models, and perform basic parameter estimation by fitting models to the data.
+The model structure itself can be edited through the GUI.
 
-* Installation and startup
+### Quickstart
+
+Links are provided [here](https://github.com/pypm/quickstart)
+to start `ipypm` with just a few clicks on Binder or a jupyter hub server.
+
+### Local installation and startup
+
+You can install the pyPM.ca software to run on your own computer/server by:
+* Ensuring that you have Python (version > 3.5) and Jupyter notebook installed
+  * If you need to install Python, consider [anaconda](https://www.anaconda.com/products/individual) which includes Jupyter notebook
+* Install ipypm software and start a jupyter notebook
+  * `pip install ipypm`
+  * `jupyter notebook`
+* create a new Python 3 notebook (click "New")
+![jupyter new](img/jupyter-new.png)
+* Import ipypm and start the gui by entering the following into the empty cell in your new jupyter notebook and
+executing the cell by hitting (shift-enter):
+
+```
+from ipypm import ipypm
+ipypm.run_gui()
+```
+
+In more advanced analyses with ipypm, you will want access to methods and data. In that case you
+need to create an ipypm object for referencem.
+In this case:
+
+```
+from ipypm import ipypm
+my_ipypm = ipypm.ipypm()
+my_ipypm.get_display()
+```
+
+### General information
+
+* If you find that the GUI is not responding, you can restart by restarting the jupyter notebook kernel:
+  * Menu -> Kernel -> Restart and Clear Output
+  * execute the command to display the GUI.
+
+### Tabs
+
+The `ipypm` interface is divided into tabs. Only Open and Edit are shown when you start.
+After you load a model to work with, the other tabs will appear.
+
+More information about these tabs are here:
+
+
+
 * Tabs:
   * Open and Settings: Loading models and data
   * Explore: Exploring models with data
