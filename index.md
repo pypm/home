@@ -10,18 +10,20 @@ the CoViD-19 epidemic. It consists of:
 
 ## Quick start
 
-* [ipypm](https://github.com/pypm/quickstart)
+* [ipypm](https://github.com/pypm/quickstart) graphical user interface
 
 ## Documentation
 
-* pypmca (population modeller)
-* ipypm (GUI interface)
+* [pypmca](docs/pypmca/index.md) (population modeller)
+* [ipypm](docs/ipypm/index.md) (GUI interface)
 
-## Case study examples
+## Example case studies
 
-## Repositories
+* test case
 
-* pypmca
-* ipypm
-* models
-* data
+## github repositories
+
+* [pypmca](https://github.com/pypm/quickstart)
+* [ipypm](https://github.com/pypm/quickstart)
+* [models](https://github.com/pypm/quickstart)
+* [data](https://github.com/pypm/quickstart)
