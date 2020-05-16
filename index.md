@@ -1,5 +1,4 @@
-The pyPM.ca population modeller was developed to study and characterize the CoViD-19 epidemic. 
-The pyPM.ca suite consists of:
+The pyPM.ca suite, developed to study and characterize the CoViD-19 epidemic, consists of:
 
 * pypmca: the general purpose population modelling engine
 * ipypm: a graphical user interface for pypmca. Based on ipywidgets, it runs in a jupyter notebook.
