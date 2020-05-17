@@ -1,4 +1,4 @@
-## ipypm - Explore tab
+## [ipypm](index.md) - Explore tab
 
 This tab allows you to explore how model predictions for the visible populations are affected by changing model parameters.
 When you change the value for a model parameter the model is automatically rerun to show the new model predictions.
@@ -26,7 +26,7 @@ The filetype defines the file format. .png and .pdf are good choices.
 that new cases, hospitalizations, deaths, for that day. Generally daily data is not available for most data sources.
 * y_max #1 and #2: if zero, the vertical axis for the plot will be automatically scaled. Otherwise the number specifies the maximum.
 
-### Middle
+#### Middle
 
 The time required to run the model is generally an overestimate. A table of maxima for the visible populations
 are shown to directly see the effect when changing parameters.

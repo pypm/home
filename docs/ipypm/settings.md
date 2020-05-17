@@ -1,4 +1,4 @@
-## ipypm - Settings tab
+## [ipypm](index.md) - Settings tab
 
 The settings tab allows you to select the set of populations to see in plots and the set of parameters to appear in dropdown
 menus in the three next tabs (Explore, Analyze, and MCMC).

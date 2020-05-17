@@ -1,8 +1,8 @@
-## ipypm - Open tab
+## [ipypm](index.md) - Open tab
 
 The first tab displayed lets you choose a model to work with:
 
-![open-tab](open-tab.png)
+![open-tab](img/open-tab.png)
 
 ### Model - networkd
 
