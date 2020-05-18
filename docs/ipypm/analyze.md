@@ -13,14 +13,13 @@ best match the data.
 * The variable parameters are moved to the top of the parameter list and highlight with an asterix ('*')
 * Bounds can be set for the parameter variation.
 
-Note that if an integer parameter is set to be variable the bounds must be set to a range < 15. For each
+Note that if an integer parameter is set to be variable, the bounds must be set to a range < 15. For each
 integer value in the range, the overall goodness of fit is evaluated and reported (for the best fit, with
 the float variables being allowed to vary).
 The integer parameter is set to the value that produces the best fit.
 Turn the integer to be fixed and do the fit again to find the best overall fit.
 
-The Fit & plot button initiates the fitting which uses
-the scipy.optimize.curve_fit method.
+The Fit & plot button initiates the fit, using the scipy.optimize.curve_fit method.
 
 The Fix all button returns all variable parameters to be fixed. This is useful
 when moving to fit other parameters with other data (such as ICU data).

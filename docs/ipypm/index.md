@@ -27,9 +27,9 @@ After you load a model to work with, the other tabs will appear:
 * [Settings](settings.md): Selecting what is visible
 * [Explore](explore.md): Exploring models with data
 * [Analyze](analyze.md): Fitting models to data (estimating model parameters)
-* MCMC: Using MCMC methods to estimate uncertainty bands in future projections
-* Compare: Comparing two models side-by-side
-* Edit: Examining a model in detail and making changes to its structure.
+* [MCMC](mcmc.md): Using MCMC methods to estimate uncertainty bands in future projections
+* [Compare](compare.md): Comparing two models side-by-side
+* [Edit](edit.md): Examining a model in detail and making changes to its structure.
 
 ### Advanced analyses
 

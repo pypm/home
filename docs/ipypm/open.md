@@ -4,7 +4,7 @@ The first tab displayed lets you choose a model to work with:
 
 ![open-tab](img/open-tab.png)
 
-### Model - networkd
+### Model - network
 
 To use a model from the pyPM.ca model repository, download it by first refreshing the catalog (Refresh Regions)
 then choose the region of interest. Generic reference models are collected in the "reference folder".
