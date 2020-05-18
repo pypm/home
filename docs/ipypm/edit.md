@@ -14,18 +14,18 @@ reference model #2.
 
 ### Parameters:
 
-![edit-parameter](edit-parameter.png)
+![edit-parameter](img/edit-parameter.png)
 
 ### Populations:
 
-![edit-population](edit-population.png)
+![edit-population](img/edit-population.png)
 
 ### Propagators:
 
-![edit-propagator](edit-propagator.png)
+![edit-propagator](img/edit-propagator.png)
 
 ### Transitionss:
 
-![edit-transition](edit-transition.png)
+![edit-transition](img/edit-transition.png)
 
 The conditions that define the boot sequence (see `pypmca` documentation) are set in the Edit-Boot tab.
