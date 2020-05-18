@@ -24,7 +24,7 @@ reference model #2.
 
 ![edit-propagator](img/edit-propagator.png)
 
-### Transitionss:
+### Transitions:
 
 ![edit-transition](img/edit-transition.png)
 

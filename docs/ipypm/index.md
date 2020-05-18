@@ -1,3 +1,5 @@
+## [return to pyPM.ca documentation home page](../..)
+
 ## ipypm Overview
 The `ipypm` package uses interactive python widgets (ipywidgets) to provide a graphical user interface
 to the pypmca modelling engine.

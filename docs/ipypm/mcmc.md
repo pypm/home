@@ -18,17 +18,12 @@ size... these are just rough guidelines!
 6. Calculate the autocovariance (button)
 7. Calculate the goodness of fit statistics for simulated samples (`cal sim gof` button). This will print the values as shown
 in the image below:
-
 ![mcmc-tab-table](img/mcmc-tab-table.png)
-
 8. Enter the chi2_n number into the text box. This is used in the normalization part of the likelihood calculation.
 9. Enter a number of degrees of freedom, which is used in the shape part of the likelihood calculation.
 10. Choose the number of MCMC points to produce. 5000 will take a couple of minutes.
 11. Produce the chain of MCMC points (click the `Do MCMC` button). The chain is available for inspection: my_ipypm.chain
 An example is shown how to visualize the chain using pandas below.
-
 ![mcmc-chain](img/mcmc-chain.png)
-
 12. Produce the projection plot with 95% CL bands by clicking on the `mcmc plot` button.
-
 ![mcmc-plot](img/mcmc-plot.png)
