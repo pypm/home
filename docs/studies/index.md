@@ -1,6 +1,6 @@
 ## Case studies
 
-Click on the links in the titles below to see detailed reults from the studies.
+Click on the links in the titles below to see detailed results from the studies.
 
 ### May 18, 2020: [9 provinces](prov20200518/index.md)
 

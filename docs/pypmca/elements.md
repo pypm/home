@@ -29,7 +29,7 @@ longer time steps are allowed.
 
 The model can be built by writing python code that
 creates the objects and adds them to the model, or
-by using the [ipypm](../../ipypm) graphical user interface.
+by using the [ipypm](../ipypm) graphical user interface.
 An example of the code that produced reference model
 #2 is found [here](https://github.com/pypm/pypmca/blob/master/examples/jupyter/ref_model_2.ipynb).
 

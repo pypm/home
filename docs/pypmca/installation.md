@@ -1,6 +1,6 @@
 ## [pypmca](index.md) - Installation
 
-If you have already installed [ipypm](../../ipypm/installation.md) then you already
+If you have already installed [ipypm](../ipypm/installation.md) then you already
 have the pypmca package installed.
 
 Otherwise, you can install the pyPM.ca population modelling engine on your computer or server by:
