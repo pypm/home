@@ -1,5 +1,7 @@
 ## Case studies
 
+Click on the links in the titles below to see detailed reults from the studies.
+
 ### May 18, 2020: [9 provinces](prov20200518/index.md)
 
 The most sensitive indicator to detect changes in the spread of the virus is the daily number cases.
@@ -8,9 +10,10 @@ determining whether the changes has significantly altered the transmission rate,
 new transmission rate is large enough to lead to exponential growth again.
 The ``pyPM.ca`` framework can help answer these questions.
 
-The ``pyPM.ca` reference model 2.1 is able to characterize the case histories in each Canadian province
-from mid-March - May 18.
-During the first part of March, testing policies were being developed.
+The ``pyPM.ca`` reference model 2.1 is able to characterize the case histories in each Canadian province
+from mid-March - May 18 with relatively few tuned parameters.
+During the first part of March, testing policies were being developed
+and fits do not include case numbers from that period.
 Subsequent to that, there is no evidence in the case data that changes to test policies have
 significantly changed the fraction of infected individuals getting a positive test result, at
 least in the districts that are responsible for the majority of cases.
@@ -43,7 +46,21 @@ All jusidictions see the same reporting anomaly the occured late April, all char
 cases reports spread over a period centered on around April 21 with the spread having standard
 deviation of about 6 days.
 
-Click on the link above to see the results.
+### Forthcoming studies
 
+* Reporting noise, due to the process by which reports are collected, greatly affect the
+variation seen in daily case numbers. These have strong negative correlation between neighboring
+days (as missed reports and included in the subsequent day's reports).
+A simple model for reporting noise is included in ``pyPM.ca``, with a single parameter.
+Tests of the reporting noise model will be shown.
+
+* Negative binomial parameter: It is common to not treat infections as independent events (which
+would lead to treating the number of cases on a day as an outcome of a Poisson random variable).
+Instead, it is common to use a negative binomial distribution.
+The choice of the single additional parameter is studied.
+
+* Projections for growth resulting from relaxation of social distancing. Choose some
+transmission rates (corresponding to a fraction of R_0, or a multiple of R_now), and show
+the expectations. Consider the effect of contact tracing (included in reference model 2.)
 
 ## [return to pyPM.ca documentation home page](../..)

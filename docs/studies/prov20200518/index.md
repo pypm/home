@@ -6,7 +6,9 @@ data prior to the onset of changes due to relaxation.
 All provinces except PEI (which has very few cases) are fit to the reference model 2.1.
 Reporting anomalies are included for BC and Quebec.
 
-The following shows graphs followed by tables...
+The following shows graphs followed by tables.
+The models and data used to produce these
+are conveniently made available through the [ipypm](../../ipypm) user interface.
 
 ### BC
 
