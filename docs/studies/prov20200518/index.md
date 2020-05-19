@@ -12,7 +12,7 @@ The following shows graphs followed by tables...
 
 ### BC
 
-![bc](img/bcc_2_1_0518.png)
+![bcc](img/bcc_2_1_0518.png)
 
 ### Alberta
 
