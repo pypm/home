@@ -14,6 +14,7 @@ the CoViD-19 epidemic. It consists of:
 
 ## Documentation
 
+* Short [YouTube video](https://youtu.be/fcutz70Uvm0) showing how to start working with pyPM.ca (May 19, 2020)
 * [pypmca](docs/pypmca/index.md) (population modeller)
 * [ipypm](docs/ipypm/index.md) (GUI interface)
 
