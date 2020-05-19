@@ -6,7 +6,7 @@ As relaxation is getting underway, it is important to have a good fit to the
 data prior to the onset of changes due to relaxation.
 
 All provinces except PEI (which has very few cases) are fit to the reference model 2.1.
-This allows for reporting anomalies to be included: needed for both BC and Quebec.
+Reporting anomalies are included for BC and Quebec.
 
 The following shows graphs followed by tables...
 
