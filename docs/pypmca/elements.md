@@ -3,7 +3,7 @@
 ​Each of the following sections describes the classes that
 make up the pypmca population modelling engine.
 
-### Model
+## Model
 
 A model object consisting of an ordered
 set of connector objects that connect population objects.
@@ -90,7 +90,7 @@ the exclusion populations, the future contributions are scaled.
 The boot sequence ends when the boot_population reaches or exceeds
 the value set for the initial_value of that population.
 
-### Population
+## Population
 
 A population class represents an identifiable
 category that is useful to be tracked. Some populations are
@@ -107,7 +107,7 @@ in the model.
 For example the 'contagious' population history is accessed by:
 ``my_model.populations['contagious'].history``
 
-### Connector
+## Connector
 
 The ordered list of connector objects define the calculations
 for the evolution of the system.
@@ -166,7 +166,7 @@ As patients in a hospital recover they are subtracted from
 the "in_hospital" population, but not from the "hospitalized"
 population".
 
-### Parameter
+## Parameter
 
 Parameter objects are created for each parameter that may
 affect the evoluton of the system.
@@ -197,7 +197,7 @@ For example the current value of the
 is accessed by:
 ``my_model.parameters['alpha_0'].get_value()``
 
-### Delay
+## Delay
 
 Delay objects are created to describe the delay distribution
 for the connectors.
@@ -210,7 +210,7 @@ The delay_type can be:
 with ODE implementations are of interest, since ODEs can only
 implement Erlang delay distributions.
 
-### Transition
+## Transition
 
 There are two types of transition objects (injector and modifier).
 A transition occurs when the step counter reaches the
@@ -231,19 +231,24 @@ at a particular time step.
 Example usage includes the change in transmission rates that arise
 when changes to social distancing rules are made.
 
-### Ensemble
+## Ensemble
 
 An ensemble object is a collection of models.
 It allows for categorization of 
 populations by age, risk, or other factors. It can also
-be used to combine many models that may or may not benearly independent
+be used to combine many models that may or may not be nearly independent
 (such as separate provinces to make a Canada wide model).
 
 Each category has its own model, and one model can influence the growth 
 within other models.
+The ensemble disables the infection cycle in each of the models
+and performs the infection cycle which includes the mixing
+between models, as specified by the contact_maxtrix.
 The ensemble sums the histories of all its models to 
 represent the evolution of
 the entire system.
+Like for a model, the ensemble population histories can be accessed through
+the ensemble populations dictionary.
 
 When mixing models having different growth rates, achieving the desired initial condition at t_0 through the
 boot process is challenging. The boot process starts with a small number in each model's boot_population and
@@ -255,3 +260,52 @@ This issue is not as serious if, at least initially, the growth behaviours of th
 
 Owing to the complexity of ensembles made from mixtures of very different growth rate sub groups,
 such situations should be treated with care until such behaviour has been thoroughly tested!
+
+Important methods:
+
+``save_file(filename)``
+The ensemble is saved to a file that has all
+information about the models and their connections 
+The filetype for a ``pyPM.ca`` ensemble file is ``.pypm_e``.
+
+``Ensemble.open_file(filepath)``
+Class method to restore a previously saved ensemble. Returns an ensemble object.
+
+``upload_models(list_of_models)`` and ``upload_model_files(list_of_files)`` 
+adds models to the ensemble.
+
+``define_cross_transmission(infection_cycle_name, infected_name,
+susceptible_name, total_name, contagious_name, alpha_name,
+contact_type, contact)`` defines how the populations mix and
+gives sufficient information for the ensemble to replicate the
+infection cycle.
+
+For example new infections in model A arising from interactions with group B
+are calculated by Susceptible_A / M * f[A][B] * Contagious_B * alpha_AB
+* M is the total effective total population = sum f[A][B] * N_B.
+* alpha_AB is the geometric mean = sqrt(alpha_A * alpha_B)
+* the contact matrix, f, needs to be n x n, where n is the number of models
+and the order of the matrix rows matches the order of the models in model_list
+
+In a homogeneous society, all alphas are the same, 
+and all terms of the matrix are 1.
+f represents the relative probability for a contagious members of B group to infect a
+random member of the A group (relative to infecting a random member of the B group).
+The off diagonal elements are typically less than 1. The diagonal elements are 1 by
+definition. A diagonal matrix describes a set of independent populations.
+Given the definintion of M, both homogenous and independent populations yield their
+original infection rate without adjusting alpha.
+
+The contact matrix can be specified in a number of ways, defined by contact_type:
+* 'diagonal','independent': all diagonal terms are 1, non-diagonal are 0.
+This corresponds to the situation where all models develop independently
+* 'equality': all matrix elements are 1.
+This corresponds to the situation where members are blind to the catagorizations
+* 'fixed': an arbitrary contact_matrix is provided as a list of list of floats
+Diagonal elements are inforced to be 1. An ValueError is raised if not.
+* 'simple': all off-diagonal elements are equal and specified by a single
+Parameter object provided in list passed by the contact argument
+* 'symmetric': off-diagonal elements passed by n(n-1)/2 Parameter objects
+provided in the list passed by the contact argument - f12,f13,...,f1n,f23,f24...
+Parameters are included in the ensemble parameter list for ease in adjusting the mixing.
+

@@ -1,5 +1,3 @@
-## [return to pyPM.ca documentation home page](../..)
-
 ## ipypm Overview
 The `ipypm` package uses interactive python widgets (ipywidgets) to provide a graphical user interface
 to the pypmca modelling engine.
@@ -38,3 +36,6 @@ After you load a model to work with, the other tabs will appear:
 You can develop analyses in the jupyter notebook by
 interacting with the models and data being used by ipypm.
 Documentation for this will be provided soon.
+
+## [return to pyPM.ca documentation home page](../..)
+
