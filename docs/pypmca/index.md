@@ -2,7 +2,7 @@
 
 ## pypmca Overview
 
-The pypmca package is a general purpose framework
+The ``pypmca`` package is a general purpose framework
 that models connected populations using
 discrete-time difference equations. It was developed specifically
 to understand and characterize the CoViD-19 epidemic.
@@ -32,7 +32,7 @@ To account for such perturbations, ``pyPM.ca`` models can include transition obj
 
 In order to model both long term and short term behaviour correctly,
 realistic time delay distributions must be included.
-The is achieved in ``pyPM.ca`` by using discrete-time difference equations,
+This is achieved in ``pyPM.ca`` by using discrete-time difference equations,
 in contrast to the ordinary differential equations (ODEs) approach
 which form the foundation of the vast majority of epidemiological models.
 The ODE approach is limited by its capability to introduce realistic time delays
@@ -43,7 +43,7 @@ and it offers no real benefit in modeling slowly evolving systems.
 The ``pyPM.ca`` object oriented design makes it possible to create or modify a
 connection network with little or no programming required, by using a suitable GUI.
 A separate package, [ipypm](../ipypm/index.md)
-provides a graphical user interface to ``pyPM.ca`
+provides a graphical user interface to ``pyPM.ca``
 that runs inside a jupyter notebook.
 
 ### Heterogeneous systems
@@ -55,3 +55,9 @@ representing a distinct group or category, along with a contact matrix the repre
 the engagement between the groups. Since an ensemble is a model object, tools that
 interact with a model can also be used to interact with an ensemble.
 
+## Documentation
+
+* [Installation and startup](install.md)
+* [Elements of a pypmca model](elements.md)
+* [Example applications](https://github.com/pypm/pypmca/tree/master/examples/jupyter)
+* [ipypm](../ipypm/index.md) graphical user interface
