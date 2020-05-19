@@ -48,7 +48,7 @@ The following shows graphs followed by tables...
 
 ## Tables
 
-### Reproduction rates
+### Reproduction numbers
 
 prov|cont_0 | R_0 | t_1 | R_1 | t2 | R_2 | t3 | R_3
 ---|---|---|---|---|---|---|---|---
@@ -64,6 +64,8 @@ ns|2.6|2.59|25|1.34|44|0.40
 
 * cont_0: size of contagious population on March 1, 2020
 * reproduction values, R_i, for different periods, separated by the times t_i (days)
+* for refence model 2, R = 6.58 * alpha. (Scale factor found empirically)
+
 
 ### hospitalization
 
