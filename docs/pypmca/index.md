@@ -57,6 +57,7 @@ interact with a model can also be used to interact with an ensemble.
 
 * [Installation and startup](installation.md)
 * [Elements of a pypmca model](elements.md)
+* [MCMC analysis](mcmc.md)
 * [Example applications](https://github.com/pypm/pypmca/tree/master/examples/jupyter)
 * [ipypm](../ipypm/index.md) graphical user interface
 

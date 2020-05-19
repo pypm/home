@@ -1,13 +1,26 @@
-Details of the MCMC likelihood calculation
+## [pypmca](index.md) MCMC analysis
+
+``pypmca.analysis.Optimizer`` includes methods for finding point
+estimates for model parameters as well as to evaluate the
+posterior probability density for these parameters
+using the Markov Chain Monte Carlo (MCMC) approach.
+The [ipypm](../ipypm) graphical user interface provides access to this functionality.
+Examples are provided [here](https://github.com/pypm/pypmca/tree/master/examples/jupyter)
+that show how to access these methods if working with ``pypmca`` directly.
 
 The MCMC method requires calculating the data likelihood, the probability density for the data observed given a hypothesis.
 The approach used in `pypmca` is optimized for a cumulative
-indicator. For the CoViD-19 outbreak this was chosen to be reported cases.
-A cumulative is used instead of daily values
-because this indicator suffers from large reporting noise
-on a daily basis - with large negative correlations between neighbouring days. The effect is smaller on the
+indicator, rather than a daily indicator.
+A daily indicator would normally be the first choice, since the observables could be described by random variables
+that are nearly independent.
+For the CoViD-19 outbreak the best inidicator was selected to be the cumulative reported cases.
+The cumulative is used instead of daily values
+because the daily indicator suffers from large reporting noise -
+with large negative correlations between neighbouring days. The effect is smaller on the
 cumulative. Still, reporting noise should be included in simulation samples (it is an optional parameter in pypmca
 population models).
+
+### Calculating the data likelihood
 
 Because cumulative data is being used, it is essential to include the auto-covariance in the likelihood.
 The shape and normalization of the cumulative indicator are separated so that the auto-covariance
