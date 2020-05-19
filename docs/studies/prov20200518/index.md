@@ -1,5 +1,3 @@
-## [return to case studies](../index.md)
-
 ## May 18, 2020 Analysis of provincial data
 
 As relaxation is getting underway, it is important to have a good fit to the
@@ -12,41 +10,81 @@ The following shows graphs followed by tables...
 
 ### BC
 
+The data is consistent with a single transition in the transmission rate and almost 400 cases
+added in late April. The anomalous cases are seen in all health regions and is expected to be
+due to a change in test/reporting policy.
+The data does not support a constant chang in probability for an
+infected individual to get a positive test result.
+The cyan line shows the model prediction without including the reporting anomaly.
+
 ![bcc](img/bcc_2_1_0518.png)
 
 ### Alberta
+
+The data is consistent with one change in transmissionrate in mid March and 3 separate
+large outbreaks. These have been reported in the media to be due to meat packing plants.
+The data is consistent with each outbreaks taking place over a very short period of time.
+Only two parameters are used to characterize each outbreak: date and number of infections.
+The shapes of the case (and contagious populations) are outcomes of the other model parameters
+which were not tuned.
+
+The hospitalization and death rates from these outbreaks appear to be smaller than the
+cases from March.
 
 ![ab](img/ab_2_1_0518.png)
 
 ### Saskatchewan
 
+The data is consistent with two transitions in transmission rates and one large outbreak,
+reported in the media to be in Northern communities.
+The data suggests that the outbreak took place over a period of about 10 days.
+
 ![sk](img/sk_2_1_0518.png)
 
 ### Manitoba
+
+The data is consistent with one change to the transmission rate.
+There is some evidence for two outbreaks, much smaller than what was seen in Alberta and Saskatchewan.
 
 ![mb](img/mb_2_1_0518.png)
 
 ### Ontario
 
+The data is consistent with 2 changes in tranmission rate.
+
 ![on](img/on_2_1_0518.png)
 
 ### Quebec
+
+Three changes in transmission rate are necessary to fit the data.
+A large backlog of case reports were released on May 3.
+The cyan line shows the model prediction without including the reporting anomaly.
+The current transmission rate is very close to exponential growth.
 
 ![qc](img/qc_2_1_0518.png)
 
 ### New Brunswick
 
+The data is consistent with two changes in transmission rates.
+
 ![nb](img/nb_2_1_0518.png)
 
 ### Newfoundland
+
+The data is consistent with two changes in transmission rates.
 
 ![nl](img/nl_2_1_0518.png)
 
 ### Nova Scotia
 
+The data is consistent with two changes in transmission rates.
+
 ![ns](img/ns_2_1_0518.png)
 
 ## Tables
+
+The tables below are results from the fits to reference model 2.1.
+These are shown for purposes of comparison.
 
 ### Reproduction numbers
 
@@ -83,4 +121,7 @@ ns|0.02|0.00|0.01|7.00|0.05|24.09
 * f_i: fraction of symptomatic getting icu hospitalization
 * d_i: mean days after symptoms entering icu
 * f_d: fraction of contagious that die
-* d_d: mean days between becoming contagious and death 
+* d_d: mean days between becoming contagious and death
+
+## [return to case studies](../index.md)
+
