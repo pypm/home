@@ -46,6 +46,16 @@ All jusidictions see the same reporting anomaly the occured late April, all char
 cases reports spread over a period centered on around April 21 with the spread having standard
 deviation of about 6 days.
 
+### May 25, 2020: [USA by state](usa20200525/index.md)
+
+The most sensitive indicator to detect changes in the spread of the virus is the daily number cases.
+As relaxation of social distancing rules start to take effect, there will be great interest in
+determining whether the changes has significantly altered the transmission rate, and whether the
+new transmission rate is large enough to lead to exponential growth again.
+
+Many US states are currently experiencing exponential growth, or very close to growth.
+Some of these states may see even faster growth as social distancing rules are relaxed.
+
 ### Forthcoming studies
 
 * Reporting noise, due to the process by which reports are collected, greatly affect the
