@@ -283,19 +283,6 @@ WI|58.1|2.11|27|**1.00**
 WV|2.6|2.64|30|0.88
 WY|4.5|2.11|27|0.75|51|**1.30**
 
-
-prov|cont_0 | R_0 | t_1 | R_1 | t2 | R_2 | t3 | R_3
----|---|---|---|---|---|---|---|---
-bc|26.8|2.80|18|0.73
-ab|18.3|2.67|20|0.51
-sk|2.3|3.02|19|1.45|26|0.50
-mb|1.1|2.79|27|0.29
-on|28.9|2.78|28|1.18|48|0.84
-qc|7.3|4.64|22|1.66|30|1.07|55|0.95
-nb|0.6|3.44|22|0.67|30|0.20
-nl|1.0|3.66|22|0.48|32|0.34
-ns|2.6|2.59|25|1.34|44|0.40
-
 * cont_0: size of contagious population on March 1, 2020
 * reproduction values, R_i, for different periods, separated by the times t_i (days)
 * for refence model 2, R = 6.58 * alpha. (Scale factor found empirically)
