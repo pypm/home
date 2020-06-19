@@ -2,6 +2,13 @@
 
 Click on the links in the titles below to see detailed results from the studies.
 
+### June 17, 2020: [16 German states](germany20200617/index.md)
+
+There is remarkable consistency across the 16 German states.
+The lockdown measures came into force on March 22 and the relaxation on May 22.
+The growth and decline are very similar in each state, and there is no significant
+increase in spread following May 22.
+
 ### May 28, 2020: [9 provinces](prov20200528/index.md)
 
 The most sensitive indicator to detect changes in the spread of the virus is the daily number cases.
