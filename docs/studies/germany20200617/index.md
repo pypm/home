@@ -22,7 +22,7 @@ Its shape is determined from the case data. Its scale is not well known.
 Following are tables and figures comparing the different states as well
 as the infection status plots, that summarize the growth and size of the epidemic.
 
-### Baden-Warttemberg
+### [Baden-Warttemberg](img/bw_2_3_0617.pdf)
 
 ![bw](img/bw_2_3_0617.png)
 
@@ -125,6 +125,11 @@ th|0.174 +/- 0.028|20|-0.016 +/- 0.010|-0.030 +/- 0.019|0.046|24.4
     * mean value= 20.7, RMS= 2.8
 
 ## Infection status
+
+The following plots summarize the infection history.
+The upper plot shows the daily growth/decline from the fit. Bands show approximate 95% CL intervals.
+The lower plot shows the size of the infection: the uncorrected circulating contagious population per
+million.
 
 ### Baden-Warttemberg
 
