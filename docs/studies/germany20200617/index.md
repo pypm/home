@@ -10,8 +10,8 @@ To evaluate the effect on the spread of CoViD-19, a transition is transmission r
 was imposed on that date, and the transmission rates before and after were fit.
 
 The results from the 16 German states are remarkably consistent
-with similar values for &delta before and after the imposition of the lockdown rules.
-There is no significant increase in &delta after the relaxation.
+with similar values for &delta; before and after the imposition of the lockdown rules.
+There is no significant increase in &delta; after the relaxation.
 
 Below shows the case and deaths data for all 16 states
 compares to the pypm model fit to the case data.
@@ -92,9 +92,9 @@ as the infection status plots, that summarize the growth and size of the epidemi
 The tables below are results from the fits to reference model 2.3.
 These are shown for purposes of comparison.
 
-### daily growth/decline rates (&delta)
+### daily growth/decline rates (&delta;)
 
-state| d_0 | trans | d_1 | d_2 | f_d | d_d 
+state| &delta;<sub>0</sub> | trans | &delta;<sub>0</sub> | &delta;<sub>0</sub> | f<sub>d</sub> | d<sub>d</sub> 
 ---|---|---|---|---|---|---
 bw|0.138 +/- 0.004|24|-0.050 +/- 0.001|-0.063 +/- 0.008|0.037|17.7
 by|0.180 +/- 0.006|23|-0.049 +/- 0.002|-0.038 +/- 0.012|0.039|18.8
@@ -111,17 +111,17 @@ st|0.133 +/- 0.020|22|-0.042 +/- 0.010|-0.095 +/- 0.059|0.024|18.4
 sh|0.162 +/- 0.027|21|-0.041 +/- 0.009|-0.052 +/- 0.032|0.035|21.0
 th|0.174 +/- 0.028|20|-0.016 +/- 0.010|-0.030 +/- 0.019|0.046|24.4
 
-* d_0: initial &delta, prior to lockdown
+* &delta;<sub>0</sub>: initial &delta;, prior to lockdown
     * mean value= 0.150, RMS= 0.022, mean stat error= 0.013
 * trans: fitted day of lockdown transition (actual date: 22)
     * mean value= 22.3, RMS= 2.4
-* d_1: &delta after lockdown
+* &delta;<sub>1</sub>: &delta; after lockdown
     * mean value= -0.041, RMS= 0.011, mean stat error= 0.005
-* d_2: &delta after relaxation on May 22
+* &delta;<sub>0</sub>: &delta; after relaxation on May 22
     * mean value= -0.045, RMS= 0.031, mean stat error= 0.021
-* f_d: fatality rate
+* f<sub>d</sub>: fatality rate
     * mean value= 0.035, RMS= 0.007
-* d_d: mean time from contagious to death
+* d<sub>d</sub>: mean time from contagious to death
     * mean value= 20.7, RMS= 2.8
 
 ## Infection status
