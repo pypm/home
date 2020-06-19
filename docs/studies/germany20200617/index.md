@@ -94,7 +94,7 @@ These are shown for purposes of comparison.
 
 ### daily growth/decline rates (&delta;)
 
-state| &delta;<sub>0</sub> | trans | &delta;<sub>0</sub> | &delta;<sub>0</sub> | f<sub>d</sub> | d<sub>d</sub> 
+state| &delta;<sub>0</sub> | trans | &delta;<sub>1</sub> | &delta;<sub>2</sub> | f<sub>d</sub> | d<sub>d</sub> 
 ---|---|---|---|---|---|---
 bw|0.138 +/- 0.004|24|-0.050 +/- 0.001|-0.063 +/- 0.008|0.037|17.7
 by|0.180 +/- 0.006|23|-0.049 +/- 0.002|-0.038 +/- 0.012|0.039|18.8
@@ -117,7 +117,7 @@ th|0.174 +/- 0.028|20|-0.016 +/- 0.010|-0.030 +/- 0.019|0.046|24.4
     * mean value= 22.3, RMS= 2.4
 * &delta;<sub>1</sub>: &delta; after lockdown
     * mean value= -0.041, RMS= 0.011, mean stat error= 0.005
-* &delta;<sub>0</sub>: &delta; after relaxation on May 22
+* &delta;<sub>2</sub>: &delta; after relaxation on May 22
     * mean value= -0.045, RMS= 0.031, mean stat error= 0.021
 * f<sub>d</sub>: fatality rate
     * mean value= 0.035, RMS= 0.007
