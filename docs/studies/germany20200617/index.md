@@ -21,68 +21,69 @@ Its shape is determined from the case data. Its scale is not well known.
 
 Following are tables and figures comparing the different states as well
 as the infection status plots, that summarize the growth and size of the epidemic.
+PDF versions of plots are available by clicking on the titles
 
 ### [Baden-Warttemberg](img/bw_2_3_0617.pdf)
 
 ![bw](img/bw_2_3_0617.png)
 
-### Bavaria
+### [Bavaria](img/by_2_3_0617.pdf)
 
 ![by](img/by_2_3_0617.png)
 
-### Berlin
+### [Berlin](img/be_2_3_0617.pdf)
 
 ![be](img/be_2_3_0617.png)
 
-### Brandenburg
+### [Brandenburg](img/bb_2_3_0617.pdf)
 
 ![bb](img/bb_2_3_0617.png)
 
-### Bremen
+### [Bremen](img/hb_2_3_0617.pdf)
 
 ![hb](img/hb_2_3_0617.png)
 
-### Hamburg
+### [Hamburg](img/hh_2_3_0617.pdf)
 
 ![hh](img/hh_2_3_0617.png)
 
-### Hesse
+### [Hesse](img/he_2_3_0617.pdf)
 
 ![he](img/he_2_3_0617.png)
 
-### Lower Saxony
+### [Lower Saxony](img/ni_2_3_0617.pdf)
 
 ![ni](img/ni_2_3_0617.png)
 
-### Mecklenburg-Vorpommern
+### [Mecklenburg-Vorpommern](img/mv_2_3_0617.pdf)
 
 ![mv](img/mv_2_3_0617.png)
 
-### North Rhine-Westphalia
+### [North Rhine-Westphalia](img/nw_2_3_0617.pdf)
 
 ![nw](img/nw_2_3_0617.png)
 
-### Rhineland-Palatinate
+### [Rhineland-Palatinate](img/rp_2_3_0617.pdf)
 
 ![rp](img/rp_2_3_0617.png)
 
-### Saarland
+### [Saarland](img/sl_2_3_0617.pdf)
 
 ![sl](img/sl_2_3_0617.png)
 
-### Saxony
+### [Saxony](img/sn_2_3_0617.pdf)
 
 ![sn](img/sn_2_3_0617.png)
 
-### Saxony-Anhalt
+### [Saxony-Anhalt](img/st_2_3_0617.pdf)
 
 ![st](img/st_2_3_0617.png)
 
-### Schleswig-Holstein
+### [Schleswig-Holstein](img/sh_2_3_0617.pdf)
 
 ![sh](img/sh_2_3_0617.png)
 
-### Thuringia
+### [Thuringia](img/th_2_3_0617.pdf)
 
 ![th](img/th_2_3_0617.png)
 
@@ -131,67 +132,67 @@ The upper plot shows the daily growth/decline from the fit. Bands show approxima
 The lower plot shows the size of the infection: the uncorrected circulating contagious population per
 million.
 
-### Baden-Warttemberg
+### [Baden-Warttemberg](img/bw-summary.pdf)
 
 ![bw](img/bw-summary.png)
 
-### Bavaria
+### [Bavaria](img/by-summary.pdf)
 
 ![by](img/by-summary.png)
 
-### Berlin
+### [Berlin](img/be-summary.pdf)
 
 ![be](img/be-summary.png)
 
-### Brandenburg
+### [Brandenburg](img/bb-summary.pdf)
 
 ![bb](img/bb-summary.png)
 
-### Bremen
+### [Bremen](img/hb-summary.pdf)
 
 ![hb](img/hb-summary.png)
 
-### Hamburg
+### [Hamburg](img/hh-summary.pdf)
 
 ![hh](img/hh-summary.png)
 
-### Hesse
+### [Hesse](img/he-summary.pdf)
 
 ![he](img/he-summary.png)
 
-### Lower Saxony
+### [Lower Saxony](img/ni-summary.pdf)
 
 ![ni](img/ni-summary.png)
 
-### Mecklenburg-Vorpommern
+### [Mecklenburg-Vorpommern](img/mv-summary.pdf)
 
 ![mv](img/mv-summary.png)
 
-### North Rhine-Westphalia
+### [North Rhine-Westphalia](img/nw-summary.pdf)
 
 ![nw](img/nw-summary.png)
 
-### Rhineland-Palatinate
+### [Rhineland-Palatinate](img/rp-summary.pdf)
 
 ![rp](img/rp-summary.png)
 
-### Saarland
+### [Saarland](img/sl-summary.pdf)
 
 ![sl](img/sl-summary.png)
 
-### Saxony
+### [Saxony](img/sn-summary.pdf)
 
 ![sn](img/sn-summary.png)
 
-### Saxony-Anhalt
+### [Saxony-Anhalt](img/st-summary.pdf)
 
 ![st](img/st-summary.png)
 
-### Schleswig-Holstein
+### [Schleswig-Holstein](img/sh-summary.pdf)
 
 ![sh](img/sh-summary.png)
 
-### Thuringia
+### [Thuringia](img/th-summary.pdf)
 
 ![th](img/th-summary.png)
 
