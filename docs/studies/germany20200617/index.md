@@ -1,4 +1,4 @@
-## June 17, 2020 Analysis of German state data (with Berlin update on June 20)
+## June 17, 2020 Analysis of German state data (with updates on June 20)
 
 Data from March 1-June 10 were included in the June 17 analysis.
 Strick lockdown in Germany started on March 22. The transition date for the
@@ -24,8 +24,11 @@ as the infection status plots, that summarize the growth and size of the epidemi
 PDF versions of plots are available by clicking on the titles
 
 **Update June 20:** By including data through June 19, it now appears that Berlin is experiencing
-exponential growth, transition date: May 23. Revised version shown below.
-It is also possible that the recent rise in cases is due to a localized outbreak.
+exponential growth, transition date: May 23.
+The state of Saxony-Anhalt has also recently seen a rapid rise in new cases.
+It is possible that these recent rises in cases
+are due to localized outbreaks.
+Revised versions are shown below.
 
 ### [Baden-Warttemberg](img/bw_2_3_0617.pdf)
 
@@ -83,9 +86,13 @@ It is also possible that the recent rise in cases is due to a localized outbreak
 
 ![sn](img/sn_2_3_0617.png)
 
-### [Saxony-Anhalt](img/st_2_3_0617.pdf)
+### [Saxony-Anhalt through June 10](img/st_2_3_0617.pdf)
 
 ![st](img/st_2_3_0617.png)
+
+### [Saxony-Anhalt through June 20](img/st_2_3_0620.pdf)
+
+![st](img/st_2_3_0620.png)
 
 ### [Schleswig-Holstein](img/sh_2_3_0617.pdf)
 

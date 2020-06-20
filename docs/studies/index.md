@@ -10,8 +10,10 @@ The growth and decline are very similar in each state, and there is no significa
 increase in spread following May 6.
 
 **Update June 20:** By including data through June 19, it appears that Berlin is experiencing
-exponential growth, transition date: May 23. It is also possible that the recent rise in cases
-is due to a localized outbreak.
+exponential growth, transition date: May 23.
+The state of Saxony-Anhalt has also recently seen a rapid rise in new cases.
+It is possible that these recent rises in cases
+are due to localized outbreaks.
 
 ### May 28, 2020: [9 provinces](prov20200528/index.md)
 
