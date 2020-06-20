@@ -23,7 +23,7 @@ Following are tables and figures comparing the different states as well
 as the infection status plots, that summarize the growth and size of the epidemic.
 PDF versions of plots are available by clicking on the titles
 
-** Update June 20:** By including data through June 19, it now appears that Berlin is experiencing
+**Update June 20:** By including data through June 19, it now appears that Berlin is experiencing
 exponential growth, transition date: May 23. Revised version shown below.
 It is also possible that the recent rise in cases is due to a localized outbreak.
 

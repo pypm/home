@@ -9,7 +9,7 @@ The lockdown measures came into force on March 22 and the relaxation on May 6.
 The growth and decline are very similar in each state, and there is no significant
 increase in spread following May 6.
 
-** Update June 20:** By including data through June 19, it appears that Berlin is experiencing
+**Update June 20:** By including data through June 19, it appears that Berlin is experiencing
 exponential growth, transition date: May 23. It is also possible that the recent rise in cases
 is due to a localized outbreak.
 
