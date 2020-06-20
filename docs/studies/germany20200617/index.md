@@ -1,6 +1,6 @@
-## June 17, 2020 Analysis of German state data
+## June 17, 2020 Analysis of German state data (with Berlin update on June 20)
 
-Data from March 1-June 10 were included in the analysis.
+Data from March 1-June 10 were included in the June 17 analysis.
 Strick lockdown in Germany started on March 22. The transition date for the
 transmission rates were not fixed to that date: most fits found the transition to be
 very close to March 22.
@@ -23,6 +23,10 @@ Following are tables and figures comparing the different states as well
 as the infection status plots, that summarize the growth and size of the epidemic.
 PDF versions of plots are available by clicking on the titles
 
+** Update June 20:** By including data through June 19, it now appears that Berlin is experiencing
+exponential growth, transition date: May 23. Revised version shown below.
+It is also possible that the recent rise in cases is due to a localized outbreak.
+
 ### [Baden-Warttemberg](img/bw_2_3_0617.pdf)
 
 ![bw](img/bw_2_3_0617.png)
@@ -31,9 +35,13 @@ PDF versions of plots are available by clicking on the titles
 
 ![by](img/by_2_3_0617.png)
 
-### [Berlin](img/be_2_3_0617.pdf)
+### [Berlin through June 10](img/be_2_3_0617.pdf)
 
 ![be](img/be_2_3_0617.png)
+
+### [Berlin through June 19](img/be_2_3_0620.pdf)
+
+![be](img/be_2_3_0620.png)
 
 ### [Brandenburg](img/bb_2_3_0617.pdf)
 
@@ -100,6 +108,7 @@ state| &delta;<sub>0</sub> | trans | &delta;<sub>1</sub> | &delta;<sub>2</sub> |
 bw|0.138 +/- 0.004|24|-0.050 +/- 0.001|-0.063 +/- 0.008|0.037|17.7
 by|0.180 +/- 0.006|23|-0.049 +/- 0.002|-0.038 +/- 0.012|0.039|18.8
 be|0.158 +/- 0.011|20|-0.039 +/- 0.002|-0.006 +/- 0.014|0.023|23.0
+be*|0.142 +/- 0.011|20|-0.036 +/- 0.005|0.073 +/- 0.022|0.023|23.0
 bb|0.109 +/- 0.012|28|-0.035 +/- 0.006|-0.118 +/- 0.045|0.037|18.4
 hh|0.134 +/- 0.010|21|-0.044 +/- 0.003|-0.056 +/- 0.018|0.038|28.0
 he|0.130 +/- 0.011|22|-0.031 +/- 0.004|-0.024 +/- 0.011|0.038|19.5
@@ -112,6 +121,7 @@ st|0.133 +/- 0.020|22|-0.042 +/- 0.010|-0.095 +/- 0.059|0.024|18.4
 sh|0.162 +/- 0.027|21|-0.041 +/- 0.009|-0.052 +/- 0.032|0.035|21.0
 th|0.174 +/- 0.028|20|-0.016 +/- 0.010|-0.030 +/- 0.019|0.046|24.4
 
+* be*: Berlin results through June 19
 * &delta;<sub>0</sub>: initial &delta;, prior to lockdown
     * mean value= 0.150, RMS= 0.022, mean stat error= 0.013
 * trans: fitted day of lockdown transition (actual date: 22)
@@ -140,9 +150,13 @@ million.
 
 ![by](img/by-summary.png)
 
-### [Berlin](img/be-summary.pdf)
+### [Berlin through June 10](img/be-summary.pdf)
 
 ![be](img/be-summary.png)
+
+### [Berlin through June 19](img/be-summary-rev.pdf)
+
+![be](img/be-summary-rev.png)
 
 ### [Brandenburg](img/bb-summary.pdf)
 

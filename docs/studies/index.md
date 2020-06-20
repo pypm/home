@@ -4,10 +4,14 @@ Click on the links in the titles below to see detailed results from the studies.
 
 ### June 17, 2020: [16 German states](germany20200617/index.md)
 
-There is remarkable consistency across the 16 German states.
-The lockdown measures came into force on March 22 and the relaxation on May 22.
+There is remarkable consistency across the 16 German states for data between March 1 and June 10.
+The lockdown measures came into force on March 22 and the relaxation on May 6.
 The growth and decline are very similar in each state, and there is no significant
-increase in spread following May 22.
+increase in spread following May 6.
+
+** Update June 20:** By including data through June 19, it appears that Berlin is experiencing
+exponential growth, transition date: May 23. It is also possible that the recent rise in cases
+is due to a localized outbreak.
 
 ### May 28, 2020: [9 provinces](prov20200528/index.md)
 
