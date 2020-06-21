@@ -82,8 +82,10 @@ Instead, it is common to use a negative binomial distribution.
 The choice of the single additional parameter is studied.
 
 * Projections for growth resulting from relaxation of social distancing. Choose some
-transmission rates (corresponding to a fraction of R_0, or a multiple of R_now), and show
-the expectations. Consider the effect of contact tracing (included in reference model 2.)
+modified transmission rates, show the expectations, and consider how much time is required to
+detect changes for a given significance.
+
+* Consider the effect of contact tracing (included in reference model 2.)
 
 ## [Archive of older studies](archive/index.md)
 
