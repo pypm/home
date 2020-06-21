@@ -18,7 +18,7 @@ The trajectory for in hospital follows the infection trajectory deduced from the
 A transition was inserted for May 19, the date social distancing rules were relaxed.
 While there is an increase in cases, and the fit finds increased transmission rate,
 this is apparently due to a small outbreak in Vancouver Coastal health region.
-See this [link](../bcc20200620/index.md) to see a breakdown by health authority.
+See this [link](../bcc20200620) to see a breakdown by health authority.
 The statistical analysis finds a large uncertainty for &delta; following May 19.
 
 ![bcc](img/bcc_2_3_0620.png)
