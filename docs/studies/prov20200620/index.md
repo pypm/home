@@ -23,7 +23,7 @@ The statistical analysis finds a large uncertainty for &delta; following May 19.
 
 ![bcc](img/bcc_2_3_0620.png)
 
-### Alberta(img/ab_2_3_0620.pdf)
+### [Alberta](img/ab_2_3_0620.pdf)
 
 The data is consistent with one change in transmission rate in mid March and 3 separate
 large outbreaks. These have been reported in the media to be due to meat packing plants.
@@ -40,7 +40,7 @@ Edmonton health region.
 
 ![ab](img/ab_2_3_0620.png)
 
-### Saskatchewan(img/sk_2_3_0620.pdf)
+### [Saskatchewan](img/sk_2_3_0620.pdf)
 
 The data is consistent with two transitions in transmission rates, one large outbreak
 reported in the media to be in far northern communities, and a second smaller
@@ -50,21 +50,21 @@ The second outbreak is only now becoming visible in the case data.
 
 ![sk](img/sk_2_3_0620.png)
 
-### Manitoba(img/mb_2_3_0620.pdf)
+### [Manitoba](img/mb_2_3_0620.pdf)
 
 The data is consistent with one change to the transmission rate.
 There is some evidence for two outbreaks, much smaller than what was seen in Alberta and Saskatchewan.
 
 ![mb](img/mb_2_3_0620.png)
 
-### Ontario(img/on_2_3_0620.pdf)
+### [Ontario](img/on_2_3_0620.pdf)
 
 The data is consistent with 2 changes in tranmission rate. A third transition is added for May 19
 to measure the new transmission rate.
 
 ![on](img/on_2_3_0620.png)
 
-### Quebec(img/qc_2_3_0620.pdf)
+### [Quebec](img/qc_2_3_0620.pdf)
 
 Four changes in transmission rate are necessary to fit the data.
 A large backlog of case reports were released on May 3.
@@ -73,20 +73,20 @@ The best fit for the transition date is May 18.
 
 ![qc](img/qc_2_3_0620.png)
 
-### New Brunswick(img/nb_2_3_0620.pdf)
+### [New Brunswick](img/nb_2_3_0620.pdf)
 
 The data is consistent with two changes in transmission rates and
 outbreaks in late May (in Campbellton region).
 
 ![nb](img/nb_2_3_0620.png)
 
-### Newfoundland(img/nl_2_3_0620.pdf)
+### [Newfoundland](img/nl_2_3_0620.pdf)
 
 The data is consistent with one change in transmission rate.
 
 ![nl](img/nl_2_3_0620.png)
 
-### Nova Scotia(img/ns_2_3_0620.pdf)
+### [Nova Scotia](img/ns_2_3_0620.pdf)
 
 The data is consistent with two changes in transmission rates.
 
@@ -122,19 +122,19 @@ Only regions with sufficient statistics to properly analyze uncertainty in &delt
 
 ![bcc](img/bcc-summary.png)
 
-### Alberta(img/ab-summary.pdf)
+### [Alberta](img/ab-summary.pdf)
 
 ![ab](img/ab-summary.png)
 
-### Ontario(img/on-summary.pdf)
+### [Ontario](img/on-summary.pdf)
 
 ![on](img/on-summary.png)
 
-### Quebec(img/qc-summary.pdf)
+### [Quebec](img/qc-summary.pdf)
 
 ![qc](img/qc-summary.png)
 
-### Nova Scotia(img/ns-summary.pdf)
+### [Nova Scotia](img/ns-summary.pdf)
 
 ![ns](img/ns-summary.png)
 
