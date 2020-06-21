@@ -18,7 +18,7 @@ the CoViD-19 epidemic. It consists of:
 * [pypmca](docs/pypmca/index.md) (population modeller)
 * [ipypm](docs/ipypm/index.md) (GUI interface)
 
-## [Case studies](docs/studies/index.md)
+## [Case studies and reports](docs/studies/index.md)
 
 ## github repositories
 

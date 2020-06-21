@@ -1,3 +1,11 @@
+# Case studies and reports
+
+## Reports
+
+* [Characterizing the spread of CoViD-19](reports/Characterizing_the_spread_of_CoViD_19_20200621.pdf), D. Karlen, June 21, 2020.
+    * introduces the pypm framework and describes methods to define comparitive statistics with weak model dependence
+    and estimate their uncertainties
+
 ## Case studies
 
 Click on the links in the titles below to see detailed results from the studies.
