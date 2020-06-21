@@ -2,34 +2,16 @@
 
 Click on the links in the titles below to see detailed results from the studies.
 
-### June 17, 2020: [16 German states](germany20200617/index.md)
+### June 20, 2020: [9 provinces](prov20200620/index.md)
 
-There is remarkable consistency across the 16 German states for data between March 1 and June 10.
-The lockdown measures came into force on March 22 and the relaxation on May 6.
-The growth and decline are very similar in each state, and there is no significant
-increase in spread following May 6.
+This is an update of the previous provincial analysis, now using data from March 1 - June 19.
 
-**Update June 20:** By including data through June 19, it appears that Berlin is experiencing
-exponential growth, transition date: May 23.
-The state of Saxony-Anhalt has also recently seen a rapid rise in new cases.
-It is possible that these recent rises in cases
-are due to localized outbreaks.
+The ``pyPM.ca`` reference model 2.3 is used.
+For provinces with sufficient data, estimates are provided
+of new growth rates after relaxation measures.
 
-### May 28, 2020: [9 provinces](prov20200528/index.md)
-
-The most sensitive indicator to detect changes in the spread of the virus is the daily number cases.
-As relaxation of social distancing rules start to take effect, there will be great interest in
-determining whether the changes has significantly altered the transmission rate, and whether the
-new transmission rate is large enough to lead to exponential growth again.
-The ``pyPM.ca`` framework can help answer these questions.
-
-The ``pyPM.ca`` reference model 2.2 is able to characterize the case histories in each Canadian province
-from mid-March - May 28 with relatively few tuned parameters.
-During the first part of March, testing policies were being developed
+During the first part of March, testing policies were not yet fixed
 and fits do not include case numbers from that period.
-Subsequent to that, there is no evidence in the case data that changes to test policies have
-significantly changed the fraction of infected individuals getting a positive test result, at
-least in the districts that are responsible for the majority of cases.
 The [data](https://resources-covid19canada.hub.arcgis.com/datasets/provincial-daily-totals)
 is collected from daily reports from provinces by ESRI,
 and data prior to April 28 was collected by the now defunct virihealth.com.
@@ -47,29 +29,46 @@ injecting batches of additional positive test results.
 The agreement between the model and the provincial case data is quite good, considering
 the relatively small number of parameters used. Click on the link above to see the results.
 
-### May 25, 2020: [USA by state](usa20200525/index.md)
-
-The most sensitive indicator to detect changes in the spread of the virus is the daily number cases.
-As relaxation of social distancing rules start to take effect, there will be great interest in
-determining whether the changes has significantly altered the transmission rate, and whether the
-new transmission rate is large enough to lead to exponential growth again.
-
-Many US states are currently experiencing exponential growth, or very close to growth.
-Some of these states may see even faster growth as social distancing rules are relaxed.
-
-### May 18, 2020: [BC health region](bc20200518/index.md)
+### June 20, 2020: [BC health region](bc20200620/index.md)
 
 The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
 the number of cases each day, divided into sex, age, and health region.
 
 The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
-the dates assigned to each positive case.
+the dates assigned to each positive case. Sundays do not have zero cases in these data.
 
 All jusidictions see the same reporting anomaly the occured late April, all characterized by additional
 cases reports spread over a period centered on around April 21 with the spread having standard
 deviation of about 6 days.
 
-### Forthcoming studies
+Vancouver Coastal has an increase in cases in early June.
+
+### June 17, 2020: [16 German states](germany20200617/index.md)
+
+There is remarkable consistency across the 16 German states for data between March 1 and June 10.
+The lockdown measures came into force on March 22 and the relaxation on May 6.
+A transition on May 6 was forced to measure the new transmission rate after that date.
+The growth and decline are very similar in each state, and there is no significant
+increase in spread following May 6.
+
+**Update June 20:** By including data through June 19, it appears that Berlin is experiencing
+exponential growth, transition date: May 23.
+The state of Saxony-Anhalt has also recently seen a rapid rise in new cases.
+It is possible that these recent rises in cases
+are due to localized outbreaks.
+
+### June 17, 2020: [USA by state](usa20200617/index.md)
+
+There are many states in the US which have relaxed their social distancing rules even though
+case numbers were constant or growing.
+
+To measure the effect of relaxed social distancing, a transition in the transmission rate was fixed
+to May 23, the Memorial long weekend.
+States with exponential growth on that day (&delta>0;) in case number show an infection trajectory
+in the hospitalizations with &delta; reduced by about 3%.
+This may be evidence for difference in spread for different age groups.
+
+### Possible future studies
 
 * Reporting noise, due to the process by which reports are collected, greatly affect the
 variation seen in daily case numbers. These have strong negative correlation between neighboring
@@ -85,5 +84,7 @@ The choice of the single additional parameter is studied.
 * Projections for growth resulting from relaxation of social distancing. Choose some
 transmission rates (corresponding to a fraction of R_0, or a multiple of R_now), and show
 the expectations. Consider the effect of contact tracing (included in reference model 2.)
+
+## [Archive of older studies](archive/index.md)
 
 ## [return to pyPM.ca documentation home page](../..)
