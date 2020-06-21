@@ -48,7 +48,7 @@ coastal|0.096|18|-0.061
 
 * bc* is the result from the [Canada wide study](../prov20200620) that
 used case numbers reported at the daily briefings.
-The changes in the BC data (with modified case dates) affects the estimate for R_0.
+The changes in the BC data (with modified case dates) affects the estimate for &delta;<sub>0</sub>.
 
 ## Infection status
 

@@ -109,7 +109,7 @@ The data fits were done using data up until June 17.
 
 ![mo](img/mo_2_3_0617.png)
 
-### [Mississippi]](img/ms_2_3_0617.pdf)
+### [Mississippi](img/ms_2_3_0617.pdf)
 
 ![ms](img/ms_2_3_0617.png)
 
@@ -221,7 +221,7 @@ These are shown for purposes of comparison.
 
 ### Daily fractional growth rates (&delta;)
 
-prov| &delta;<sub>0</sub> | day 1 | &delta;<sub>1</sub> | day 2 | &delta;<sub>2</sub> | day 3 | &delta;<sub>3</sub> | day 4 | &delta;<sub>4</sub> 
+state| &delta;<sub>0</sub> | day 1 | &delta;<sub>1</sub> | day 2 | &delta;<sub>2</sub> | day 3 | &delta;<sub>3</sub> | day 4 | &delta;<sub>4</sub> 
 ---|---|---|---|---|---|---|---|---|---
 AL|0.104 +/- 0.009|32|0.007 +/- 0.002|84|0.036 +/- 0.005
 AR|0.093 +/- 0.011|34|-0.067 +/- 0.010|84|0.055 +/- 0.007
@@ -242,7 +242,6 @@ KS|0.155 +/- 0.023|25|0.035 +/- 0.009|41|0.007 +/- 0.003|84|-0.032 +/- 0.011
 KY|0.235 +/- 0.011|22|0.058 +/- 0.007|40|0.004 +/- 0.005|84|0.009 +/- 0.011
 LA|0.273 +/- 0.016|26|-0.051 +/- 0.003|50|0.020 +/- 0.003|84|0.034 +/- 0.007
 MA|0.159 +/- 0.013|28|0.033 +/- 0.003|46|-0.027 +/- 0.001|84|-0.058 +/- 0.011
-MD
 ME|0.221 +/- 0.072|16|0.012 +/- 0.005|84|-0.022 +/- 0.021
 MI|0.121 +/- 0.004|20|-0.015 +/- 0.001|84|-0.095 +/- 0.007
 MO|0.207 +/- 0.016|25|-0.005 +/- 0.003|84|0.025 +/- 0.009
@@ -367,15 +366,11 @@ million.
 
 ![mi](img/mi-summary.png)
 
-### [Minnesota](img/mn-summary.pdf)
-
-![mn](img/mn-summary.png)
-
 ### [Missouri](img/mo-summary.pdf)
 
 ![mo](img/mo-summary.png)
 
-### [Mississippi]](img/ms-summary.pdf)
+### [Mississippi](img/ms-summary.pdf)
 
 ![ms](img/ms-summary.png)
 
