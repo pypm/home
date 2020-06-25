@@ -96,7 +96,7 @@ These are shown for purposes of comparison.
 ### daily growth/decline rates (&delta;)
 
 state| &delta;<sub>0</sub> | day 1 | &delta;<sub>1</sub> | day 2 | &delta;<sub>2</sub> | day 3 | &delta;<sub>3</sub>  
----|---|---|---|---|---|---
+---|---|---|---|---|---|---|---
 AC|0.076|72|-0.035
 AL|0.103|58|0.004
 AM|0.137|46|-0.033
