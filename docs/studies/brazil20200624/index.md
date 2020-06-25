@@ -5,6 +5,12 @@ The case data does not follow the expected steady state trajectories.
 Instead, the death data was fit, yielding, reasonable fits.
 The case data shows a faster growth rate than the death data.
 
+### Acre
+
+![ac](img/ac_2_3_0624_d.png)
+
+
+
 ## Tables
 
 The tables below are results from the fits to reference model 2.3.
