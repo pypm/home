@@ -9,6 +9,81 @@ The case data shows a faster growth rate than the death data.
 
 ![ac](img/ac_2_3_0624_d.png)
 
+### Alagoas
+
+![al](img/al_2_3_0624_d.png)
+
+### Amapa
+
+![ap](img/ap_2_3_0624_d.png)
+
+### Amazonas
+
+![am](img/am_2_3_0624_d.png)
+
+### Bahia
+
+![ba](img/ba_2_3_0624_d.png)
+
+### Ceara
+
+![ce](img/ce_2_3_0624_d.png)
+
+### Distrito Federal
+
+![df](img/df_2_3_0624_d.png)
+
+### Espirito Santo
+
+![es](img/es_2_3_0624_d.png)
+
+### Goias
+
+![go](img/go_2_3_0624_d.png)
+
+### Maranhao
+
+![ma](img/ma_2_3_0624_d.png)
+
+### Mato Grosso
+
+![mt](img/mt_2_3_0624_d.png)
+
+### Para
+
+![pa](img/pa_2_3_0624_d.png)
+
+### Paraiba
+
+![pb](img/pb_2_3_0624_d.png)
+
+### Parana
+
+![pr](img/pr_2_3_0624_d.png)
+
+### Pernambuco
+
+![pe](img/pe_2_3_0624_d.png)
+
+### Piaui
+
+![pi](img/pi_2_3_0624_d.png)
+
+### Rio de Janeiro
+
+![rj](img/rj_2_3_0624_d.png)
+
+### Rio Grande do Norte
+
+![rn](img/rn_2_3_0624_d.png)
+
+### Rio Grande do Sul
+
+![rs](img/rs_2_3_0624_d.png)
+
+### Sao Paulo
+
+![sp](img/sp_2_3_0624_d.png)
 
 
 ## Tables
