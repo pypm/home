@@ -7,83 +7,83 @@ The case data shows a faster growth rate than the death data.
 
 ### Acre
 
-![Acre](img/ac_2_3_0624_d.png)
+![ac](img/ac_2_3_0624_d.png)
 
 ### Alagoas
 
-![agoas](img/al_2_3_0624_d.png)
+![al](img/al_2_3_0624_d.png)
 
-### Amapá
+### Amapa
 
-![Amapá](img/ap_2_3_0624_d.png)
+![ap](img/ap_2_3_0624_d.png)
 
 ### Amazonas
 
-![zonas](img/am_2_3_0624_d.png)
+![am](img/am_2_3_0624_d.png)
 
 ### Bahia
 
-![Bahia](img/ba_2_3_0624_d.png)
+![ba](img/ba_2_3_0624_d.png)
 
-### Ceará
+### Ceara
 
-![Ceará](img/ce_2_3_0624_d.png)
+![ce](img/ce_2_3_0624_d.png)
 
 ### Distrito Federal
 
-![deral](img/df_2_3_0624_d.png)
+![df](img/df_2_3_0624_d.png)
 
 ### Espírito Santo
 
-![Santo](img/es_2_3_0624_d.png)
+![es](img/es_2_3_0624_d.png)
 
-### Goiás
+### Goias
 
-![Goiás](img/go_2_3_0624_d.png)
+![go](img/go_2_3_0624_d.png)
 
-### Maranhão
+### ma
 
-![anhão](img/ma_2_3_0624_d.png)
+![ma](img/ma_2_3_0624_d.png)
 
 ### Mato Grosso
 
-![rosso](img/mt_2_3_0624_d.png)
+![mt](img/mt_2_3_0624_d.png)
 
-### Pará
+### Para
 
-![Pará](img/pa_2_3_0624_d.png)
+![pa](img/pa_2_3_0624_d.png)
 
 ### Paraíba
 
-![raíba](img/pb_2_3_0624_d.png)
+![pb](img/pb_2_3_0624_d.png)
 
-### Paraná
+### Parana
 
-![araná](img/pr_2_3_0624_d.png)
+![pr](img/pr_2_3_0624_d.png)
 
 ### Pernambuco
 
-![mbuco](img/pe_2_3_0624_d.png)
+![pe](img/pe_2_3_0624_d.png)
 
 ### Piauí
 
-![Piauí](img/pi_2_3_0624_d.png)
+![pi](img/pi_2_3_0624_d.png)
 
 ### Rio de Janeiro
 
-![neiro](img/rj_2_3_0624_d.png)
+![rj](img/rj_2_3_0624_d.png)
 
 ### Rio Grande do Norte
 
-![Norte](img/rn_2_3_0624_d.png)
+![rn](img/rn_2_3_0624_d.png)
 
 ### Rio Grande do Sul
 
-![Sul](img/rs_2_3_0624_d.png)
+![rs](img/rs_2_3_0624_d.png)
 
-### São Paulo
+### Sao Paulo
 
-![Paulo](img/sp_2_3_0624_d.png)
+![sp](img/sp_2_3_0624_d.png)
 
 ### 
 
@@ -117,8 +117,6 @@ RJ|0.200|30|0.052|69|-0.042
 RN|0.058|80|-0.025
 RS|0.209|20|0.002|40|0.029
 SP|0.199|24|0.024|59|0.010
-
-
 
 ## [return to case studies](../index.md)
 

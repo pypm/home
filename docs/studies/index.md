@@ -13,6 +13,10 @@
 
 Click on the links in the titles below to see detailed results from the studies.
 
+### June 24, 2020: [Brazil states](brazil20200624/index.md)
+
+An initial study of Brazil data: fitting to death data only.
+
 ### June 20, 2020: [9 provinces](prov20200620/index.md)
 
 This is an update of the previous provincial analysis, now using data from March 1 - June 19.
