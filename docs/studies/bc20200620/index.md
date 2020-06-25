@@ -1,4 +1,4 @@
-## June 20, 2020 Analysis of BC regional data.
+## June 20, 2020 Analysis of BC regional data
 
 The following shows graphs followed by tables.
 All regional data are consistent with a single change in transmission rate
