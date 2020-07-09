@@ -13,6 +13,14 @@
 
 Click on the links in the titles below to see detailed results from the studies.
 
+### July 8, 2020: [USA by state](usa20200708/index.md)
+
+Almost all states are showing growth. To measure the effect of relaxed social distancing, a transition in the transmission rate was fixed
+to May 23, the Memorial long weekend.
+States generally show an infection trajectory
+in the hospitalizations with &delta; reduced by about 3% compared to the case growth rate.
+This may be evidence for difference in spread for different age groups.
+
 ### June 24, 2020: [Brazil states](brazil20200624/index.md)
 
 An initial study of Brazil data: fitting to death data only.
@@ -71,17 +79,6 @@ exponential growth, transition date: May 23.
 The state of Saxony-Anhalt has also recently seen a rapid rise in new cases.
 It is possible that these recent rises in cases
 are due to localized outbreaks.
-
-### June 17, 2020: [USA by state](usa20200617/index.md)
-
-There are many states in the US which have relaxed their social distancing rules even though
-case numbers were constant or growing.
-
-To measure the effect of relaxed social distancing, a transition in the transmission rate was fixed
-to May 23, the Memorial long weekend.
-States with exponential growth on that day (&delta>0;) in case number show an infection trajectory
-in the hospitalizations with &delta; reduced by about 3%.
-This may be evidence for difference in spread for different age groups.
 
 ### Possible future studies
 
