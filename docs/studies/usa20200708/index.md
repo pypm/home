@@ -5,16 +5,15 @@
 ![usa](img/usa_summary_0708.png)
 
 The histogram shows the daily cases for the 50 states and DC.
-The curve labelled "no change" shows the expected daily total cases by adding the expectations from all of the individual state
+The curve labelled "no change" shows the expected daily cases by adding the expectations from all of the individual state
 models fit to the state data, as shown below.
-The other curves shows the expected daily total cases, if transmission rates in each state changed to either April 15 or May 15
-values, with th change being made on July 8 or July 22.
+Also shown are projections, if measures are taken to reduce transmission rates, back to April 15 or May 15 levels,
+with the public policy change being made on July 8 or July 22.
 
 ## Individual state fits
 
-Below shows the case / hospitalization / deaths data for all 50 states and DC.
-The infection trajectory is determined by fits to the cumulative
-case data.
+The plots below show the case / hospitalization / deaths data for all 50 states and DC.
+The infection trajectory is determined by fits to the cumulative case data.
 For most states, case data can be well described by a constant transmission rate since Memorial day weekend (day 84).
 
 The red curves (contagious population) is the inferred contagious population.
