@@ -3,6 +3,17 @@
 Click on the links in the titles below to see detailed results from the studies.
 Note that these studies have been superceded by newer studies of the regions. These are kept for comparison.
 
+### June 17, 2020: [USA by state](usa20200617/index.md)
+
+There are many states in the US which have relaxed their social distancing rules even though
+case numbers were constant or growing.
+
+To measure the effect of relaxed social distancing, a transition in the transmission rate was fixed
+to May 23, the Memorial long weekend.
+States with exponential growth on that day (&delta>0;) in case number show an infection trajectory
+in the hospitalizations with &delta; reduced by about 3%.
+This may be evidence for difference in spread for different age groups.
+
 ### May 28, 2020: [9 provinces](prov20200528/index.md)
 
 The most sensitive indicator to detect changes in the spread of the virus is the daily number cases.
