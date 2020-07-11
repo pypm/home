@@ -37,7 +37,7 @@ The tables below are results from the fits to reference model 2.3.
 
 HA| &delta;<sub>0</sub> | day 1 | &delta;<sub>1</sub> | day 2 | &delta;<sub>2</sub> 
 ---|---|---|---|---|---
-bc*|0.187 +/- 0.030|16|-0.040 +/- 0.008|80|-0.011 +/- 0.024
+bc*|0.188 +/- 0.047|16|-0.041 +/- 0.006|80|-0.007 +/- 0.020
 bc|0.101 +/- 0.008|18|-0.027 +/- 0.007|80|0.008 +/- 0.019
 fraser|0.132 +/- 0.032|18|-0.014 +/- 0.005|80|-0.002 +/- 0.027
 interior|0.220|18|-0.081|70|0.023
@@ -47,7 +47,7 @@ coastal|0.086 +/- 0.022|18|-0.056 +/- 0.016|104|0.028 +/- 0.025
 * &delta;<sub>0</sub>: initial daily fractional growth parameter
 * day 1: days after March 1, 2020 when transmission rate changed
 
-* bc* is the result from the [Canada wide study](../prov20200620) that
+* bc* is the result from the [Canada wide study](../prov20200711) that
 used case numbers reported at the daily briefings.
 The changes in the BC data (with modified case dates) affects the estimate for &delta;<sub>0</sub>.
 
