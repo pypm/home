@@ -8,7 +8,7 @@ To download a pdf version of a plot, click on the title.
 The models and data used to produce these
 are available through the [ipypm](../../ipypm) user interface.
 
-### [BC](img/bcc_2_30711.pdf)
+### [BC](img/bcc_2_3_0711.pdf)
 
 The data is consistent with a single transition in the transmission rate and about 300 cases
 added in late April. The anomalous cases are seen in all health regions and is expected to be
@@ -21,9 +21,9 @@ this is apparently due to a small outbreak in Vancouver Coastal health region.
 See this [link](../bc20200711) to see a breakdown by health authority.
 The statistical analysis finds a large uncertainty for &delta; following May 19.
 
-![bcc](img/bcc_2_30711.png)
+![bcc](img/bcc_2_3_0711.png)
 
-### [Alberta](img/ab_2_30711.pdf)
+### [Alberta](img/ab_2_3_0711.pdf)
 
 The data is consistent with one change in transmission rate in mid March and 3 separate
 large outbreaks. These have been reported in the media to be due to meat packing plants.
@@ -38,9 +38,9 @@ cases from March.
 There is again growth in cases starting around May 20. The additional cases are from the
 Edmonton health region.
 
-![ab](img/ab_2_30711.png)
+![ab](img/ab_2_3_0711.png)
 
-### [Saskatchewan](img/sk_2_30711.pdf)
+### [Saskatchewan](img/sk_2_3_0711.pdf)
 
 The data is consistent with two transitions in transmission rates, one large outbreak
 reported in the media to be in far northern communities, and a second smaller
@@ -48,24 +48,24 @@ outbreak in early June (also in far northern communities).
 The data suggests that the first outbreak took place over a period of about 10 days.
 The second outbreak seen in the previous study (../archive/prov20200620) is confirmed.
 
-![sk](img/sk_2_30711.png)
+![sk](img/sk_2_3_0711.png)
 
-### [Manitoba](img/mb_2_30711.pdf)
+### [Manitoba](img/mb_2_3_0711.pdf)
 
 The data is consistent with one change to the transmission rate.
 Small deviations from exponential decline seen - used a reporting anomaly and an outbreak as
 examples.
 
-![mb](img/mb_2_30711.png)
+![mb](img/mb_2_3_0711.png)
 
-### [Ontario](img/on_2_30711.pdf)
+### [Ontario](img/on_2_3_0711.pdf)
 
 The data is consistent with 2 changes in tranmission rate. A third transition is added for May 19
 to measure the new transmission rate.
 
-![on](img/on_2_30711.png)
+![on](img/on_2_3_0711.png)
 
-### [Quebec](img/qc_2_30711.pdf)
+### [Quebec](img/qc_2_3_0711.pdf)
 
 Four changes in transmission rate are necessary to fit the data.
 A large backlog of case reports were released on May 3.
@@ -74,26 +74,26 @@ The best fit for the transition date is May 18.
 A fifth transition in transmission rate was added.
 The growth parameter has increased significantly.
 
-![qc](img/qc_2_30711.png)
+![qc](img/qc_2_3_0711.png)
 
-### [New Brunswick](img/nb_2_30711.pdf)
+### [New Brunswick](img/nb_2_3_0711.pdf)
 
 The data is consistent with two changes in transmission rates and
 outbreaks in late May (in Campbellton region).
 
-![nb](img/nb_2_30711.png)
+![nb](img/nb_2_3_0711.png)
 
-### [Newfoundland](img/nl_2_30711.pdf)
+### [Newfoundland](img/nl_2_3_0711.pdf)
 
 The data is consistent with one change in transmission rate.
 
-![nl](img/nl_2_30711.png)
+![nl](img/nl_2_3_0711.png)
 
-### [Nova Scotia](img/ns_2_30711.pdf)
+### [Nova Scotia](img/ns_2_3_0711.pdf)
 
 The data is consistent with two changes in transmission rates.
 
-![ns](img/ns_2_30711.png)
+![ns](img/ns_2_3_0711.png)
 
 ## Tables
 
