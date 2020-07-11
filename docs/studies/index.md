@@ -13,6 +13,33 @@
 
 Click on the links in the titles below to see detailed results from the studies.
 
+### July 11, 2020: [9 provinces](prov20200620/index.md)
+
+This is an update of the previous provincial analysis, now using data from March 1 - July 10.
+
+The ``pyPM.ca`` reference model 2.3 is used.
+For provinces with sufficient data, estimates are provided
+of new growth rates after relaxation measures.
+
+During the first part of March, testing policies were not yet fixed
+and fits do not include case numbers from that period.
+The [data](https://resources-covid19canada.hub.arcgis.com/datasets/provincial-daily-totals)
+is collected from daily reports from provinces by ESRI,
+and data prior to April 28 was collected by the now defunct virihealth.com.
+
+To characterize the observed case histories, it is necessary to include the following transitory
+effects:
+* changes to transmission rate: most notably starting in mid-March. For most provinces this is described
+sufficiently by a single transition
+* outbreaks: in Alberta and Saskatchewan large outbreaks have occured. These are accounted for by
+injecting batches of new infections, sufficient to account for the effect observed in the case data
+* reporting anomalies: Quebec released a large number of cases due to a backlog, and BC
+reported a change in test reporting policy on April 21. These are accounted for by
+injecting batches of additional positive test results.
+
+The agreement between the model and the provincial case data is quite good, considering
+the relatively small number of parameters used. Click on the link above to see the results.
+
 ### July 11, 2020: [BC health region](bc20200711/index.md)
 
 The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
@@ -38,33 +65,6 @@ This may be evidence for difference in spread for different age groups.
 ### June 24, 2020: [Brazil states](brazil20200624/index.md)
 
 An initial study of Brazil data: fitting to death data only.
-
-### June 20, 2020: [9 provinces](prov20200620/index.md)
-
-This is an update of the previous provincial analysis, now using data from March 1 - June 19.
-
-The ``pyPM.ca`` reference model 2.3 is used.
-For provinces with sufficient data, estimates are provided
-of new growth rates after relaxation measures.
-
-During the first part of March, testing policies were not yet fixed
-and fits do not include case numbers from that period.
-The [data](https://resources-covid19canada.hub.arcgis.com/datasets/provincial-daily-totals)
-is collected from daily reports from provinces by ESRI,
-and data prior to April 28 was collected by the now defunct virihealth.com.
-
-To characterize the observed case histories, it is necessary to include the following transitory
-effects:
-* changes to transmission rate: most notably starting in mid-March. For most provinces this is described
-sufficiently by a single transition
-* outbreaks: in Alberta and Saskatchewan large outbreaks have occured. These are accounted for by
-injecting batches of new infections, sufficient to account for the effect observed in the case data
-* reporting anomalies: Quebec released a large number of cases due to a backlog, and BC
-reported a change in test reporting policy on April 21. These are accounted for by
-injecting batches of additional positive test results.
-
-The agreement between the model and the provincial case data is quite good, considering
-the relatively small number of parameters used. Click on the link above to see the results.
 
 ### June 17, 2020: [16 German states](germany20200617/index.md)
 
