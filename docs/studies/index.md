@@ -13,7 +13,7 @@
 
 Click on the links in the titles below to see detailed results from the studies.
 
-### July 11, 2020: [9 provinces](prov20200620/index.md)
+### July 11, 2020: [9 provinces](prov20200711/index.md)
 
 This is an update of the previous provincial analysis, now using data from March 1 - July 10.
 
