@@ -13,6 +13,20 @@
 
 Click on the links in the titles below to see detailed results from the studies.
 
+### July 11, 2020: [BC health region](bc20200711/index.md)
+
+The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
+the number of cases each day, divided into sex, age, and health region.
+
+The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
+the dates assigned to each positive case. Sundays do not have zero cases in these data.
+
+All jusidictions see the same reporting anomaly the occured late April, all characterized by additional
+cases reports spread over a period centered on around April 21 with the spread having standard
+deviation of about 6 days.
+
+Due to low case numbers, the uncertainties on the current growth estimates remain large. Neither positive or negative growth can be ruled out.
+
 ### July 8, 2020: [USA by state](usa20200708/index.md)
 
 Almost all states are showing growth. To measure the effect of relaxed social distancing, a transition in the transmission rate was fixed
@@ -51,20 +65,6 @@ injecting batches of additional positive test results.
 
 The agreement between the model and the provincial case data is quite good, considering
 the relatively small number of parameters used. Click on the link above to see the results.
-
-### June 20, 2020: [BC health region](bc20200620/index.md)
-
-The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
-the number of cases each day, divided into sex, age, and health region.
-
-The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
-the dates assigned to each positive case. Sundays do not have zero cases in these data.
-
-All jusidictions see the same reporting anomaly the occured late April, all characterized by additional
-cases reports spread over a period centered on around April 21 with the spread having standard
-deviation of about 6 days.
-
-Vancouver Coastal has an increase in cases in early June.
 
 ### June 17, 2020: [16 German states](germany20200617/index.md)
 

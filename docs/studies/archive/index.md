@@ -3,6 +3,20 @@
 Click on the links in the titles below to see detailed results from the studies.
 Note that these studies have been superceded by newer studies of the regions. These are kept for comparison.
 
+### June 20, 2020: [BC health region](bc20200620/index.md)
+
+The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
+the number of cases each day, divided into sex, age, and health region.
+
+The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
+the dates assigned to each positive case. Sundays do not have zero cases in these data.
+
+All jusidictions see the same reporting anomaly the occured late April, all characterized by additional
+cases reports spread over a period centered on around April 21 with the spread having standard
+deviation of about 6 days.
+
+Vancouver Coastal has an increase in cases in early June.
+
 ### June 17, 2020: [USA by state](usa20200617/index.md)
 
 There are many states in the US which have relaxed their social distancing rules even though
