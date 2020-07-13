@@ -44,6 +44,20 @@ deviation of about 6 days.
 
 Vancouver Coastal has an increase in cases in early June.
 
+### June 17, 2020: [16 German states](germany20200617/index.md)
+
+There is remarkable consistency across the 16 German states for data between March 1 and June 10.
+The lockdown measures came into force on March 22 and the relaxation on May 6.
+A transition on May 6 was forced to measure the new transmission rate after that date.
+The growth and decline are very similar in each state, and there is no significant
+increase in spread following May 6.
+
+**Update June 20:** By including data through June 19, it appears that Berlin is experiencing
+exponential growth, transition date: May 23.
+The state of Saxony-Anhalt has also recently seen a rapid rise in new cases.
+It is possible that these recent rises in cases
+are due to localized outbreaks.
+
 ### June 17, 2020: [USA by state](usa20200617/index.md)
 
 There are many states in the US which have relaxed their social distancing rules even though

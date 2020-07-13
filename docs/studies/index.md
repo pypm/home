@@ -62,23 +62,17 @@ States generally show an infection trajectory
 in the hospitalizations with &delta; reduced by about 3% compared to the case growth rate.
 This may be evidence for difference in spread for different age groups.
 
+### June 25, 2020: [13 German states](germany20200625/index.md)
+
+This study was used to demonstrate the methods to characterize the spread of CoViD-19 in the paper shown at the top of this page.
+Data from 13 states that reported at lease 2000 cases by the end of June 2020 were included.
+This is an excellent sample for confirming the statistical treatment, since all the states were subject to the same
+public health measures and testing policies.
+For more information about the findings, please refer to the paper.
+
 ### June 24, 2020: [Brazil states](brazil20200624/index.md)
 
 An initial study of Brazil data: fitting to death data only.
-
-### June 17, 2020: [16 German states](germany20200617/index.md)
-
-There is remarkable consistency across the 16 German states for data between March 1 and June 10.
-The lockdown measures came into force on March 22 and the relaxation on May 6.
-A transition on May 6 was forced to measure the new transmission rate after that date.
-The growth and decline are very similar in each state, and there is no significant
-increase in spread following May 6.
-
-**Update June 20:** By including data through June 19, it appears that Berlin is experiencing
-exponential growth, transition date: May 23.
-The state of Saxony-Anhalt has also recently seen a rapid rise in new cases.
-It is possible that these recent rises in cases
-are due to localized outbreaks.
 
 ### Possible future studies
 
