@@ -13,23 +13,23 @@ Following are tables and figures comparing the different states as well
 as the infection status plots, that summarize the growth and size of the epidemic.
 PDF versions of plots are available by clicking on the titles
 
-### [Baden-Warttemberg](img/bw_2_3_0617.pdf)
+### [Baden-Warttemberg](img/bw_2_3_0625.pdf)
 
-![bw](img/bw_2_3_0617.png)
+![bw](img/bw_2_3_0625.png)
 
-### [Bavaria](img/by_2_3_0617.pdf)
+### [Bavaria](img/by_2_3_0625.pdf)
 
-![by](img/by_2_3_0617.png)
+![by](img/by_2_3_0625.png)
 
-### [Berlin](img/be_2_3_0617.pdf)
+### [Berlin](img/be_2_3_0625.pdf)
 
-![be](img/be_2_3_0617.png)
+![be](img/be_2_3_0625.png)
 
-### [Brandenburg](img/bb_2_3_0617.pdf)
+### [Brandenburg](img/bb_2_3_0625.pdf)
 
-![bb](img/bb_2_3_0617.png)
+![bb](img/bb_2_3_0625.png)
 
-### [Hamburg](img/hh_2_3_0617.pdf)
+### [Hamburg](img/hh_2_3_0625.pdf)
 
 ![hh](img/hh_2_3_0625.png)
 
