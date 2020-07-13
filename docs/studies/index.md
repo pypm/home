@@ -2,7 +2,7 @@
 
 ## Reports
 
-* Paper: [Characterizing the spread of CoViD-19](reports/Characterizing_the_spread_of_CoViD_19_20200621.pdf), D. Karlen, June 21, 2020.
+* Paper: [Characterizing the spread of CoViD-19](reports/Characterizing_spread.pdf), D. Karlen, July 13, 2020.
     * introduces the pypm framework and describes methods to define comparitive statistics with weak model dependence
     and estimate their uncertainties
 
