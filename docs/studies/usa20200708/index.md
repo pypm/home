@@ -1,15 +1,21 @@
 ## July 8, 2020 Analysis of USA state data
 
-## [Summary](img/usa_summary_0710.pdf)
+## [Summary](img/usa_summary_0721.pdf)
 
-![usa](img/usa_summary_0710.png)
+![usa](img/usa_summary_0721.png)
 
 The histogram shows the daily cases for the 50 states and DC.
 The curve labelled "no change" shows the expected daily cases by adding the expectations from all of the individual state
 models fit to the state data, as shown below.
 Also shown are projections, if measures are taken to reduce transmission rates, back to April 15 or May 15 levels,
-with the public policy change being made on July 8 or July 22.
-Model fits use data March 1 - July 7. Data update (summary only): July 10.
+with the public policy change being made on July 22 or August 1.
+Model fits use data March 1 - July 19.
+
+## [Summary - deaths](img/usa_summary_deaths_0721.pdf)
+
+![usa](img/usa_summary_deaths_0721.png)
+
+The histogram shows daily deaths for the 50 states and DC and follows the same assumptions as the previous figure.
 
 ## Individual state fits
 
