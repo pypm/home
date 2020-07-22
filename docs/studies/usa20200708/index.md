@@ -11,11 +11,6 @@ Also shown are projections, if measures are taken to reduce transmission rates, 
 with the public policy change being made on July 22 or August 1.
 Model fits use data March 1 - July 19.
 
-## [Summary - deaths](img/usa_summary_deaths_0721.pdf)
-
-![usa](img/usa_summary_deaths_0721.png)
-
-The histogram shows daily deaths for the 50 states and DC and follows the same assumptions as the previous figure.
 
 ## Individual state fits
 
