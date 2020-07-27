@@ -34,6 +34,13 @@ average age for positive cases is decreasing.
 The data fits were done using data up until July 24. The fits were made only to cases: no attempt to
 adjust the other indicators for this analysis.
 
+The left figures show the daily cases on a linear scale. The points are the data, the stars show the
+weekly average, and the curve is the fit of the model to the case data.
+
+The right figures show the cumulative cases and other indicators on a log scale. During periods
+of constant transmission rate (shown by constant shading) the trajectory is exponential, which
+is a straight line on a log-scale plot.
+
 ### [Alaska](img/ak_2_3_0724.pdf)
 
 ![ak](img/ak_2_3_0724.png)
