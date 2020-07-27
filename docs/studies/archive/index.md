@@ -3,6 +3,14 @@
 Click on the links in the titles below to see detailed results from the studies.
 Note that these studies have been superceded by newer studies of the regions. These are kept for comparison.
 
+### July 8, 2020: [USA by state](usa20200708/index.md)
+
+Almost all states are showing growth. To measure the effect of relaxed social distancing, a transition in the transmission rate was fixed
+to May 23, the Memorial long weekend.
+States generally show an infection trajectory
+in the hospitalizations with &delta; reduced by about 3% compared to the case growth rate.
+This may be evidence for difference in spread for different age groups.
+
 ### June 20, 2020: [9 provinces](prov20200620/index.md)
 
 This is an update of the previous provincial analysis, now using data from March 1 - June 19.

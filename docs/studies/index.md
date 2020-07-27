@@ -13,6 +13,11 @@
 
 Click on the links in the titles below to see detailed results from the studies.
 
+### July 24, 2020: [USA by state](usa20200724/index.md)
+
+Almost all states are showing rapid growth.
+Also included is a summary of cases and deaths, including a forecast under three scenarios.
+
 ### July 19, 2020: [BC health region](bc20200719/index.md)
 
 The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
@@ -55,14 +60,6 @@ injecting batches of additional positive test results.
 
 The agreement between the model and the provincial case data is quite good, considering
 the relatively small number of parameters used. Click on the link above to see the results.
-
-### July 8, 2020: [USA by state](usa20200708/index.md)
-
-Almost all states are showing growth. To measure the effect of relaxed social distancing, a transition in the transmission rate was fixed
-to May 23, the Memorial long weekend.
-States generally show an infection trajectory
-in the hospitalizations with &delta; reduced by about 3% compared to the case growth rate.
-This may be evidence for difference in spread for different age groups.
 
 ### June 25, 2020: [13 German states](germany20200625/index.md)
 
