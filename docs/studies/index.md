@@ -13,19 +13,19 @@
 
 Click on the links in the titles below to see detailed results from the studies.
 
+### July 31, 2020: [USA by state](usa20200731/index.md)
+
+Most states continue to show growth in daily cases.
+Some states have slowed the case growth, but hospitalization and deaths
+are rising.
+A summary of total US cases and deaths is shown,
+including a forecast under three scenarios.
+
 ### July 29, 2020: [California by age](california20200729/index.md)
 
 California provides daily case and death data by age group.
 This provides useful data
 to study how to model a non-homogenous population.
-
-### July 24, 2020: [USA by state](usa20200724/index.md)
-
-Almost all states are showing growth in daily cases.
-Some states have slowed the case growth, but hospitalization and deaths
-are rising.
-A summary of total US cases and deaths is shown,
-including a forecast under three scenarios.
 
 ### July 19, 2020: [BC health region](bc20200719/index.md)
 
