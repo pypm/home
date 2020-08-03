@@ -13,6 +13,16 @@
 
 Click on the links in the titles below to see detailed results from the studies.
 
+### August 3, 2020: [BC health region](bc20200803/index.md)
+
+The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
+the number of cases each day, divided into sex, age, and health region.
+The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
+the dates assigned to each positive case. Sundays do not have zero cases in these data.
+
+Localized outbreaks seen in Interior and Vancouver Coastal health regions. As a whole it appears that
+growth is positive, but the number of cases remains low, compared to other provinces and US states.
+
 ### July 31, 2020: [USA by state](usa20200731/index.md)
 
 Most states continue to show growth in daily cases.
@@ -26,22 +36,6 @@ including a forecast under three scenarios.
 California provides daily case and death data by age group.
 This provides useful data
 to study how to model a non-homogenous population.
-
-### July 19, 2020: [BC health region](bc20200719/index.md)
-
-The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
-the number of cases each day, divided into sex, age, and health region.
-
-The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
-the dates assigned to each positive case. Sundays do not have zero cases in these data.
-
-All jusidictions see the same reporting anomaly the occured late April, all characterized by additional
-cases reports spread over a period centered on around April 21 with the spread having standard
-deviation of about 6 days.
-
-Due to low case numbers, the uncertainties on the current growth estimates remain large.
-Neither positive or negative growth can be ruled out.
-Localized outbreaks in Vancouver Coastal and the Interior further complicate the growth estimates.
 
 ### July 11, 2020: [9 provinces](prov20200711/index.md)
 
