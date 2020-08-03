@@ -20,6 +20,33 @@ Neither positive or negative growth can be ruled out.
 Localized outbreaks in Vancouver Coastal and the Interior further complicate the growth estimates.
 A transition was forced on day 80 to measure the effect of relaxing social distancing rules on that date.
 
+### July 11, 2020: [9 provinces](prov20200711/index.md)
+
+This is an update of the previous provincial analysis, using data from March 1 - July 10.
+
+The ``pyPM.ca`` reference model 2.3 is used.
+For provinces with sufficient data, estimates are provided
+of new growth rates after relaxation measures.
+
+During the first part of March, testing policies were not yet fixed
+and fits do not include case numbers from that period.
+The [data](https://resources-covid19canada.hub.arcgis.com/datasets/provincial-daily-totals)
+is collected from daily reports from provinces by ESRI,
+and data prior to April 28 was collected by the now defunct virihealth.com.
+
+To characterize the observed case histories, it is necessary to include the following transitory
+effects:
+* changes to transmission rate: most notably starting in mid-March. For most provinces this is described
+sufficiently by a single transition
+* outbreaks: in Alberta and Saskatchewan large outbreaks have occured. These are accounted for by
+injecting batches of new infections, sufficient to account for the effect observed in the case data
+* reporting anomalies: Quebec released a large number of cases due to a backlog, and BC
+reported a change in test reporting policy on April 21. These are accounted for by
+injecting batches of additional positive test results.
+
+The agreement between the model and the provincial case data is quite good, considering
+the relatively small number of parameters used. Click on the link above to see the results.
+
 ### July 8, 2020: [USA by state](usa20200708/index.md)
 
 Almost all states are showing growth. To measure the effect of relaxed social distancing, a transition in the transmission rate was fixed
