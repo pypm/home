@@ -13,6 +13,12 @@
 
 Click on the links in the titles below to see detailed results from the studies.
 
+### August 9, 2020: [USA by state](usa20200809/index.md)
+
+While most states continue to show growth in daily cases, many states have reduced growth over the past few weeks.
+Cases, hospitalizations and deaths are stabalizing overall.
+A summary of total US cases and deaths is shown along with a forecast that assumes no change to current practice.
+
 ### August 3, 2020: [9 provinces](prov20200803/index.md)
 
 This is an update of the previous provincial analysis, now using data from March 1 - August 2.
@@ -39,14 +45,6 @@ the dates assigned to each positive case. Sundays do not have zero cases in thes
 
 Localized outbreaks seen in Interior and Vancouver Coastal health regions. As a whole it appears that
 growth is positive, but the number of cases remains low, compared to other provinces and US states.
-
-### July 31, 2020: [USA by state](usa20200731/index.md)
-
-Most states continue to show growth in daily cases.
-Some states have slowed the case growth, but hospitalization and deaths
-are rising.
-A summary of total US cases and deaths is shown,
-including a forecast under three scenarios.
 
 ### July 29, 2020: [California by age](california20200729/index.md)
 
