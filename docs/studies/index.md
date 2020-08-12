@@ -19,6 +19,12 @@ While most states continue to show growth in daily cases, many states have reduc
 Cases, hospitalizations and deaths are stabalizing overall.
 A summary of total US cases and deaths is shown along with a forecast that assumes no change to current practice.
 
+[![uc](usa_uc_2020-08-09.png)](usa_uc_2020-08-09.gif)
+
+Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
+fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
+corresponds to a factor of 10 in the contagious fraction. The above image is from July 4.
+
 ### August 3, 2020: [9 provinces](prov20200803/index.md)
 
 This is an update of the previous provincial analysis, now using data from March 1 - August 2.
