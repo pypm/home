@@ -11,7 +11,7 @@
 
 ## Case studies
 
-Click on the links in the titles below to see detailed results from the studies.
+Click on the titles below to see detailed results from the studies.
 
 ### August 9, 2020: [USA by state](usa20200809/index.md)
 
