@@ -24,7 +24,7 @@ than would be found if the localized outbreaks were modelled as such.
 ### [Interior](img/interior_2_3_0816.pdf)
 
 The spike in cases fit to have occured on day 121, is due to the Kelowna outbreak (attributed to Canada Day events).
-It is difficult to estimate the size of the outbreak until the case numbers are seen to fall again.
+A total of about 200 infections are injected in the model that day in order to fit the data.
 
 ![interior](img/interior_2_3_0816.png)
 
