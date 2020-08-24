@@ -13,6 +13,17 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### August 24, 2020: [BC health region](bc20200824/index.md)
+
+The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
+the number of cases each day, divided into sex, age, and health region.
+The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
+the dates assigned to each positive case. Sundays do not have zero cases in these data.
+
+Localized outbreaks seen in Interior and Vancouver Coastal health regions. As a whole it appears that
+growth is positive.
+Models are fit to data broken down by age groups.
+
 ### August 23, 2020: [USA by state](usa20200823/index.md)
 
 Many states have reduced growth over the past few weeks and
@@ -24,16 +35,6 @@ A summary of total US cases and deaths is shown along with a forecast that assum
 Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above image is the snapshot for July 4.
-
-### August 16, 2020: [BC health region](bc20200816/index.md)
-
-The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
-the number of cases each day, divided into sex, age, and health region.
-The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
-the dates assigned to each positive case. Sundays do not have zero cases in these data.
-
-Localized outbreaks seen in Interior and Vancouver Coastal health regions. As a whole it appears that
-growth is positive, but the number of cases remains low, compared to other provinces and US states.
 
 ### August 16, 2020: [9 provinces](prov20200816/index.md)
 
