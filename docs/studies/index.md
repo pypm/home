@@ -25,6 +25,11 @@ Click on the above image to see a time lapse animation of how COVID-19 spread th
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for July 4.
 
+### September 6, 2020: [California by age](california20200906/index.md)
+
+California provides daily case and death data by age group.
+This provides useful data to study how to model a non-homogenous population.
+
 ### August 24, 2020: [BC health region](bc20200824/index.md)
 
 The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
@@ -52,12 +57,6 @@ injecting batches of additional positive test results.
 
 The agreement between the model and the provincial case data is good, considering
 the relatively small number of parameters used. Click on the link above to see the results.
-
-### July 29, 2020: [California by age](california20200729/index.md)
-
-California provides daily case and death data by age group.
-This provides useful data
-to study how to model a non-homogenous population.
 
 ### June 25, 2020: [13 German states](germany20200625/index.md)
 
