@@ -19,16 +19,21 @@ The other transition dates were fit for each age group.
 
 ### [Under 18](img/caunder18_2_3_0906.pdf)
 
-No deaths are reported in this group.
-This group had the largest growth rate during the lockdown phase.
+Very few deaths are reported in this group.
+There were very few cases reported in March, and after lockdown, 4% growth was seen,
+unlike for the other age groups, where growth declined to less than 1% after lockdown.
+After relaxation of lockdown rules, the growth in this group was similar to the other age groups.
+The unusual growth pattern might be explained by undersampling of this group in March.
 
 ![under18](img/caunder18_2_3_0906.png)
 
 
 ### [18-49](img/ca18to49_2_3_0906.pdf)
 
-This group had the largest growth rate (about 4% per day) following relaxation of social distancing rules.
-The other groups grew at 2.5%-3% per day.
+This group had the largest growth rate (about 3.6% per day) following relaxation of social distancing rules.
+The other groups grew at about 3.2% per day. The growth phase for this group lasted 58 days compared to 51 for the
+next older age group. Combining these factors, the overall growth in this group was 56% larger than the growth in
+the next older age group for the growth period following relaxation.
 
 ![18-49](img/ca18to49_2_3_0906.png)
 
@@ -53,10 +58,10 @@ The tables below are results from the fits to reference model 2.3.
 
 group| &delta;<sub>0</sub> | day 1 | &delta;<sub>1</sub> | day 2 | &delta;<sub>2</sub> | day 3 | &delta;<sub>3</sub>  
 ---|---|---|---|---|---|---
-0-17|24.3|27|4.3|65|3.3|132|-0.8
+0-17| - |27|4.0 +/- 0.9|65|3.2 +/- 0.1|132|-0.8 +/- 0.1
 18-49|25.0 +/- 0.6|27|0.6 +/- 0.2|72|3.6 +/- 0.1|130|-1.3 +/- 0.1
 50-64|25.3 +/- 1.3|27|0.0 +/- 0.3|80|3.2 +/- 0.1|131|-1.1 +/- 0.2
-65+|25.3 +/- 1.3|27|-0.2 +/- 0.2|92|3.0 +/- 0.3|130|-0.7 +/- 0.1
+65+|24.9 +/- 0.8|27|-0.2 +/- 0.1|92|3.0 +/- 0.1|130|-0.7 +/- 0.1
 
 * &delta;<sub>0</sub>: initial daily fractional growth parameter (in percent)
 * day 1: days after March 1, 2020 when transmission rate changed
@@ -70,11 +75,11 @@ group| death fraction (%) | mean death delay | death delay sigma
 50-64|1.3 +/- 0.3|23.6 +/- 2.0|13.3 +/- 3.7
 65+|9.6 +/- 1.2|24.3 +/- 2.7|19.4 +/- 3.6
 
-* death fraction: fraction of those infected in this group who die. Note that the total number infected is not
-well known, so this is only useful as a relative indicator.
+* death fraction: fraction of those infected in this age group who die. Note that the total number infected is not
+well known (since the fraction of those infected who are tested is not known), so this is only useful as a relative indicator.
 * mean death delay: mean time between becoming infectious and death (days). These are similar to
 the delays estimated from German state data (18.4 days).
-* death delay sigma: also similar to values estimate from German state data (8.4 days)
+* death delay sigma: also similar to values estimated from German state data (8.4 days)
 
 ## Infection status
 
