@@ -13,17 +13,7 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### September 11, 2020: [BC health region](bc20200911/index.md)
-
-The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
-the number of cases each day, divided into sex, age, and health region.
-The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
-the dates assigned to each positive case. Sundays do not have zero cases in these data.
-
-Localized outbreaks seen in Interior, Fraser, and Vancouver Coastal health regions.
-Models are fit to data broken down by age groups.
-
-### September 6, 2020: [USA by state](usa20200906/index.md)
+### September 13, 2020: [USA by state](usa20200913/index.md)
 
 Many states have reduced growth over the past few weeks and
 cases, hospitalizations and deaths are stabalizing overall.
@@ -34,6 +24,16 @@ A summary of total US cases and deaths is shown along with a forecast that assum
 Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for July 4.
+
+### September 11, 2020: [BC health region](bc20200911/index.md)
+
+The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
+the number of cases each day, divided into sex, age, and health region.
+The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
+the dates assigned to each positive case. Sundays do not have zero cases in these data.
+
+Localized outbreaks seen in Interior, Fraser, and Vancouver Coastal health regions.
+Models are fit to data broken down by age groups.
 
 ### September 6, 2020: [California by age](california20200906/index.md)
 
