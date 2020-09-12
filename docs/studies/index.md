@@ -13,6 +13,16 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### September 11, 2020: [BC health region](bc20200911/index.md)
+
+The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
+the number of cases each day, divided into sex, age, and health region.
+The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
+the dates assigned to each positive case. Sundays do not have zero cases in these data.
+
+Localized outbreaks seen in Interior, Fraser, and Vancouver Coastal health regions.
+Models are fit to data broken down by age groups.
+
 ### September 6, 2020: [USA by state](usa20200906/index.md)
 
 Many states have reduced growth over the past few weeks and
@@ -29,17 +39,6 @@ corresponds to a factor of 10 in the contagious fraction. The above still image 
 
 California provides daily case and death data by age group.
 This provides useful data to study how to model a non-homogenous population.
-
-### August 24, 2020: [BC health region](bc20200824/index.md)
-
-The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
-the number of cases each day, divided into sex, age, and health region.
-The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
-the dates assigned to each positive case. Sundays do not have zero cases in these data.
-
-Localized outbreaks seen in Interior and Vancouver Coastal health regions. As a whole it appears that
-growth is positive.
-Models are fit to data broken down by age groups.
 
 ### August 16, 2020: [9 provinces](prov20200816/index.md)
 
