@@ -52,6 +52,10 @@ injecting batches of additional positive test results.
 The agreement between the model and the provincial case data is good, considering
 the relatively small number of parameters used. Click on the link above to see the results.
 
+A summary of the infection status is illustrated below. Click on the link above for larger versions of these figures.
+
+[![canada](canada-sept2020.png)](canada-sept2020.png)
+
 ### September 6, 2020: [California by age](california20200906/index.md)
 
 California provides daily case and death data by age group.

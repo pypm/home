@@ -10,47 +10,60 @@ are available through the [ipypm](../../ipypm) user interface.
 
 ### [BC](img/bcc_2_3_0911.pdf)
 
-The data is consistent with a single transition in the transmission rate and about 300 cases
-added in late April. The anomalous cases are seen in all health regions and are
+A model with two transitions in the transmission rate. Growth has continued for the past
+several months at about 2.5% per day.
+Daily case counts are at the highest level of the epidemic.
+Contact tracing in recent months may be resulting in a larger fraction of infected individuals being tested.
+
+About 300 cases are added in late April: Theses anomalous cases are seen in all health regions and are
 due to a change in test/reporting policy.
+
+Note that this data are from the uncorrected weekday reports.
+A better analysis [here](../bc20200911) uses corrected data (including Saturday and Sunday numbers) and shows
+the breakdowns by health region and age groups.
+That data more clearly shows localized outbreaks in some of the regions and age groups, and those outbreaks are
+included in the models used to fit that data.
 
 ![bcc](img/bcc_2_3_0911.png)
 
 ### [Alberta](img/ab_2_3_0911.pdf)
 
-The data is consistent with one change in transmission rate in mid March and 3 separate
+The data is fit with a model that includes 3 outbreaks in March/April (meat packing plants).
+Only two parameters are used to characterize each outbreak: date and number of infections.
+
+consistent with one change in transmission rate in mid March and 3 separate
 large outbreaks. These have been reported in the media to be due to meat packing plants.
 The data is consistent with each outbreaks taking place over a very short period of time.
-Only two parameters are used to characterize each outbreak: date and number of infections.
-The shapes of the case (and contagious populations) are outcomes of the other model parameters
-which were not tuned.
+The growth and decline in June/July is modelled by transitions in transmission rates.
+The current growth rate is estimated to be about 3% per day.
 
-The hospitalization and death rates from these outbreaks appear to be smaller than the
-cases from March.
+The growth/decline trends in hospitalization show transitions that follow somewhat the rises
+and falls predicted by the model (hospitalization parameters not adjusted).
 
 ![ab](img/ab_2_3_0911.png)
 
 ### [Saskatchewan](img/sk_2_3_0911.pdf)
 
-The data is consistent with two transitions in transmission rates, three outbreaks
-(the first two from far northern communities).
-The data suggests that the first outbreak took place over a period of about 10 days.
-The second outbreak seen in the previous study (../archive/prov20200620) is confirmed.
+Following initial rapid growth in mid-March and decline after lockdown measures,
+there have been several outbreaks (some of these being in the far northern communities).
+Peaks in hospitalization occur at roughly the expected times from the model (no adjustment of hospitalization parameters).
+Throughout the period the general community transmission rate appears to be low.
 
 ![sk](img/sk_2_3_0911.png)
 
 ### [Manitoba](img/mb_2_3_0911.pdf)
 
-The data is consistent with one change to the transmission rate.
-Small deviations from exponential decline seen - used a reporting anomaly and an outbreak as
-examples.
+Following initial rapid growth in mid-March and decline after lockdown measures,
+community transmission appears to have remained low, until July.
+The daily case rates have since declined, dropping at 5+/3 % per day.
 
 ![mb](img/mb_2_3_0911.png)
 
 ### [Ontario](img/on_2_3_0911.pdf)
 
-The data is consistent with 2 changes in tranmission rate. A third transition is added for May 19
-to measure the new transmission rate.
+Community transmission declined enough by mid April to allow the infection rate to decline.
+A reporting anomaly is added to the model for the broad bump in daily cases in May.
+It appears that transmission has increased starting in mid-August, leading to growth in infections of about 4+/-1% per day.
 
 ![on](img/on_2_3_0911.png)
 
@@ -58,17 +71,16 @@ to measure the new transmission rate.
 
 Six changes in transmission rate are necessary to fit the data.
 A large backlog of case reports were released on May 3.
-A significant reduction in transmission in May.
-The best fit for the transition date is May 18.
-A fifth transition in transmission rate was added and
-the growth parameter has increased significantly.
+A significant reduction in transmission was seen starting on May 18.
+Growth followed by decline was seen mid-June through mid-August.
+Just as in Ontario, transmission starting in mid-August has led to growth in infections, but at 6+/-1% per day.
 
 ![qc](img/qc_2_3_0911.png)
 
 ### [New Brunswick](img/nb_2_3_0911.pdf)
 
 The data is consistent with two changes in transmission rates and
-outbreaks in late May (in Campbellton region).
+outbreaks in late May (in Campbellton region) and August (Moncton/Fredricton).
 
 ![nb](img/nb_2_3_0911.png)
 
@@ -80,7 +92,7 @@ The data is consistent with one change in transmission rate.
 
 ### [Nova Scotia](img/ns_2_3_0911.pdf)
 
-The data is consistent with two changes in transmission rates.
+The data is consistent with three changes in transmission rates.
 
 ![ns](img/ns_2_3_0911.png)
 
@@ -90,7 +102,7 @@ The tables below are results from the fits to reference model 2.3.
 
 ### Daily fractional growth rates (&delta;)
 
-prov| &delta;<sub>0</sub> | day 1 | &delta;<sub>1</sub> | day 2 | &delta;<sub>2</sub> | day 3 | &delta;<sub>3</sub> | day 4 | &delta;<sub>4</sub> | day 5 | &delta;<sub>5</sub> 
+prov| &delta;<sub>0</sub> | day 1 | &delta;<sub>1</sub> | day 2 | &delta;<sub>2</sub> | day 3 | &delta;<sub>3</sub> | day 4 | &delta;<sub>4</sub> | day 5 | &delta;<sub>5</sub> | day 6 | &delta;<sub>6</sub> 
 ---|---|---|---|---|---|---|---|---|---|---|---
 bcc|19.5 +/- 4.3|16|-4.5 +/- 0.7|88|2.5 +/- 1.5
 bc*|10.6 +/- 1.1|18|-2.4 +/- 0.8|92|2.6 +/- 0.8
