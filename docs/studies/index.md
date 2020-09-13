@@ -35,14 +35,9 @@ the dates assigned to each positive case. Sundays do not have zero cases in thes
 Localized outbreaks seen in Interior, Fraser, and Vancouver Coastal health regions.
 Models are fit to data broken down by age groups.
 
-### September 6, 2020: [California by age](california20200906/index.md)
+### September 11, 2020: [9 provinces](prov20200911/index.md)
 
-California provides daily case and death data by age group.
-This provides useful data to study how to model a non-homogenous population.
-
-### August 16, 2020: [9 provinces](prov20200816/index.md)
-
-This is an update of the previous provincial analysis, now using data from March 1 - August 15.
+This is an update of the previous provincial analysis, now using data from March 1 - September 10.
 
 To characterize the observed case histories, it is necessary to include the following transitory
 effects:
@@ -56,6 +51,11 @@ injecting batches of additional positive test results.
 
 The agreement between the model and the provincial case data is good, considering
 the relatively small number of parameters used. Click on the link above to see the results.
+
+### September 6, 2020: [California by age](california20200906/index.md)
+
+California provides daily case and death data by age group.
+This provides useful data to study how to model a non-homogenous population.
 
 ### June 25, 2020: [13 German states](germany20200625/index.md)
 
