@@ -24,11 +24,11 @@ Localized outbreaks seen in Interior, Fraser, and Vancouver Coastal health regio
 
 ### September 13, 2020: [USA by state](usa20200913/index.md)
 
-Many states have reduced growth over the past few weeks and
-cases, hospitalizations and deaths are stabalizing overall.
+Many states have declining daily cases over the past several weeks and
+hospitalizations and deaths are stabalizing overall.
 A summary of total US cases and deaths is shown along with a forecast that assumes no change to current practice.
 
-[![uc](usa_uc_2020-08-09.png)](usa_uc_2020-08-09.gif)
+[![uc](usa_uc_2020-09-27.png)](usa_uc_2020-08-09.gif)
 
 Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
