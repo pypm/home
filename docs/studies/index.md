@@ -19,24 +19,15 @@ Many states have declining daily cases over the past several weeks and
 hospitalizations and deaths are stabalizing overall.
 A summary of total US cases and deaths is shown along with a forecast that assumes no change to current practice.
 
-[![uc](usa_uc_2020-09-27.png)](usa_uc_2020-08-09.gif)
+[![uc](usa_uc_2020-08-09.png)](usa_uc_2020-09-27.gif)
 
 Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for July 4.
 
-### September 29, 2020: [BC health region](bc20200929/index.md)
+### October 4, 2020: [9 provinces](prov20201004/index.md)
 
-The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
-the number of cases each day, divided into sex, age, and health region.
-The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
-the dates assigned to each positive case.
-
-Localized outbreaks seen in Interior, Fraser, and Vancouver Coastal health regions.
-
-### September 11, 2020: [9 provinces](prov20200911/index.md)
-
-This is an update of the previous provincial analysis, now using data from March 1 - September 10.
+This is an update of the previous provincial analysis, now using data from March 1 - October 3.
 
 To characterize the observed case histories, it is necessary to include the following transitory
 effects:
@@ -54,6 +45,15 @@ the relatively small number of parameters used. Click on the link above to see t
 A summary of the infection status is illustrated below. Click on the link above for larger versions of these figures.
 
 [![canada](canada-sept2020.png)](canada-sept2020.png)
+
+### September 29, 2020: [BC health region](bc20200929/index.md)
+
+The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
+the number of cases each day, divided into sex, age, and health region.
+The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
+the dates assigned to each positive case.
+
+Localized outbreaks seen in Interior, Fraser, and Vancouver Coastal health regions.
 
 ### September 6, 2020: [California by age](california20200906/index.md)
 
