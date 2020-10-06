@@ -13,6 +13,11 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### October 5, 2020: [California by age](california20201005/index.md)
+
+California provides daily case, hospitalization, and death data by age group.
+This provides useful data to study how to model a non-homogenous population.
+
 ### October 4, 2020: [USA by state](usa20201004/index.md)
 
 Many states have declining daily cases over the past several weeks and
@@ -54,11 +59,6 @@ The data differs somewhat from that used in the Canada-wide studies, possibly du
 the dates assigned to each positive case.
 
 Localized outbreaks seen in Interior, Fraser, and Vancouver Coastal health regions.
-
-### September 6, 2020: [California by age](california20200906/index.md)
-
-California provides daily case and death data by age group.
-This provides useful data to study how to model a non-homogenous population.
 
 ### June 25, 2020: [13 German states](germany20200625/index.md)
 
