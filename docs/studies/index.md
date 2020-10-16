@@ -13,26 +13,18 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### October 5, 2020: [California by age](california20201005/index.md)
+### October 15, 2020: [BC by health region](bc20201015/index.md)
 
-California provides daily case, hospitalization, and death data by age group.
-This provides useful data to study how to model a non-homogenous population.
+The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
+the number of cases each day, divided into sex, age, and health region.
+The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
+the dates assigned to each positive case.
 
-### October 4, 2020: [USA by state](usa20201004/index.md)
+Localized outbreaks seen in Interior, Fraser, and Vancouver Coastal health regions.
 
-Many states have declining daily cases over the past several weeks and
-hospitalizations and deaths are stabalizing overall.
-A summary of total US cases and deaths is shown along with a forecast that assumes no change to current practice.
+### October 15, 2020: [9 provinces](prov20201015/index.md)
 
-[![uc](usa_uc_2020-08-09.png)](usa_uc_2020-09-27.gif)
-
-Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
-fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
-corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for July 4.
-
-### October 4, 2020: [9 provinces](prov20201004/index.md)
-
-This is an update of the previous provincial analysis, now using data from March 1 - October 3.
+This is an update of the previous provincial analysis, now using data from March 1 - October 14.
 
 To characterize the observed case histories, it is necessary to include the following transitory
 effects:
@@ -51,14 +43,22 @@ A summary of the infection status is illustrated below. Click on the link above 
 
 [![canada](canada-sept2020.png)](canada-sept2020.png)
 
-### September 29, 2020: [BC health region](bc20200929/index.md)
+### October 5, 2020: [California by age](california20201005/index.md)
 
-The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
-the number of cases each day, divided into sex, age, and health region.
-The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
-the dates assigned to each positive case.
+California provides daily case, hospitalization, and death data by age group.
+This provides useful data to study how to model a non-homogenous population.
 
-Localized outbreaks seen in Interior, Fraser, and Vancouver Coastal health regions.
+### October 4, 2020: [USA by state](usa20201004/index.md)
+
+Many states have declining daily cases over the past several weeks and
+hospitalizations and deaths are stabalizing overall.
+A summary of total US cases and deaths is shown along with a forecast that assumes no change to current practice.
+
+[![uc](usa_uc_2020-08-09.png)](usa_uc_2020-09-27.gif)
+
+Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
+fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
+corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for July 4.
 
 ### June 25, 2020: [13 German states](germany20200625/index.md)
 
