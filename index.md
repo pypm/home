@@ -1,4 +1,8 @@
-## Overview
+## [Case studies and reports](docs/studies/index.md)
+
+Click this [link](docs/studies/index.md) to see the latest pyPM CoViD-19 modelling results.
+
+## Software
 
 The pyPM.ca software was developed to study and characterize
 the CoViD-19 epidemic. It consists of:
@@ -17,8 +21,6 @@ the CoViD-19 epidemic. It consists of:
 * Short [YouTube video](https://youtu.be/fcutz70Uvm0) showing how to start working with pyPM.ca (May 19, 2020)
 * [pypmca](docs/pypmca/index.md) (population modeller)
 * [ipypm](docs/ipypm/index.md) (GUI interface)
-
-## [Case studies and reports](docs/studies/index.md)
 
 ## github repositories
 
