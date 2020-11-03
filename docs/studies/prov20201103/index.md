@@ -10,18 +10,12 @@ are available through the [ipypm](../../ipypm) user interface.
 
 ### [BC](img/bcc_2_3_1103.pdf)
 
-A model with two transitions in the transmission rate. Growth has continued for the past
-several months at about 2.5% per day.
-Daily case counts are at the highest level of the epidemic.
-Contact tracing in recent months may be resulting in a larger fraction of infected individuals being tested.
-
-About 300 cases are added in late April: Theses anomalous cases are seen in all health regions and are
-due to a change in test/reporting policy.
+Daily case counts currently are at the highest level of the epidemic. Growth is currently about 4.5% per day.
 
 Note that this data are from the uncorrected weekday reports.
-A better analysis [here](../bc20201015) uses corrected data (including Saturday and Sunday numbers) and shows
+A better analysis [here](../bc20201103) uses corrected data (including Saturday and Sunday numbers) and shows
 the breakdowns by health region and age groups.
-That data more clearly shows localized outbreaks in some of the regions and age groups, and those outbreaks are
+That data more clearly shows localized outbreaks in some of the regions, and those outbreaks are
 included in the models used to fit that data.
 
 ![bcc](img/bcc_2_3_1103.png)
@@ -30,12 +24,9 @@ included in the models used to fit that data.
 
 The data is fit with a model that includes 3 outbreaks in March/April (meat packing plants).
 Only two parameters are used to characterize each outbreak: date and number of infections.
-
-consistent with one change in transmission rate in mid March and 3 separate
-large outbreaks. These have been reported in the media to be due to meat packing plants.
 The data is consistent with each outbreaks taking place over a very short period of time.
 The growth and decline in June/July is modelled by transitions in transmission rates.
-The current growth rate is estimated to be about 3% per day.
+The current growth rate is estimated to be about 2.6% per day.
 
 The growth/decline trends in hospitalization show transitions that follow somewhat the rises
 and falls predicted by the model (hospitalization parameters not adjusted).
@@ -48,6 +39,7 @@ Following initial rapid growth in mid-March and decline after lockdown measures,
 there have been several outbreaks (some of these being in the far northern communities).
 Peaks in hospitalization occur at roughly the expected times from the model (no adjustment of hospitalization parameters).
 Throughout the period the general community transmission rate appears was low, until last few weeks where it has increased.
+Current growth rate is about 5.3% per day.
 
 ![sk](img/sk_2_3_1103.png)
 
@@ -55,7 +47,8 @@ Throughout the period the general community transmission rate appears was low, u
 
 Following initial rapid growth in mid-March and decline after lockdown measures,
 community transmission appears to have remained low, until July.
-The daily case rates grew in July at 5+/3 % per day, followed by decline in August and an outbreak in September.
+The daily case rates grew in July at 5+/3 % per day, followed by decline in August and
+rapid growth starting in mid-September, now at about 6% per day.
 
 ![mb](img/mb_2_3_1103.png)
 
@@ -64,32 +57,32 @@ The daily case rates grew in July at 5+/3 % per day, followed by decline in Augu
 Community transmission declined enough by mid April to allow the infection rate to decline.
 A reporting anomaly is added to the model for the broad bump in daily cases in May.
 Transmission increased again starting in mid-August,
-leading to growth in infections of about 5% per day
-The growth spurt has recently subsided.
+leading to growth in infections of about 5% per day.
+The growth spurt has recently subsided to about 1.6% per day.
 
 ![on](img/on_2_3_1103.png)
 
 ### [Quebec](img/qc_2_5_1103.pdf)
 
-Six changes in transmission rate are necessary to fit the data.
+Seven changes in transmission rate are necessary to fit the data.
 A large backlog of case reports were released on May 3.
 A significant reduction in transmission was seen starting on May 18.
 Growth followed by decline was seen mid-June through mid-August.
 Just as in Ontario, transmission starting in mid-August has led to growth in infections, but at 7% per day.
-The growth spurt has recently subsided.
+The growth spurt has recently subsided, and is currently consistent with being constant.
 
 ![qc](img/qc_2_5_1103.png)
 
 ### [New Brunswick](img/nb_2_3_1103.pdf)
 
 The data is consistent with two changes in transmission rates and
-outbreaks in late May (in Campbellton region) and August (Moncton/Fredricton).
+outbreaks in late May (in Campbellton region) and August (Moncton/Fredricton) and early October.
 
 ![nb](img/nb_2_3_1103.png)
 
 ### [Newfoundland](img/nl_2_3_1103.pdf)
 
-The data is consistent with one change in transmission rate.
+The data is consistent with two changes in transmission rate.
 
 ![nl](img/nl_2_3_1103.png)
 
