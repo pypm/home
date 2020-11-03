@@ -20,22 +20,13 @@ the number of cases each day, divided into sex, age, and health region.
 The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
 the dates assigned to each positive case.
 
+The province is seeing COVID-19 growth in all regions, with the strongest growth in the two Vancouver
+health regons.
 Localized outbreaks seen in Interior, Fraser, and Vancouver Coastal health regions.
 
-### October 25, 2020: [USA by state](usa20201025/index.md)
+### November 3, 2020: [9 provinces](prov20201103/index.md)
 
-Most states are showing growth in cases and hospitalizations.
-A summary of total US cases and deaths is shown along with a forecast that assumes no change to current practice.
-
-[![uc](usa_uc_2020-08-09.png)](usa_uc_2020-10-25.gif)
-
-Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
-fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
-corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for July 4.
-
-### October 15, 2020: [9 provinces](prov20201015/index.md)
-
-This is an update of the previous provincial analysis, now using data from March 1 - October 14.
+This is an update of the previous provincial analysis, now using data from March 1 - November 2.
 
 To characterize the observed case histories, it is necessary to include the following transitory
 effects:
@@ -50,9 +41,16 @@ injecting batches of additional positive test results.
 The agreement between the model and the provincial case data is good, considering
 the relatively small number of parameters used. Click on the link above to see the results.
 
-A summary of the infection status is illustrated below. Click on the link above for larger versions of these figures.
+### October 25, 2020: [USA by state](usa20201025/index.md)
 
-[![canada](canada-sept2020.png)](canada-sept2020.png)
+Most states are showing growth in cases and hospitalizations.
+A summary of total US cases and deaths is shown along with a forecast that assumes no change to current practice.
+
+[![uc](usa_uc_2020-08-09.png)](usa_uc_2020-10-25.gif)
+
+Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
+fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
+corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for July 4.
 
 ### October 5, 2020: [California by age](california20201005/index.md)
 

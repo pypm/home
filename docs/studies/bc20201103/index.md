@@ -16,6 +16,8 @@ included in the overall BC fit.
 
 ### [Fraser](img/fraser_2_3_1103.pdf)
 
+There is currently rapid growth in this region.
+
 ![fraser](img/fraser_2_3_1103.png)
 
 ### [Interior](img/interior_2_3_1103.pdf)
@@ -33,7 +35,7 @@ The small number of cases make it difficult to measure the growth rate.
 
 ### [Coastal](img/coastal_2_3_1103.pdf)
 
-Two outbreaks seen.
+There is currently rapid growth in this region.
 
 ![coastal](img/coastal_2_3_1103.png)
 
