@@ -2,16 +2,16 @@
 
 ## [Summary: Cases](img/usa_summary_1108.pdf)
 
-![usa](img/usa_summary_1025.png)
+![usa](img/usa_summary_1108.png)
 
 The histogram shows the daily cases for the 50 states, DC and PR.
 The curve labelled "forecast (no change)" shows the expected daily
 cases by adding the expectations from all of the individual state
 models fit to the state data, as shown below.
 
-## [Summary: Deaths](img/usa_summary_deaths_1025.pdf)
+## [Summary: Deaths](img/usa_summary_deaths_1108.pdf)
 
-![usa](img/usa_summary_deaths_1025.png)
+![usa](img/usa_summary_deaths_1108.png)
 
 This plot uses the same convention as the previous one: this time for daily deaths.
 
