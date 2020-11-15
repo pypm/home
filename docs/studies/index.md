@@ -13,6 +13,17 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### November 14, 2020: [BC by health region](bc20201114/index.md)
+
+The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
+the number of cases each day, divided into sex, age, and health region.
+The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
+the dates assigned to each positive case.
+
+The province is seeing COVID-19 growth in all regions, with the strongest growth in the two Vancouver
+health regons.
+Localized outbreaks seen in Interior, Fraser, and Vancouver Coastal health regions.
+
 ### November 8, 2020: [USA by state](usa20201108/index.md)
 
 Most states are showing growth in cases and hospitalizations.
@@ -23,17 +34,6 @@ A summary of total US cases and deaths is shown along with a forecast that assum
 Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for July 4.
-
-### November 3, 2020: [BC by health region](bc20201103/index.md)
-
-The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
-the number of cases each day, divided into sex, age, and health region.
-The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
-the dates assigned to each positive case.
-
-The province is seeing COVID-19 growth in all regions, with the strongest growth in the two Vancouver
-health regons.
-Localized outbreaks seen in Interior, Fraser, and Vancouver Coastal health regions.
 
 ### November 3, 2020: [9 provinces](prov20201103/index.md)
 
