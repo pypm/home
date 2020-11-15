@@ -85,6 +85,10 @@ million.
 
 ![coastal](img/coastal-summary.png)
 
+### [Interior](img/interior-summary.pdf)
+
+![interior](img/interior-summary.png)
+
 ### [Vancouver Island](img/island-summary.pdf)
 
 ![island](img/island-summary.png)

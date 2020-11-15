@@ -24,20 +24,9 @@ The province is seeing COVID-19 growth in all regions, with the strongest growth
 health regons.
 Localized outbreaks seen in Interior, Fraser, and Vancouver Coastal health regions.
 
-### November 8, 2020: [USA by state](usa20201108/index.md)
+### November 14, 2020: [9 provinces](prov20201114/index.md)
 
-Most states are showing growth in cases and hospitalizations.
-A summary of total US cases and deaths is shown along with a forecast that assumes no change to current practice.
-
-[![uc](usa_uc_2020-08-09.png)](usa_uc_2020-10-25.gif)
-
-Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
-fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
-corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for July 4.
-
-### November 3, 2020: [9 provinces](prov20201103/index.md)
-
-This is an update of the previous provincial analysis, now using data from March 1 - November 2.
+This is an update of the previous provincial analysis, now using data from March 1 - November 13.
 
 To characterize the observed case histories, it is necessary to include the following transitory
 effects:
@@ -51,6 +40,17 @@ injecting batches of additional positive test results.
 
 The agreement between the model and the provincial case data is good, considering
 the relatively small number of parameters used. Click on the link above to see the results.
+
+### November 8, 2020: [USA by state](usa20201108/index.md)
+
+Most states are showing growth in cases and hospitalizations.
+A summary of total US cases and deaths is shown along with a forecast that assumes no change to current practice.
+
+[![uc](usa_uc_2020-08-09.png)](usa_uc_2020-10-25.gif)
+
+Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
+fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
+corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for July 4.
 
 ### October 5, 2020: [California by age](california20201005/index.md)
 
