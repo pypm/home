@@ -9,9 +9,9 @@ The curve labelled "forecast (no change)" shows the expected daily
 cases by adding the expectations from all of the individual state
 models fit to the state data, as shown below.
 
-## [Summary: Deaths](img/usa_summary_deaths1115.pdf)
+## [Summary: Deaths](img/usa_summary_deaths_1115.pdf)
 
-![usa](img/usa_summary_deaths1115.png)
+![usa](img/usa_summary_deaths_1115.png)
 
 This plot uses the same convention as the previous one: this time for daily deaths.
 
@@ -27,213 +27,213 @@ The right figures show the cumulative cases and other indicators on a linear sca
 Note that the recent rapid growth in the in-hospital numbers follows the trajectory determined from the
 case data, indicating that the case data is a useful predictor for the infection trajectory.
 
-### [Alaska](img/ak_2_31115.pdf)
+### [Alaska](img/ak_2_3_1115.pdf)
 
-![ak](img/ak_2_31115.png)
+![ak](img/ak_2_3_1115.png)
 
-### [Alabama](img/al_2_31115.pdf)
+### [Alabama](img/al_2_3_1115.pdf)
 
-![al](img/al_2_31115.png)
+![al](img/al_2_3_1115.png)
 
-### [Arkansas](img/ar_2_31115.pdf)
+### [Arkansas](img/ar_2_3_1115.pdf)
 
-![ar](img/ar_2_31115.png)
+![ar](img/ar_2_3_1115.png)
 
-### [Arizona](img/az_2_31115.pdf)
+### [Arizona](img/az_2_3_1115.pdf)
 
-![az](img/az_2_31115.png)
+![az](img/az_2_3_1115.png)
 
-### [California](img/ca_2_31115.pdf)
+### [California](img/ca_2_3_1115.pdf)
 
-![ca](img/ca_2_31115.png)
+![ca](img/ca_2_3_1115.png)
 
-### [Colorado](img/co_2_31115.pdf)
+### [Colorado](img/co_2_3_1115.pdf)
 
-![co](img/co_2_31115.png)
+![co](img/co_2_3_1115.png)
 
-### [Connecticut](img/ct_2_31115.pdf)
+### [Connecticut](img/ct_2_3_1115.pdf)
 
-![ct](img/ct_2_31115.png)
+![ct](img/ct_2_3_1115.png)
 
-### [District Of Columbia](img/dc_2_31115.pdf)
+### [District Of Columbia](img/dc_2_3_1115.pdf)
 
-![dc](img/dc_2_31115.png)
+![dc](img/dc_2_3_1115.png)
 
-### [Delaware](img/de_2_31115.pdf)
+### [Delaware](img/de_2_3_1115.pdf)
 
-![de](img/de_2_31115.png)
+![de](img/de_2_3_1115.png)
 
-### [Florida](img/fl_2_31115.pdf)
+### [Florida](img/fl_2_3_1115.pdf)
 
-![fl](img/fl_2_31115.png)
+![fl](img/fl_2_3_1115.png)
 
-### [Georgia](img/ga_2_31115.pdf)
+### [Georgia](img/ga_2_3_1115.pdf)
 
-![ga](img/ga_2_31115.png)
+![ga](img/ga_2_3_1115.png)
 
-### [Hawaii](img/hi_2_31115.pdf)
+### [Hawaii](img/hi_2_3_1115.pdf)
 
-![hi](img/hi_2_31115.png)
+![hi](img/hi_2_3_1115.png)
 
-### [Iowa](img/ia_2_31115.pdf)
+### [Iowa](img/ia_2_3_1115.pdf)
 
-![ia](img/ia_2_31115.png)
+![ia](img/ia_2_3_1115.png)
 
-### [Idaho](img/id_2_31115.pdf)
+### [Idaho](img/id_2_3_1115.pdf)
 
-![id](img/id_2_31115.png)
+![id](img/id_2_3_1115.png)
 
-### [Illinois](img/il_2_31115.pdf)
+### [Illinois](img/il_2_3_1115.pdf)
 
-![il](img/il_2_31115.png)
+![il](img/il_2_3_1115.png)
 
-### [Indiana](img/in_2_31115.pdf)
+### [Indiana](img/in_2_3_1115.pdf)
 
-![in](img/in_2_31115.png)
+![in](img/in_2_3_1115.png)
 
-### [Kansas](img/ks_2_31115.pdf)
+### [Kansas](img/ks_2_3_1115.pdf)
 
-![ks](img/ks_2_31115.png)
+![ks](img/ks_2_3_1115.png)
 
-### [Kentucky](img/ky_2_31115.pdf)
+### [Kentucky](img/ky_2_3_1115.pdf)
 
-![ky](img/ky_2_31115.png)
+![ky](img/ky_2_3_1115.png)
 
-### [Louisiana](img/la_2_31115.pdf)
+### [Louisiana](img/la_2_3_1115.pdf)
 
-![la](img/la_2_31115.png)
+![la](img/la_2_3_1115.png)
 
-### [Massachusetts](img/ma_2_31115.pdf)
+### [Massachusetts](img/ma_2_3_1115.pdf)
 
-![ma](img/ma_2_31115.png)
+![ma](img/ma_2_3_1115.png)
 
-### [Maryland](img/md_2_31115.pdf)
+### [Maryland](img/md_2_3_1115.pdf)
 
-![md](img/md_2_31115.png)
+![md](img/md_2_3_1115.png)
 
-### [Maine](img/me_2_31115.pdf)
+### [Maine](img/me_2_3_1115.pdf)
 
-![me](img/me_2_31115.png)
+![me](img/me_2_3_1115.png)
 
-### [Michigan](img/mi_2_31115.pdf)
+### [Michigan](img/mi_2_3_1115.pdf)
 
-![mi](img/mi_2_31115.png)
+![mi](img/mi_2_3_1115.png)
 
-### [Minnesota](img/mn_2_31115.pdf)
+### [Minnesota](img/mn_2_3_1115.pdf)
 
-![mn](img/mn_2_31115.png)
+![mn](img/mn_2_3_1115.png)
 
-### [Missouri](img/mo_2_31115.pdf)
+### [Missouri](img/mo_2_3_1115.pdf)
 
-![mo](img/mo_2_31115.png)
+![mo](img/mo_2_3_1115.png)
 
-### [Mississippi](img/ms_2_31115.pdf)
+### [Mississippi](img/ms_2_3_1115.pdf)
 
-![ms](img/ms_2_31115.png)
+![ms](img/ms_2_3_1115.png)
 
-### [Montana](img/mt_2_31115.pdf)
+### [Montana](img/mt_2_3_1115.pdf)
 
-![mt](img/mt_2_31115.png)
+![mt](img/mt_2_3_1115.png)
 
-### [North Carolina](img/nc_2_31115.pdf)
+### [North Carolina](img/nc_2_3_1115.pdf)
 
-![nc](img/nc_2_31115.png)
+![nc](img/nc_2_3_1115.png)
 
-### [North Dakota](img/nd_2_31115.pdf)
+### [North Dakota](img/nd_2_3_1115.pdf)
 
-![nd](img/nd_2_31115.png)
+![nd](img/nd_2_3_1115.png)
 
-### [Nebraska](img/ne_2_31115.pdf)
+### [Nebraska](img/ne_2_3_1115.pdf)
 
-![ne](img/ne_2_31115.png)
+![ne](img/ne_2_3_1115.png)
 
-### [New Hampshire](img/nh_2_31115.pdf)
+### [New Hampshire](img/nh_2_3_1115.pdf)
 
-![nh](img/nh_2_31115.png)
+![nh](img/nh_2_3_1115.png)
 
-### [New Jersey](img/nj_2_31115.pdf)
+### [New Jersey](img/nj_2_3_1115.pdf)
 
-![nj](img/nj_2_31115.png)
+![nj](img/nj_2_3_1115.png)
 
-### [New Mexico](img/nm_2_31115.pdf)
+### [New Mexico](img/nm_2_3_1115.pdf)
 
-![nm](img/nm_2_31115.png)
+![nm](img/nm_2_3_1115.png)
 
-### [Nevada](img/nv_2_31115.pdf)
+### [Nevada](img/nv_2_3_1115.pdf)
 
-![nv](img/nv_2_31115.png)
+![nv](img/nv_2_3_1115.png)
 
-### [New York](img/ny_2_31115.pdf)
+### [New York](img/ny_2_3_1115.pdf)
 
-![ny](img/ny_2_31115.png)
+![ny](img/ny_2_3_1115.png)
 
-### [Ohio](img/oh_2_31115.pdf)
+### [Ohio](img/oh_2_3_1115.pdf)
 
-![oh](img/oh_2_31115.png)
+![oh](img/oh_2_3_1115.png)
 
-### [Oklahoma](img/ok_2_31115.pdf)
+### [Oklahoma](img/ok_2_3_1115.pdf)
 
-![ok](img/ok_2_31115.png)
+![ok](img/ok_2_3_1115.png)
 
-### [Oregon](img/or_2_31115.pdf)
+### [Oregon](img/or_2_3_1115.pdf)
 
-![or](img/or_2_31115.png)
+![or](img/or_2_3_1115.png)
 
-### [Pennsylvania](img/pa_2_31115.pdf)
+### [Pennsylvania](img/pa_2_3_1115.pdf)
 
-![pa](img/pa_2_31115.png)
+![pa](img/pa_2_3_1115.png)
 
-### [Puerto Rico](img/pr_2_31115.pdf)
+### [Puerto Rico](img/pr_2_3_1115.pdf)
 
-![pr](img/pr_2_31115.png)
+![pr](img/pr_2_3_1115.png)
 
-### [Rhode Island](img/ri_2_31115.pdf)
+### [Rhode Island](img/ri_2_3_1115.pdf)
 
-![ri](img/ri_2_31115.png)
+![ri](img/ri_2_3_1115.png)
 
-### [South Carolina](img/sc_2_31115.pdf)
+### [South Carolina](img/sc_2_3_1115.pdf)
 
-![sc](img/sc_2_31115.png)
+![sc](img/sc_2_3_1115.png)
 
-### [South Dakota](img/sd_2_31115.pdf)
+### [South Dakota](img/sd_2_3_1115.pdf)
 
-![sd](img/sd_2_31115.png)
+![sd](img/sd_2_3_1115.png)
 
-### [Tennessee](img/tn_2_31115.pdf)
+### [Tennessee](img/tn_2_3_1115.pdf)
 
-![tn](img/tn_2_31115.png)
+![tn](img/tn_2_3_1115.png)
 
-### [Texas](img/tx_2_31115.pdf)
+### [Texas](img/tx_2_3_1115.pdf)
 
-![tx](img/tx_2_31115.png)
+![tx](img/tx_2_3_1115.png)
 
-### [Utah](img/ut_2_31115.pdf)
+### [Utah](img/ut_2_3_1115.pdf)
 
-![ut](img/ut_2_31115.png)
+![ut](img/ut_2_3_1115.png)
 
-### [Virginia](img/va_2_31115.pdf)
+### [Virginia](img/va_2_3_1115.pdf)
 
-![va](img/va_2_31115.png)
+![va](img/va_2_3_1115.png)
 
-### [Vermont](img/vt_2_31115.pdf)
+### [Vermont](img/vt_2_3_1115.pdf)
 
-![vt](img/vt_2_31115.png)
+![vt](img/vt_2_3_1115.png)
 
-### [Washington](img/wa_2_31115.pdf)
+### [Washington](img/wa_2_3_1115.pdf)
 
-![wa](img/wa_2_31115.png)
+![wa](img/wa_2_3_1115.png)
 
-### [Wisconsin](img/wi_2_31115.pdf)
+### [Wisconsin](img/wi_2_3_1115.pdf)
 
-![wi](img/wi_2_31115.png)
+![wi](img/wi_2_3_1115.png)
 
-### [West Virginia](img/wv_2_31115.pdf)
+### [West Virginia](img/wv_2_3_1115.pdf)
 
-![wv](img/wv_2_31115.png)
+![wv](img/wv_2_3_1115.png)
 
-### [Wyoming](img/wy_2_31115.pdf)
+### [Wyoming](img/wy_2_3_1115.pdf)
 
-![wy](img/wy_2_31115.png)
+![wy](img/wy_2_3_1115.png)
 
 
 ## Tables
