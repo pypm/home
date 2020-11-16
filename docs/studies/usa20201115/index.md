@@ -1,8 +1,8 @@
 ## November 15, 2020 Analysis of USA state data
 
-## [Summary: Cases](img/usa_summary1115.pdf)
+## [Summary: Cases](img/usa_summary_1115.pdf)
 
-![usa](img/usa_summary1115.png)
+![usa](img/usa_summary_1115.png)
 
 The histogram shows the daily cases for the 50 states, DC and PR.
 The curve labelled "forecast (no change)" shows the expected daily
@@ -59,9 +59,9 @@ case data, indicating that the case data is a useful predictor for the infection
 
 ![dc](img/dc_2_3_1115.png)
 
-### [Delaware](img/de_2_3_1115.pdf)
+### [Delaware](img/de_2_5_1115.pdf)
 
-![de](img/de_2_3_1115.png)
+![de](img/de_2_5_1115.png)
 
 ### [Florida](img/fl_2_3_1115.pdf)
 
