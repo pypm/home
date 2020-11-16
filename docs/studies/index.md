@@ -13,6 +13,19 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### November 15, 2020: [USA by state](usa20201115/index.md)
+
+This is the latest analysis prepared for the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
+
+Most states are showing rapid growth in cases and hospitalizations.
+A summary of total US cases and deaths is shown along with a forecast that assumes no change to current practice.
+
+[![uc](usa_uc_2020-11-15.png)](usa_uc_2020-11-15.gif)
+
+Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
+fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
+corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
+
 ### November 14, 2020: [BC by health region](bc20201114/index.md)
 
 The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
@@ -40,17 +53,6 @@ injecting batches of additional positive test results.
 
 The agreement between the model and the provincial case data is good, considering
 the relatively small number of parameters used. Click on the link above to see the results.
-
-### November 8, 2020: [USA by state](usa20201108/index.md)
-
-Most states are showing growth in cases and hospitalizations.
-A summary of total US cases and deaths is shown along with a forecast that assumes no change to current practice.
-
-[![uc](usa_uc_2020-08-09.png)](usa_uc_2020-10-25.gif)
-
-Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
-fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
-corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for July 4.
 
 ### October 5, 2020: [California by age](california20201005/index.md)
 
