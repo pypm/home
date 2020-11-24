@@ -13,6 +13,11 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### November 22, 2020: [USA by state](usa_hhs_20201122/index.md)
+
+This is a analysis that uses data on hospitalizations recently made available by the US HHS.
+Prior to this analysis, hospitalization data from the Covid Tracking Project has been used.
+
 ### November 15, 2020: [USA by state](usa20201115/index.md)
 
 This is the latest analysis prepared for the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
