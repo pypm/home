@@ -9,6 +9,8 @@ that used data from the [Covid Tracking Project](https://covidtracking.com/data/
 
 ## Summary
 
+#### Infection trajectory
+
 For each state, its infection trajectory
 can be summarized by the observed exponential growth in cases or
 exponential growth in hospitalization.
@@ -18,6 +20,31 @@ For many states the hospitalization growth (from HHS data) is
 remarkably close to the case growth.
 
 ![delta_compare](img/delta_compare.png)
+
+#### Fraction hospitalized
+
+To match the hospitalization data with the trajectory estimated from the case data
+the model parameter for hospitalization fraction is adjusted.
+The following plot compares the values for that parameter for each state, when using
+covid tracking project hospitalization data (where available) and when using
+the HHS data.
+
+![hosp_frac_compare](img/hosp_frac_compare.png)
+
+For many states the fraction is significantly larger when using the HHS data.
+Histograms for the two data samples are shown below.
+
+Covid tracking project: mean fraction = 0.042
+
+![hosp_frac_covid_tracking](img/hosp_frac_covid_tracking.png)
+
+HHS data: mean fraction = 0.064
+
+![hosp_frac_hhs](img/hosp_frac_hhs.png)
+
+Overall hospitalization is about 50% larger in the HHS data.
+
+#### Mean hospital stay (days)
 
 The HHS data has both daily hospitalizations and current hospital
 occupancy data for every state.
@@ -31,11 +58,11 @@ consistent with the HHS data, compared to the Covid Tracking Project data,
 as shown in the figures below. The only outlier in the HHS data is
 for the state of Rhode Island.
 
-#### Mean hospital stay (days) inferred from the covid tracking project data
+Inferred from the covid tracking project data:
 
 ![hosp_covid_tracking](img/hosp_covid_tracking.png)
 
-#### Mean hospital stay (days) inferred from the US HHS data
+Inferred from the US HHS data:
 
 ![hosp_hhs](img/hosp_hhs.png)
 
