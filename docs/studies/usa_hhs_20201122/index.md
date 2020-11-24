@@ -33,11 +33,11 @@ for the state of Rhode Island.
 
 #### Mean hospital stay (days) inferred from the covid tracking project data
 
-![hosp_covid_tracking](hosp_covid_tracking.png)
+![hosp_covid_tracking](img/hosp_covid_tracking.png)
 
 #### Mean hospital stay (days) inferred from the US HHS data
 
-![hosp_hhs](hosp_hhs.png)
+![hosp_hhs](img/hosp_hhs.png)
 
 ## Individual state fits
 
