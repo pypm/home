@@ -34,14 +34,13 @@ the HHS data.
 For many states the fraction is significantly larger when using the HHS data.
 Histograms for the two data samples are shown below.
 
-Covid tracking project: mean fraction = 0.042
-
 ![hosp_frac_covid_tracking](img/hosp_frac_covid_tracking.png)
 
-HHS data: mean fraction = 0.064
+Covid tracking project: mean fraction = 0.042
 
 ![hosp_frac_hhs](img/hosp_frac_hhs.png)
 
+HHS data: mean fraction = 0.064
 Overall hospitalization is about 50% larger in the HHS data.
 
 #### Mean hospital stay (days)
