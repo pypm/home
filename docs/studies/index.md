@@ -25,6 +25,23 @@ health regons.
 At the beginning of November, new restrictions came into force in Vancouver, and the data now shows
 a decline in cases - with more data, the daily growth (decline) will be better estimated.
 
+### November 25, 2020: [9 provinces](prov20201125/index.md)
+
+This is an update of the previous provincial analysis, now using data from March 1 - November 24.
+
+To characterize the observed case histories, it is necessary to include the following transitory
+effects:
+* changes to transmission rate: most notably starting in mid-March. For most provinces this is described
+sufficiently by a single transition
+* outbreaks: in Alberta and Saskatchewan large outbreaks have occured. These are accounted for by
+injecting batches of new infections, sufficient to account for the effect observed in the case data
+* reporting anomalies: Quebec released a large number of cases due to a backlog, and BC
+reported a change in test reporting policy on April 21. These are accounted for by
+injecting batches of additional positive test results.
+
+The agreement between the model and the provincial case data is good, considering
+the relatively small number of parameters used. Click on the link above to see the results.
+
 ### November 22, 2020: [USA by state](usa_hhs_20201122/index.md)
 
 This is a analysis that uses data on hospitalizations recently made available by the US HHS.
@@ -42,23 +59,6 @@ A summary of total US cases and deaths is shown along with a forecast that assum
 Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
-
-### November 14, 2020: [9 provinces](prov20201114/index.md)
-
-This is an update of the previous provincial analysis, now using data from March 1 - November 13.
-
-To characterize the observed case histories, it is necessary to include the following transitory
-effects:
-* changes to transmission rate: most notably starting in mid-March. For most provinces this is described
-sufficiently by a single transition
-* outbreaks: in Alberta and Saskatchewan large outbreaks have occured. These are accounted for by
-injecting batches of new infections, sufficient to account for the effect observed in the case data
-* reporting anomalies: Quebec released a large number of cases due to a backlog, and BC
-reported a change in test reporting policy on April 21. These are accounted for by
-injecting batches of additional positive test results.
-
-The agreement between the model and the provincial case data is good, considering
-the relatively small number of parameters used. Click on the link above to see the results.
 
 ### October 5, 2020: [California by age](california20201005/index.md)
 
