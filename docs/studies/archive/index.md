@@ -3,6 +3,14 @@
 Click on the links in the titles below to see detailed results from the studies.
 Note that these studies have been superceded by newer studies of the regions. These are kept for comparison.
 
+### November 15, 2020: [USA by state](usa20201115/index.md)
+
+This is an analysis prepared for the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
+
+Most states are showing rapid growth in cases and hospitalizations.
+A summary of total US cases and deaths is shown along with a forecast that assumes no change to current practice.
+The hospitalization data shown here is from The Covid Tracking Project. Later studies used US HHS data.
+
 ### July 19, 2020: [BC by health region](bc20200719/index.md)
 
 The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)

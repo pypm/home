@@ -13,6 +13,20 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### November 29, 2020: [USA by state](usa20201129/index.md)
+
+This is the latest analysis prepared for the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
+
+Most states have been experiencing rapid growth in cases and hospitalizations, but many are showing a turn around that began
+on about November 12.
+A summary of total US cases and deaths is shown along with a forecast that assumes no change to current practice.
+
+[![uc](usa_uc_2020-11-15.png)](usa_uc_2020-11-15.gif)
+
+Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
+fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
+corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
+
 ### November 25, 2020: [BC by health region](bc20201125/index.md)
 
 The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
@@ -46,19 +60,6 @@ the relatively small number of parameters used. Click on the link above to see t
 
 This is a analysis that uses data on hospitalizations recently made available by the US HHS.
 Prior to this analysis, hospitalization data from the Covid Tracking Project has been used.
-
-### November 15, 2020: [USA by state](usa20201115/index.md)
-
-This is the latest analysis prepared for the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
-
-Most states are showing rapid growth in cases and hospitalizations.
-A summary of total US cases and deaths is shown along with a forecast that assumes no change to current practice.
-
-[![uc](usa_uc_2020-11-15.png)](usa_uc_2020-11-15.gif)
-
-Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
-fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
-corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
 
 ### October 5, 2020: [California by age](california20201005/index.md)
 
