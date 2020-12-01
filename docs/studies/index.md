@@ -13,6 +13,19 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### Devember 1, 2020: [BC by health region](bc20201201/index.md)
+
+The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
+the number of cases each day, divided into sex, age, and health region.
+The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
+the dates assigned to each positive case.
+
+The province saw COVID-19 growth in all regions, in October, with the strongest growth in the two Vancouver
+health regons.
+At the beginning of November, new restrictions came into force in Vancouver, and the data now shows
+a decline in transmission rate for Vancouver Coastal and Fraser Health regions, as well as a reduction for
+Vancouver Island. The data does not indicate a significant reduction in growth rate for the Interior.
+
 ### November 29, 2020: [USA by state](usa20201129/index.md)
 
 This is the latest analysis prepared for the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
@@ -26,18 +39,6 @@ A summary of total US cases and deaths is shown along with a forecast that assum
 Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
-
-### November 25, 2020: [BC by health region](bc20201125/index.md)
-
-The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
-the number of cases each day, divided into sex, age, and health region.
-The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
-the dates assigned to each positive case.
-
-The province saw COVID-19 growth in all regions, in October, with the strongest growth in the two Vancouver
-health regons.
-At the beginning of November, new restrictions came into force in Vancouver, and the data now shows
-a decline in cases - with more data, the daily growth (decline) will be better estimated.
 
 ### November 25, 2020: [9 provinces](prov20201125/index.md)
 
