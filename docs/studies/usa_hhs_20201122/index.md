@@ -4,7 +4,7 @@ A new data source for hospitalization data has
 been made available by the US HHS [here](https://healthdata.gov/dataset/covid-19-reported-patient-impact-and-hospital-capacity-state-timeseries)
 
 The plots shown in this summary can be compared to similar
-[plots](../usa20201115)
+[plots](../archive/usa20201115)
 that used data from the [Covid Tracking Project](https://covidtracking.com/data/api).
 
 ## Summary
