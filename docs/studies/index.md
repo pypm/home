@@ -13,6 +13,20 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### December 2, 2020: [9 provinces](prov20201202/index.md)
+
+This is an update of the previous provincial analysis, now using data from March 1 - December 1.
+
+To characterize the observed case histories, it is necessary to include the following transitory
+effects:
+* changes to transmission rate: most notably starting in mid-March. For most provinces this is described
+sufficiently by a single transition
+* outbreaks: in Alberta and Saskatchewan large outbreaks have occured. These are accounted for by
+injecting batches of new infections, sufficient to account for the effect observed in the case data
+* reporting anomalies: Quebec released a large number of cases due to a backlog, and BC
+reported a change in test reporting policy on April 21. These are accounted for by
+injecting batches of additional positive test results.
+
 ### Devember 1, 2020: [BC by health region](bc20201201/index.md)
 
 The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
@@ -39,23 +53,6 @@ A summary of total US cases and deaths is shown along with a forecast that assum
 Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
-
-### November 25, 2020: [9 provinces](prov20201125/index.md)
-
-This is an update of the previous provincial analysis, now using data from March 1 - November 24.
-
-To characterize the observed case histories, it is necessary to include the following transitory
-effects:
-* changes to transmission rate: most notably starting in mid-March. For most provinces this is described
-sufficiently by a single transition
-* outbreaks: in Alberta and Saskatchewan large outbreaks have occured. These are accounted for by
-injecting batches of new infections, sufficient to account for the effect observed in the case data
-* reporting anomalies: Quebec released a large number of cases due to a backlog, and BC
-reported a change in test reporting policy on April 21. These are accounted for by
-injecting batches of additional positive test results.
-
-The agreement between the model and the provincial case data is good, considering
-the relatively small number of parameters used. Click on the link above to see the results.
 
 ### November 22, 2020: [USA by state](usa_hhs_20201122/index.md)
 
