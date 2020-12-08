@@ -13,6 +13,19 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### Devember 8, 2020: [BC by health region](bc20201208/index.md)
+
+The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
+the number of cases each day, divided into sex, age, and health region.
+The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
+the dates assigned to each positive case.
+
+The province saw COVID-19 growth in all regions, in October, with the strongest growth in the two Vancouver
+health regons.
+At the beginning of November, new restrictions came into force in Vancouver, and the data now shows
+a decline in transmission rate for Vancouver Coastal and Fraser Health regions, as well as a reduction for
+Vancouver Island. The data does not indicate a significant reduction in growth rate for the Interior.
+
 ### December 2, 2020: [9 provinces](prov20201202/index.md)
 
 This is an update of the previous provincial analysis, now using data from March 1 - December 1.
@@ -26,19 +39,6 @@ injecting batches of new infections, sufficient to account for the effect observ
 * reporting anomalies: Quebec released a large number of cases due to a backlog, and BC
 reported a change in test reporting policy on April 21. These are accounted for by
 injecting batches of additional positive test results.
-
-### Devember 1, 2020: [BC by health region](bc20201201/index.md)
-
-The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
-the number of cases each day, divided into sex, age, and health region.
-The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
-the dates assigned to each positive case.
-
-The province saw COVID-19 growth in all regions, in October, with the strongest growth in the two Vancouver
-health regons.
-At the beginning of November, new restrictions came into force in Vancouver, and the data now shows
-a decline in transmission rate for Vancouver Coastal and Fraser Health regions, as well as a reduction for
-Vancouver Island. The data does not indicate a significant reduction in growth rate for the Interior.
 
 ### November 29, 2020: [USA by state](usa20201129/index.md)
 

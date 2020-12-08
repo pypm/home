@@ -1,38 +1,38 @@
-## December 1, 2020 Analysis of BC regional data
+## December 8, 2020 Analysis of BC regional data
 
 The following shows graphs of daily cases and cumulative cases. Data through November 29 are used,
 with the plots starting on August 1.
 In early November, new restrictions came into force for the Fraser and Vancouver Coastal health regions.
-The analysis finds the date for reductions in transmission rates to be on November 7/8.
+The analysis fixes a transition to occur on Nov 8 for those to regions.
 
 The transition in transmission rate for Vancouver Island is found to be around November 11.
 Growth continues in the Interior.
 
 The points are daily cases, and the stars show weekly average, to help guide the eye.
 
-### [BC total](img/bc_2_3_1201.pdf)
+### [BC total](img/bc_2_3_1208.pdf)
 
-![bc](img/bc_2_3_1201.png)
+![bc](img/bc_2_3_1208.png)
 
-### [Fraser](img/fraser_2_3_1201.pdf)
+### [Fraser](img/fraser_2_3_1208.pdf)
 
-![fraser](img/fraser_2_3_1201.png)
+![fraser](img/fraser_2_3_1208.png)
 
-### [Interior](img/interior_2_3_1201.pdf)
+### [Interior](img/interior_2_3_1208.pdf)
 
-![interior](img/interior_2_3_1201.png)
+![interior](img/interior_2_3_1208.png)
 
-### [Island](img/island_2_3_1201.pdf)
+### [Island](img/island_2_3_1208.pdf)
 
 The small number of cases make it difficult to measure the growth rate.
 There was significant growth in October-November, but has diminished significantly
 due to a reduced transmission rate starting around Nov 11.
 
-![island](img/island_2_3_1201.png)
+![island](img/island_2_3_1208.png)
 
-### [Coastal](img/coastal_2_3_1201.pdf)
+### [Coastal](img/coastal_2_3_1208.pdf)
 
-![coastal](img/coastal_2_3_1201.png)
+![coastal](img/coastal_2_3_1208.png)
 
 ## Tables
 
