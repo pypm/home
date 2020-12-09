@@ -13,7 +13,7 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### Devember 8, 2020: [BC by health region](bc20201208/index.md)
+### Devember 9, 2020: [BC by health region](bc20201209/index.md)
 
 The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
 the number of cases each day, divided into sex, age, and health region.
@@ -24,7 +24,8 @@ The province saw COVID-19 growth in all regions, in October, with the strongest 
 health regons.
 At the beginning of November, new restrictions came into force in Vancouver, and the data now shows
 a decline in transmission rate for Vancouver Coastal and Fraser Health regions, as well as a reduction for
-Vancouver Island. The data does not indicate a significant reduction in growth rate for the Interior.
+Vancouver Island. The data does not indicate a significant reduction in growth rate for the Interior or Northern
+regions.
 
 ### December 6, 2020: [16 German states](germany20201206/index.md)
 
