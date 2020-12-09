@@ -21,11 +21,12 @@ The plots below show the case / hospitalization / deaths data for all 50 states,
 The infection trajectory is determined by fits to the cumulative case data.
 The data fits were done using data up until December 5. 
 
-The left figures show the daily cases and new hospitalizations and deaths on a log scale.
+The left figures show the daily cases and new hospitalizations and deaths on a log scale, starting from August 1.
 The green points are the case data, the stars show the
 weekly average, and the green curve is the fit of the model to the case data.
-The right figures show the same data on a linear scale.
-Note that the recent rapid growth in the in-hospital numbers follows the trajectory determined from the
+The right figures show (in teal) the number of people in hospital on a linear scale.
+Note that the recent rapid growth in the in-hospital numbers generally
+follows the trajectory determined from the
 case data, indicating that the case data is a useful predictor for the infection trajectory.
 
 ### [Alaska](img/ak_2_6_1206.pdf)
