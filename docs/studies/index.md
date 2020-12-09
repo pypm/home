@@ -34,6 +34,19 @@ by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Inst
 Data is provided by [Robert Koch Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0) and [DIVI Intensivregister](https://www.divi.de/register/tagesreport).
 The data has much less reporting variance than those from USA, making it a good basis for developing and evaluating models.
 
+### December 6, 2020: [USA by state](usa20201206/index.md)
+
+This is the latest analysis prepared for the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
+
+Most states have been experiencing rapid growth in cases and hospitalizations, but many are showing a slowing that began
+early-mid November.
+
+[![uc](usa_uc_2020-11-15.png)](usa_uc_2020-11-15.gif)
+
+Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
+fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
+corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
+
 ### December 2, 2020: [9 provinces](prov20201202/index.md)
 
 This is an update of the previous provincial analysis, now using data from March 1 - December 1.
@@ -47,20 +60,6 @@ injecting batches of new infections, sufficient to account for the effect observ
 * reporting anomalies: Quebec released a large number of cases due to a backlog, and BC
 reported a change in test reporting policy on April 21. These are accounted for by
 injecting batches of additional positive test results.
-
-### November 29, 2020: [USA by state](usa20201129/index.md)
-
-This is the latest analysis prepared for the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
-
-Most states have been experiencing rapid growth in cases and hospitalizations, but many are showing a turn around that began
-on about November 12.
-A summary of total US cases and deaths is shown along with a forecast that assumes no change to current practice.
-
-[![uc](usa_uc_2020-11-15.png)](usa_uc_2020-11-15.gif)
-
-Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
-fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
-corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
 
 ### November 22, 2020: [USA by state](usa_hhs_20201122/index.md)
 
