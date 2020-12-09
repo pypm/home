@@ -523,213 +523,213 @@ million.
 The following plots show the forecasts for cases, hospitalizations, and deaths.
 The shaded regions show the 50%, 80%, and 95% CL intervals.
 
-### [Alabama](img/al-summary.pdf)
+### [Alabama](img/al-forecast.pdf)
 
-![al](img/al-summary.png)
+![al](img/al-forecast.png)
 
-### [Alaska](img/ak-summary.pdf)
+### [Alaska](img/ak-forecast.pdf)
 
-![ak](img/ak-summary.png)
+![ak](img/ak-forecast.png)
 
-### [Arkansas](img/ar-summary.pdf)
+### [Arkansas](img/ar-forecast.pdf)
 
-![ar](img/ar-summary.png)
+![ar](img/ar-forecast.png)
 
-### [Arizona](img/az-summary.pdf)
+### [Arizona](img/az-forecast.pdf)
 
-![az](img/az-summary.png)
+![az](img/az-forecast.png)
 
-### [California](img/ca-summary.pdf)
+### [California](img/ca-forecast.pdf)
 
-![ca](img/ca-summary.png)
+![ca](img/ca-forecast.png)
 
-### [Colorado](img/co-summary.pdf)
+### [Colorado](img/co-forecast.pdf)
 
-![co](img/co-summary.png)
+![co](img/co-forecast.png)
 
-### [Connecticut](img/ct-summary.pdf)
+### [Connecticut](img/ct-forecast.pdf)
 
-![ct](img/ct-summary.png)
+![ct](img/ct-forecast.png)
 
-### [District Of Columbia](img/dc-summary.pdf)
+### [District Of Columbia](img/dc-forecast.pdf)
 
-![dc](img/dc-summary.png)
+![dc](img/dc-forecast.png)
 
-### [Delaware](img/de-summary.pdf)
+### [Delaware](img/de-forecast.pdf)
 
-![de](img/de-summary.png)
+![de](img/de-forecast.png)
 
-### [Florida](img/fl-summary.pdf)
+### [Florida](img/fl-forecast.pdf)
 
-![fl](img/fl-summary.png)
+![fl](img/fl-forecast.png)
 
-### [Georgia](img/ga-summary.pdf)
+### [Georgia](img/ga-forecast.pdf)
 
-![ga](img/ga-summary.png)
+![ga](img/ga-forecast.png)
 
-### [Hawaii](img/hi-summary.pdf)
+### [Hawaii](img/hi-forecast.pdf)
 
-![hi](img/hi-summary.png)
+![hi](img/hi-forecast.png)
 
-### [Iowa](img/ia-summary.pdf)
+### [Iowa](img/ia-forecast.pdf)
 
-![ia](img/ia-summary.png)
+![ia](img/ia-forecast.png)
 
-### [Idaho](img/id-summary.pdf)
+### [Idaho](img/id-forecast.pdf)
 
-![id](img/id-summary.png)
+![id](img/id-forecast.png)
 
-### [Illinois](img/il-summary.pdf)
+### [Illinois](img/il-forecast.pdf)
 
-![il](img/il-summary.png)
+![il](img/il-forecast.png)
 
-### [Indiana](img/in-summary.pdf)
+### [Indiana](img/in-forecast.pdf)
 
-![in](img/in-summary.png)
+![in](img/in-forecast.png)
 
-### [Kansas](img/ks-summary.pdf)
+### [Kansas](img/ks-forecast.pdf)
 
-![ks](img/ks-summary.png)
+![ks](img/ks-forecast.png)
 
-### [Kentucky](img/ky-summary.pdf)
+### [Kentucky](img/ky-forecast.pdf)
 
-![ky](img/ky-summary.png)
+![ky](img/ky-forecast.png)
 
-### [Louisiana](img/la-summary.pdf)
+### [Louisiana](img/la-forecast.pdf)
 
-![la](img/la-summary.png)
+![la](img/la-forecast.png)
 
-### [Massachusetts](img/ma-summary.pdf)
+### [Massachusetts](img/ma-forecast.pdf)
 
-![ma](img/ma-summary.png)
+![ma](img/ma-forecast.png)
 
-### [Maryland](img/md-summary.pdf)
+### [Maryland](img/md-forecast.pdf)
 
-![md](img/md-summary.png)
+![md](img/md-forecast.png)
 
-### [Maine](img/me-summary.pdf)
+### [Maine](img/me-forecast.pdf)
 
-![me](img/me-summary.png)
+![me](img/me-forecast.png)
 
-### [Michigan](img/mi-summary.pdf)
+### [Michigan](img/mi-forecast.pdf)
 
-![mi](img/mi-summary.png)
+![mi](img/mi-forecast.png)
 
-### [Minnesota](img/mn-summary.pdf)
+### [Minnesota](img/mn-forecast.pdf)
 
-![mn](img/mn-summary.png)
+![mn](img/mn-forecast.png)
 
-### [Missouri](img/mo-summary.pdf)
+### [Missouri](img/mo-forecast.pdf)
 
-![mo](img/mo-summary.png)
+![mo](img/mo-forecast.png)
 
-### [Mississippi](img/ms-summary.pdf)
+### [Mississippi](img/ms-forecast.pdf)
 
-![ms](img/ms-summary.png)
+![ms](img/ms-forecast.png)
 
-### [Montana](img/mt-summary.pdf)
+### [Montana](img/mt-forecast.pdf)
 
-![mt](img/mt-summary.png)
+![mt](img/mt-forecast.png)
 
-### [North Carolina](img/nc-summary.pdf)
+### [North Carolina](img/nc-forecast.pdf)
 
-![nc](img/nc-summary.png)
+![nc](img/nc-forecast.png)
 
-### [North Dakota](img/nd-summary.pdf)
+### [North Dakota](img/nd-forecast.pdf)
 
-![nd](img/nd-summary.png)
+![nd](img/nd-forecast.png)
 
-### [Nebraska](img/ne-summary.pdf)
+### [Nebraska](img/ne-forecast.pdf)
 
-![ne](img/ne-summary.png)
+![ne](img/ne-forecast.png)
 
-### [New Hampshire](img/nh-summary.pdf)
+### [New Hampshire](img/nh-forecast.pdf)
 
-![nh](img/nh-summary.png)
+![nh](img/nh-forecast.png)
 
-### [New Jersey](img/nj-summary.pdf)
+### [New Jersey](img/nj-forecast.pdf)
 
-![nj](img/nj-summary.png)
+![nj](img/nj-forecast.png)
 
-### [New Mexico](img/nm-summary.pdf)
+### [New Mexico](img/nm-forecast.pdf)
 
-![nm](img/nm-summary.png)
+![nm](img/nm-forecast.png)
 
-### [Nevada](img/nv-summary.pdf)
+### [Nevada](img/nv-forecast.pdf)
 
-![nv](img/nv-summary.png)
+![nv](img/nv-forecast.png)
 
-### [New York](img/ny-summary.pdf)
+### [New York](img/ny-forecast.pdf)
 
-![ny](img/ny-summary.png)
+![ny](img/ny-forecast.png)
 
-### [Ohio](img/oh-summary.pdf)
+### [Ohio](img/oh-forecast.pdf)
 
-![oh](img/oh-summary.png)
+![oh](img/oh-forecast.png)
 
-### [Oklahoma](img/ok-summary.pdf)
+### [Oklahoma](img/ok-forecast.pdf)
 
-![ok](img/ok-summary.png)
+![ok](img/ok-forecast.png)
 
-### [Oregon](img/or-summary.pdf)
+### [Oregon](img/or-forecast.pdf)
 
-![or](img/or-summary.png)
+![or](img/or-forecast.png)
 
-### [Pennsylvania](img/pa-summary.pdf)
+### [Pennsylvania](img/pa-forecast.pdf)
 
-![pa](img/pa-summary.png)
+![pa](img/pa-forecast.png)
 
-### [Puerto Rico](img/pr-summary.pdf)
+### [Puerto Rico](img/pr-forecast.pdf)
 
-![pr](img/pr-summary.png)
+![pr](img/pr-forecast.png)
 
-### [Rhode Island](img/ri-summary.pdf)
+### [Rhode Island](img/ri-forecast.pdf)
 
-![ri](img/ri-summary.png)
+![ri](img/ri-forecast.png)
 
-### [South Carolina](img/sc-summary.pdf)
+### [South Carolina](img/sc-forecast.pdf)
 
-![sc](img/sc-summary.png)
+![sc](img/sc-forecast.png)
 
-### [South Dakota](img/sd-summary.pdf)
+### [South Dakota](img/sd-forecast.pdf)
 
-![sd](img/sd-summary.png)
+![sd](img/sd-forecast.png)
 
-### [Tennessee](img/tn-summary.pdf)
+### [Tennessee](img/tn-forecast.pdf)
 
-![tn](img/tn-summary.png)
+![tn](img/tn-forecast.png)
 
-### [Texas](img/tx-summary.pdf)
+### [Texas](img/tx-forecast.pdf)
 
-![tx](img/tx-summary.png)
+![tx](img/tx-forecast.png)
 
-### [Utah](img/ut-summary.pdf)
+### [Utah](img/ut-forecast.pdf)
 
-![ut](img/ut-summary.png)
+![ut](img/ut-forecast.png)
 
-### [Vermont](img/vt-summary.pdf)
+### [Vermont](img/vt-forecast.pdf)
 
-![vt](img/vt-summary.png)
+![vt](img/vt-forecast.png)
 
-### [Virginia](img/va-summary.pdf)
+### [Virginia](img/va-forecast.pdf)
 
-![va](img/va-summary.png)
+![va](img/va-forecast.png)
 
-### [Washington](img/wa-summary.pdf)
+### [Washington](img/wa-forecast.pdf)
 
-![wa](img/wa-summary.png)
+![wa](img/wa-forecast.png)
 
-### [Wisconsin](img/wi-summary.pdf)
+### [Wisconsin](img/wi-forecast.pdf)
 
-![wi](img/wi-summary.png)
+![wi](img/wi-forecast.png)
 
-### [West Virginia](img/wv-summary.pdf)
+### [West Virginia](img/wv-forecast.pdf)
 
-![wv](img/wv-summary.png)
+![wv](img/wv-forecast.png)
 
-### [Wyoming](img/wy-summary.pdf)
+### [Wyoming](img/wy-forecast.pdf)
 
-![wy](img/wy-summary.png)
+![wy](img/wy-forecast.png)
 
 
 
