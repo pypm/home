@@ -104,6 +104,15 @@ deviation of about 6 days.
 
 Vancouver Coastal has an increase in cases in early June.
 
+### June 25, 2020: [13 German states](germany20200625/index.md)
+
+This study was used to demonstrate the methods to characterize the spread of CoViD-19 in the paper shown at the top
+of the main reports page.
+Data from 13 states that reported at lease 2000 cases by the end of June 2020 were included.
+This is an excellent sample for confirming the statistical treatment, since all the states were subject to the same
+public health measures and testing policies.
+For more information about the findings, please refer to the paper [Charaterizing the spread of CoViD-19](../index.md).
+
 ### June 17, 2020: [16 German states](germany20200617/index.md)
 
 There is remarkable consistency across the 16 German states for data between March 1 and June 10.

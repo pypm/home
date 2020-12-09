@@ -26,6 +26,14 @@ At the beginning of November, new restrictions came into force in Vancouver, and
 a decline in transmission rate for Vancouver Coastal and Fraser Health regions, as well as a reduction for
 Vancouver Island. The data does not indicate a significant reduction in growth rate for the Interior.
 
+### December 6, 2020: [16 German states](germany20201206/index.md)
+
+This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
+by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
+
+Data is provided by [Robert Koch Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0) and [DIVI Intensivregister](https://www.divi.de/register/tagesreport).
+The data has much less reporting variance than those from USA, making it a good basis for developing and evaluating models.
+
 ### December 2, 2020: [9 provinces](prov20201202/index.md)
 
 This is an update of the previous provincial analysis, now using data from March 1 - December 1.
@@ -63,14 +71,6 @@ Prior to this analysis, hospitalization data from the Covid Tracking Project has
 
 California provides daily case, hospitalization, and death data by age group.
 This provides useful data to study how to model a non-homogenous population.
-
-### June 25, 2020: [13 German states](germany20200625/index.md)
-
-This study was used to demonstrate the methods to characterize the spread of CoViD-19 in the paper shown at the top of this page.
-Data from 13 states that reported at lease 2000 cases by the end of June 2020 were included.
-This is an excellent sample for confirming the statistical treatment, since all the states were subject to the same
-public health measures and testing policies.
-For more information about the findings, please refer to the paper.
 
 ### June 24, 2020: [Brazil states](brazil20200624/index.md)
 
