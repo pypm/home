@@ -107,32 +107,47 @@ TH| 2.5 +/-  0.6|Sep 29| 8.8 +/-  0.6|Oct 23| 3.3 +/-  0.4
 
 ### hospitalization and death parameters
 
-Some model parameters can be estimated with the data. 68% CL intervals are shown.
+Some model parameters can be estimated with these data. 68% CL intervals are shown.
 
-state | rec. frac | death delay | icu frac | icu delay | vent delay 
----|---|---|---|---|---
-BW | 0.984 +/- 0.002 | 35.4 +/- 3.7 | 0.011 +/- 0.002 | 8.4 +/- 2.1 | 3.5 +/- 1.1
-BY | 0.985 +/- 0.002 | 30.7 +/- 5.8 | 0.011 +/- 0.003 | 10.6 +/- 0.9 | 3.2 +/- 1.8
-BE | 0.986 +/- 0.004 | 35.7 +/- 7.4 | 0.016 +/- 0.006 | 4.6 +/- 2.8 | 3.1 +/- 3.1
-BB | 0.972 +/- 0.007 |       -      | 0.014 +/- 0.006 |       -      |       -     
-HB | 0.989 +/- 0.003 |       -      | 0.012 +/- 0.005 |       -      |       -     
-HH | 0.990 +/- 0.003 |       -      | 0.013 +/- 0.005 | 9.6 +/- 2.5 | 4.3 +/- 1.3
-HE | 0.984 +/- 0.004 | 31.5 +/- 3.9 | 0.012 +/- 0.006 | 9.4 +/- 1.3 | 5.3 +/- 2.3
-NI | 0.988 +/- 0.002 | 27.4 +/- 5.8 | 0.011 +/- 0.004 | 4.4 +/- 2.0 | 1.2 +/- 0.8
-MV | 0.982 +/- 0.003 |       -      | 0.015 +/- 0.005 |       -      |       -     
-NW | 0.989 +/- 0.001 | 26.8 +/- 3.2 | 0.014 +/- 0.002 | 6.2 +/- 0.5 | 2.6 +/- 0.9
-RP | 0.979 +/- 0.005 | 36.5 +/- 5.9 | 0.012 +/- 0.004 | 10.7 +/- 2.0 |       -     
-SL | 0.987 +/- 0.003 |       -      | 0.017 +/- 0.004 |       -      |       -     
-SN | 0.971 +/- 0.007 |       -      | 0.016 +/- 0.006 |       -      |       -     
-ST | 0.981 +/- 0.006 |       -      | 0.012 +/- 0.006 |       -      |       -     
-SH | 0.989 +/- 0.002 |       -      | 0.007 +/- 0.003 |       -      |       -     
-TH | 0.973 +/- 0.006 |       -      | 0.013 +/- 0.005 |       -      |       -
+state | rec. frac | death delay | icu frac | icu delay | vent_frac | vent delay 
+---|---|---|---|---|---|---
+BW | 0.984 +/- 0.002 | 35.4 +/- 3.7 | 0.011 +/- 0.002 | 8.4 +/- 2.1 | 0.82 | 3.5 +/- 1.1
+BY | 0.985 +/- 0.002 | 30.7 +/- 5.8 | 0.011 +/- 0.003 | 10.6 +/- 0.9 | 0.83 | 3.2 +/- 1.8
+BE | 0.986 +/- 0.004 | 35.7 +/- 7.4 | 0.016 +/- 0.006 | 4.6 +/- 2.8 | 0.95 | 3.1 +/- 3.1
+BB | 0.972 +/- 0.007 |       -      | 0.014 +/- 0.006 |       -      | 0.81 |       -     
+HB | 0.989 +/- 0.003 |       -      | 0.012 +/- 0.005 |       -      | 0.96 |       -     
+HH | 0.990 +/- 0.003 |       -      | 0.013 +/- 0.005 | 9.6 +/- 2.5 | 0.89 | 4.3 +/- 1.3
+HE | 0.984 +/- 0.004 | 31.5 +/- 3.9 | 0.012 +/- 0.006 | 9.4 +/- 1.3 | 0.86 | 5.3 +/- 2.3
+NI | 0.988 +/- 0.002 | 27.4 +/- 5.8 | 0.011 +/- 0.004 | 4.4 +/- 2.0 | 0.68 | 1.2 +/- 0.8
+MV | 0.982 +/- 0.003 |       -      | 0.015 +/- 0.005 |       -      | 0.74 |       -     
+NW | 0.989 +/- 0.001 | 26.8 +/- 3.2 | 0.014 +/- 0.002 | 6.2 +/- 0.5 | 0.78 | 2.6 +/- 0.9
+RP | 0.979 +/- 0.005 | 36.5 +/- 5.9 | 0.012 +/- 0.004 | 10.7 +/- 2.0 | 0.83 |       -     
+SL | 0.987 +/- 0.003 |       -      | 0.017 +/- 0.004 |       -      | 0.48 |       -     
+SN | 0.971 +/- 0.007 |       -      | 0.016 +/- 0.006 |       -      | 0.81 |       -     
+ST | 0.981 +/- 0.006 |       -      | 0.012 +/- 0.004 | 3.7          | 0.67 |       -     
+SH | 0.989 +/- 0.002 |       -      | 0.007 +/- 0.003 |       -      | 0.74 |       -     
+TH | 0.973 +/- 0.006 |       -      | 0.013 +/- 0.005 |       -      | 0.57 |       -     
 
- * rec. frac: fraction of contagious who recover (for relative comparison only)
- * death delay: mean number of dates from infectious to death
- * icu frac: fraction of symptomatic who are admitted to ICU
- * icu delay: mean time from symptoms to ICU admission
- * vent delay: mean time from ICU admission to ventilator
+ * *rec. frac*: fraction of contagious who recover (for relative comparison only)
+ * *death delay*: mean number of dates from infectious to death
+ * *icu frac*: fraction of symptomatic who are admitted to ICU
+ * *icu delay*: mean time from symptoms to ICU admission
+ * *vent frac*: fraction of icu patients who are intubated
+ * *vent delay*: mean time from ICU admission to ventilator
+
+Notes:
+
+ * The following parameter values were assumed:
+
+   * Mean time in ICU: 14 days
+   * Mean time on ventillator: 10 days
+
+ * Changing these parameter values would affect the estimates for *icu frac*, since the current
+number of patients in the ICU depends on the length of time patients stay in the ICU.
+
+ * Also, the fraction of the infected population that were tested is not well established, which
+means that the absolute fraction of contagious who die is not well known.
+The *rec. frac* is therefore useful only for relative comparison only.
 
 ## Infection status
 
