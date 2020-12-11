@@ -15,7 +15,7 @@ The trajectory in BC appears to have improved recently, requiring accurate recen
 A better analysis [here](../bc20201209) uses corrected data (including Saturday and Sunday numbers) and shows
 the breakdowns by health region.
 
-[bc](img/bcc_2_6_1210.png)
+![bc](img/bcc_2_6_1210.png)
 
 ### [Alberta](img/ab_2_6_1210.pdf)
 
