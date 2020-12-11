@@ -110,9 +110,9 @@ Only regions with sufficient statistics to properly analyze uncertainty in &delt
 
 The following plots show the forecasts for weekly cases and deaths. The shaded regions show the 50%, 80%, and 95% CL intervals.
 
-### [BC](img/bcc-forecast.pdf)
+### [BC](img/bc-forecast.pdf)
 
-![bc](img/bcc-forecast.png)
+![bc](img/bc-forecast.png)
 
 ### [Alberta](img/ab-forecast.pdf)
 
