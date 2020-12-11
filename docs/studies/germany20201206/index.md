@@ -12,7 +12,12 @@ That trajectory is itself defined by long periods of constant transmission rates
 The curves show the model predictions given the transmission rate parameters, as determined from the case data only.
 The shaded regions indicate the periods having a constant transmission rate.
 
+The model parameter for the mean time from infectiousness to death needed to be increased from 18 days, as found in the
+April data, to around 30 days for the recent data.
+
 The right figures show the number of patients in ICU and on ventilators.
+
+Studies broken down by age are shown below.
 
 ### [Baden-Wurttemberg](img/bw_2_6_1206.pdf)
 
@@ -220,7 +225,51 @@ million.
 
 ![th](img/th-summary.png)
 
+## Studies by age
 
+Different age groups generally do not follow the social distancing policies to the same extent.
+Despite that, the epidemic growth is typically very similar between the groups, and this can
+be explained by mixing between the groups.
+
+The most recent change to transmission rates occuring at the end of October shows an unusual trend with
+the older age groups having daily growth larger than the younger groups. An example is seen in the figure
+below that shows cases over the past 60 days in NW state, as fit with an ensemble of 4 age groups:
+(a2: 15-34, a3: 35-59, a4:60-79, a5:80+).
+
+![nwx](img/nw-x-inc-contact-mix-0.020.png)
+
+This may be the reason that the ICU and ventilator data do not follow the homogeneous model predictions
+over the past few weeks in some states, as shown above. ICU and ventilator data by age group is not available.
+
+### Cases and deaths by age
+
+The following figures shows cases and deaths in the older age groups for three states,
+Baden-Warttemberg (bw), 
+Bavaria (by), and
+North Rhine-Westphalia (nw), where the labels are
+(a4: age 60-79, a5: age 80+).
+
+The main features (transition dates, dates of outbreaks) are taken from the homogenous fits for each state.
+Also, the death delays assumed in the fits are those estimated from the homogeneous model fits above.
+The transmission rates and  scaling parameters are adjusted for each age group.
+
+#### [Baden-Warttemberg]
+
+![bw4](img/bw_a4_2_6_1209.png)
+
+![bw5](img/bw_a5_2_6_1209.png)
+
+#### [Bavaria]
+
+![by4](img/by_a4_2_6_1209.png)
+
+![by5](img/by_a5_2_6_1209.png)
+
+#### [North Rhine-Westphalia]
+
+![nw4](img/nw_a4_2_6_1209.png)
+
+![nw5](img/nw_a5_2_6_1209.png)
 
 
 ## [return to case studies](../index.md)
