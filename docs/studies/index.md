@@ -13,6 +13,20 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### December 13, 2020: [USA by state](usa20201213/index.md)
+
+This is the latest analysis prepared for
+the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
+
+Most states have been experiencing rapid growth in cases and hospitalizations since October,
+but several are now showing a slowing trend that began in November.
+
+[![uc](usa_uc_2020-11-15.png)](usa_uc_2020-11-15.gif)
+
+Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
+fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
+corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
+
 ### December 10, 2020: [9 provinces](prov20201210/index.md)
 
 This is an update of the previous provincial analysis, now using data from March 1 - December 8.
@@ -39,19 +53,6 @@ by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Inst
 
 Data is provided by [Robert Koch Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0) and [DIVI Intensivregister](https://www.divi.de/register/tagesreport).
 The data has much less reporting variance than those from USA, making it a good basis for developing and evaluating models.
-
-### December 6, 2020: [USA by state](usa20201206/index.md)
-
-This is the latest analysis prepared for the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
-
-Most states have been experiencing rapid growth in cases and hospitalizations, but many are showing a slowing that began
-early-mid November.
-
-[![uc](usa_uc_2020-11-15.png)](usa_uc_2020-11-15.gif)
-
-Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
-fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
-corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
 
 ### November 22, 2020: [USA by state](usa_hhs_20201122/index.md)
 
