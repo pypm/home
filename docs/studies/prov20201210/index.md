@@ -12,7 +12,7 @@ Most plots start on August 1 and run through mid-December.
 ### [BC](img/bcc_2_6_1210.pdf)
 
 The trajectory in BC appears to have improved recently, requiring accurate recent data.
-A better analysis [here](../bc20201209) uses corrected data (including Saturday and Sunday numbers) and shows
+A better analysis [here](../bc20201216) uses corrected data (including Saturday and Sunday numbers) and shows
 the breakdowns by health region.
 
 ![bc](img/bcc_2_6_1210.png)

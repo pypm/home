@@ -13,6 +13,22 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### Devember 16, 2020: [BC by health region](bc20201216/index.md)
+
+The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
+the number of cases each day, divided into sex, age, and health region.
+The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
+the dates assigned to each positive case.
+
+The province saw COVID-19 growth in all regions, in October, with the strongest growth in the two Vancouver
+health regons.
+At the beginning of November, new restrictions came into force in Vancouver, and the data now shows
+a decline in transmission rate for Vancouver Coastal and Fraser Health regions, as well as a reduction for
+Vancouver Island. The data does not yet indicate a significant reduction in growth rate for the Interior or Northern
+regions.
+
+Forecasts for the coming month are provided.
+
 ### December 13, 2020: [USA by state](usa20201213/index.md)
 
 This is the latest analysis prepared for
@@ -31,20 +47,6 @@ corresponds to a factor of 10 in the contagious fraction. The above still image 
 
 This is an update of the previous provincial analysis, now using data from March 1 - December 8.
 The report includes forecasts for the upcoming 5 weeks.
-
-### Devember 9, 2020: [BC by health region](bc20201209/index.md)
-
-The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
-the number of cases each day, divided into sex, age, and health region.
-The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
-the dates assigned to each positive case.
-
-The province saw COVID-19 growth in all regions, in October, with the strongest growth in the two Vancouver
-health regons.
-At the beginning of November, new restrictions came into force in Vancouver, and the data now shows
-a decline in transmission rate for Vancouver Coastal and Fraser Health regions, as well as a reduction for
-Vancouver Island. The data does not indicate a significant reduction in growth rate for the Interior or Northern
-regions.
 
 ### December 6, 2020: [16 German states](germany20201206/index.md)
 
