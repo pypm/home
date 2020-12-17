@@ -9,7 +9,10 @@ The uncertain effective transition date results in additional uncertainty in est
 To account for this, the transition date is adjusted by +/- 2 days around the best fit date.
 This process increases the interval quoted for the final growth rate substantially.
 
-Growth continues in the Interior and Northern regions.
+There may be indications that the growth in the Interior and Northern regions is slowing.
+A new transition has been added to indicate that possibility for both regions.
+As a result the current growth estimates
+are very uncertain.
 
 The points are daily cases, and the stars show weekly average, to help guide the eye.
 
@@ -49,10 +52,10 @@ HA| &delta | day | &delta; | day | &delta; | day | &delta;
 ---|---|---|---|---|---|---|---
 bc| 3.0 +/-  0.5|Aug 28| 0.4 +/-  0.3|Oct 04| 4.7 +/-  0.2|Nov 13|-0.3 +/-  0.9
 fraser| 3.6 +/-  0.6|Aug 23|-1.8 +/-  0.9|Sep 13| 4.4 +/-  0.2|Nov 14|-0.6 +/-  1.1
-interior|-4.5 +/-  0.9|Aug 28| 4.6 +/-  0.2
+interior|-4.9 +/-  1.0|Aug 28| 4.8 +/-  0.3|Nov 28| 1.9 +/-  2.7
 island| 0.6 +/-  0.4|Oct 21| 10.6 +/-  1.5|Nov 14|-3.2 +/-  2.3
 coastal| 2.1 +/-  0.5|Sep 07|-0.6 +/-  0.3|Oct 15| 6.1 +/-  0.4|Nov 09|-1.3 +/-  0.9
-northern|-2.9 +/-  0.5|Jul 19| 3.8 +/-  0.9|Sep 09|-3.6 +/-  1.4|Oct 07| 5.3 +/-  0.4
+northern|-2.1 +/-  0.7|Jul 19| 4.3 +/-  0.7|Sep 09|-4.8 +/-  1.2|Oct 07| 6.1 +/-  0.5|Nov 28|-0.9 +/-  3.0
 
 * &delta;: daily fractional growth parameter (in percent)
 * day: dates when transmission rate changed

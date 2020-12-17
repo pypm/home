@@ -24,8 +24,10 @@ The province saw COVID-19 growth in all regions, in October, with the strongest 
 health regons.
 At the beginning of November, new restrictions came into force in Vancouver, and the data now shows
 a decline in transmission rate for Vancouver Coastal and Fraser Health regions, as well as a reduction for
-Vancouver Island. The data does not yet indicate a significant reduction in growth rate for the Interior or Northern
+Vancouver Island.
+The data may be indicating the beginning of reduction in growth rate for the Interior and Northern
 regions.
+More data is required to clarify the situation.
 
 Forecasts for the coming month are provided.
 
