@@ -34,7 +34,7 @@ Forecasts for the coming month are provided.
 This is an update of the previous provincial analysis, now using data from March 1 - December 23.
 The report includes forecasts for the upcoming 4 weeks.
 
-### December 13, 2020: [USA by state](usa20201213/index.md)
+### December 20, 2020: [USA by state](usa20201220/index.md)
 
 This is the latest analysis prepared for
 the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
