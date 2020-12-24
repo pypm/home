@@ -25,9 +25,9 @@ Note that the recent rapid growth in the in-hospital numbers generally
 follows the trajectory determined from the
 case data, indicating that the case data is a useful predictor for the infection trajectory.
 
-### [Alaska](img/ak_2_6_1220_h.pdf)
+### [Alaska](img/ak_2_6_1220.pdf)
 
-![ak](img/ak_2_6_1220_h.png)
+![ak](img/ak_2_6_1220.png)
 
 ### [Alabama](img/al_2_6_1220.pdf)
 
@@ -81,37 +81,37 @@ case data, indicating that the case data is a useful predictor for the infection
 
 ![id](img/id_2_6_1220.png)
 
-### [Illinois](img/il_2_6_1220_h.pdf)
+### [Illinois](img/il_2_6_1220.pdf)
 
-![il](img/il_2_6_1220_h.png)
+![il](img/il_2_6_1220.png)
 
-### [Indiana](img/in_2_6_1220_h.pdf)
+### [Indiana](img/in_2_6_1220.pdf)
 
-![in](img/in_2_6_1220_h.png)
+![in](img/in_2_6_1220.png)
 
-### [Kansas](img/ks_2_6_1220_h.pdf)
+### [Kansas](img/ks_2_6_1220.pdf)
 
-![ks](img/ks_2_6_1220_h.png)
+![ks](img/ks_2_6_1220.png)
 
-### [Kentucky](img/ky_2_6_1220_h.pdf)
+### [Kentucky](img/ky_2_6_1220.pdf)
 
-![ky](img/ky_2_6_1220_h.png)
+![ky](img/ky_2_6_1220.png)
 
-### [Louisiana](img/la_2_6_1220.pdf)
+### [Louisiana](img/la_2_6_1220_h.pdf)
 
-![la](img/la_2_6_1220.png)
+![la](img/la_2_6_1220_h.png)
 
 ### [Massachusetts](img/ma_2_6_1220.pdf)
 
 ![ma](img/ma_2_6_1220.png)
 
-### [Maryland](img/md_2_6_1220_h.pdf)
+### [Maryland](img/md_2_6_1220.pdf)
 
-![md](img/md_2_6_1220_h.png)
+![md](img/md_2_6_1220.png)
 
-### [Maine](img/me_2_6_1220.pdf)
+### [Maine](img/me_2_6_1220_h.pdf)
 
-![me](img/me_2_6_1220.png)
+![me](img/me_2_6_1220_h.png)
 
 ### [Michigan](img/mi_2_6_1220.pdf)
 
@@ -121,13 +121,13 @@ case data, indicating that the case data is a useful predictor for the infection
 
 ![mn](img/mn_2_6_1220.png)
 
-### [Missouri](img/mo_2_6_1220_h.pdf)
+### [Missouri](img/mo_2_6_1220.pdf)
 
-![mo](img/mo_2_6_1220_h.png)
+![mo](img/mo_2_6_1220.png)
 
-### [Mississippi](img/ms_2_6_1220.pdf)
+### [Mississippi](img/ms_2_6_1220_h.pdf)
 
-![ms](img/ms_2_6_1220.png)
+![ms](img/ms_2_6_1220_h.png)
 
 ### [Montana](img/mt_2_6_1220.pdf)
 
@@ -177,9 +177,9 @@ case data, indicating that the case data is a useful predictor for the infection
 
 ![or](img/or_2_6_1220.png)
 
-### [Pennsylvania](img/pa_2_6_1220.pdf)
+### [Pennsylvania](img/pa_2_6_1220_h.pdf)
 
-![pa](img/pa_2_6_1220.png)
+![pa](img/pa_2_6_1220_h.png)
 
 ### [Puerto Rico](img/pr_2_6_1220.pdf)
 
