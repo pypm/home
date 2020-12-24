@@ -29,6 +29,11 @@ The data now shows negative growth for all regions including the Interior and No
 
 Forecasts for the coming month are provided.
 
+### December 24, 2020: [9 provinces](prov20201224/index.md)
+
+This is an update of the previous provincial analysis, now using data from March 1 - December 23.
+The report includes forecasts for the upcoming 4 weeks.
+
 ### December 13, 2020: [USA by state](usa20201213/index.md)
 
 This is the latest analysis prepared for
@@ -42,11 +47,6 @@ but several are now showing a slowing trend that began in November.
 Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
-
-### December 10, 2020: [9 provinces](prov20201210/index.md)
-
-This is an update of the previous provincial analysis, now using data from March 1 - December 8.
-The report includes forecasts for the upcoming 5 weeks.
 
 ### December 6, 2020: [16 German states](germany20201206/index.md)
 
