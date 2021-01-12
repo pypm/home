@@ -110,43 +110,61 @@ The recent changes in growth rate in Vancouver Island and Northen and Interior r
 ### [BC total](img/bc-forecast.pdf)
 
 current
+
 ![bc](img/bc-forecast.png)
+
 Dec 24 forecast
+
 ![bc](img/bc-forecast-x.png)
 
 ### [Fraser](img/fraser-forecast.pdf)
 
 current
+
 ![fraser](img/fraser-forecast.png)
+
 Dec 24 forecast
+
 ![fraser](img/fraser-forecast-x.png)
 
 ### [Coastal](img/coastal-forecast.pdf)
 
 current
+
 ![coastal](img/coastal-forecast.png)
+
 Dec 24 forecast
+
 ![coastal](img/coastal-forecast-x.png)
 
 ### [Interior](img/interior-forecast.pdf)
 
 current
+
 ![interior](img/interior-forecast.png)
+
 Dec 24 forecast
+
 ![interior](img/interior-forecast-x.png)
 
 ### [Northern](img/northern-forecast.pdf)
 
 current
+
 ![northern](img/northern-forecast.png)
+
 Dec 24 forecast
+
 ![northern](img/northern-forecast-x.png)
 
 ### [Vancouver Island](img/island-forecast.pdf)
 
 current
+
 ![island](img/island-forecast.png)
+
 Dec 24 forecast
+
 ![island](img/island-forecast-x.png)
 
 ## [return to case studies](../index.md)
