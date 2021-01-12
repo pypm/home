@@ -13,7 +13,7 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### Devember 24, 2020: [BC by health region](bc20201224/index.md)
+### January 12, 2021: [BC by health region](bc20210112/index.md)
 
 The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
 the number of cases each day, divided into sex, age, and health region.
@@ -23,11 +23,10 @@ the dates assigned to each positive case.
 In October the province saw COVID-19 growth in all region with the strongest growth in the two Vancouver
 health regons.
 At the beginning of November, new restrictions came into force in Vancouver, and the data now shows
-a decline in transmission rate for Vancouver Coastal and Fraser Health regions, as well as a reduction for
-Vancouver Island.
-The data now shows negative growth for all regions including the Interior and Northern.
+a decline in transmission rate for Vancouver Coastal and Fraser Health regions.
+The data now shows positive growth for all other, regions including Vancouver Island, Interior, and Northern.
 
-Forecasts for the coming month are provided.
+Forecasts for the coming month are provided. Comparison of observations and the previous forecast are shown.
 
 ### December 24, 2020: [9 provinces](prov20201224/index.md)
 
