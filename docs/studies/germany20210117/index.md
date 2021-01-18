@@ -3,10 +3,10 @@
 This shows the results of fits to data from the 16 German states.
 This updates the earlier [study](../archive/germany20200625/index.md)
 which described in detail as in the paper [Charaterizing the spread of CoViD-19](../index.md),
-and the more recent [study] (../archive/germany20201206/index.md)
+and the more recent [study](../archive/germany20201206/index.md)
 which showed results prior to Christmas period, showing interesting results for different age groups.
 
-In mid December new lockdown measures came into force.
+In mid-December new lockdown measures came into force.
 Reporting issues over the Christmas period made it difficult to use case data (by age or by state) to
 estimate the transition dates and new transmission rates.
 For that reason, for the first time, this analysis primarily used hospitalization data to estimate
@@ -16,10 +16,16 @@ The left figures below, show the daily case history since October 1, 2020, on a 
 The points daily data, and the stars show the weekly average and
 the pypm model is fit to this data to determine the infection trajectory.
 That trajectory is itself defined by long periods of constant transmission rates.
+A two week period of lower than normal case reporting rate is assumed for late December.
+The reduction is a free parameter in the fits to case data.
 The last part of the trajectory (typically since mid-December) was determined from fits to the hospitalization data.
 The shaded regions indicate the periods having a constant transmission rate.
+The purple points and curves show the death data.
 
 The right figures show the number of patients in ICU and on ventilators.
+
+Normalization to deaths and hospitalization is done using data from days 290-323 only.
+
 
 ### [Baden-Wurttemberg](img/bw_2_8_0117.pdf)
 
@@ -41,17 +47,17 @@ The right figures show the number of patients in ICU and on ventilators.
 
 ![hb](img/hb_2_8_0117.png)
 
-### [Hamburg](img/hh_2_8_0117.pdf)
+### [Hamburg](img/hh_2_8_0117_h.pdf)
 
-![hh](img/hh_2_8_0117.png)
+![hh](img/hh_2_8_0117_h.png)
 
 ### [Hesse](img/he_2_8_0117.pdf)
 
 ![he](img/he_2_8_0117.png)
 
-### [Lower Saxony](img/ni_2_8_0117.pdf)
+### [Lower Saxony](img/ni_2_8_0117_h.pdf)
 
-![ni](img/ni_2_8_0117.png)
+![ni](img/ni_2_8_0117_h.png)
 
 ### [Mecklenburg-Vorpommern](img/mv_2_8_0117.pdf)
 
