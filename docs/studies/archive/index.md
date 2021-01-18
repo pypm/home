@@ -3,6 +3,14 @@
 Click on the links in the titles below to see detailed results from the studies.
 Note that these studies have been superceded by newer studies of the regions. These are kept for comparison.
 
+### December 6, 2020: [16 German states](germany20201206/index.md)
+
+This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
+by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
+
+Data is provided by [Robert Koch Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0) and [DIVI Intensivregister](https://www.divi.de/register/tagesreport).
+The data has much less reporting variance than those from USA, making it a good basis for developing and evaluating models.
+
 ### November 15, 2020: [USA by state](usa20201115/index.md)
 
 This is an analysis prepared for the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
