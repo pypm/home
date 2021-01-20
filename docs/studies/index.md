@@ -28,6 +28,11 @@ The data now shows positive growth for all other, regions including Vancouver Is
 
 Forecasts for the next 4 weeks are provided. Comparison of observations and a previous forecast are shown.
 
+### January 19, 2021: [9 provinces](prov20210119/index.md)
+
+This is an update of the previous provincial analysis, now using data from March 1, 2020 - January 17, 2021.
+The report includes forecasts for the upcoming 4 weeks.
+
 ### January 17, 2021: [16 German states](germany20210117/index.md)
 
 This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
@@ -36,11 +41,6 @@ by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Inst
 Data is provided by [Robert Koch Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0) and [DIVI Intensivregister](https://www.divi.de/register/tagesreport).
 The analysis was made complicated by new lockdown measures instituted in mid-December along with reporting issues over the Christmas holiday
 period.
-
-### December 24, 2020: [9 provinces](prov20201224/index.md)
-
-This is an update of the previous provincial analysis, now using data from March 1 - December 23.
-The report includes forecasts for the upcoming 4 weeks.
 
 ### December 20, 2020: [USA by state](usa20201220/index.md)
 
