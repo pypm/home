@@ -6,8 +6,9 @@ The plots on the left show the daily case numbers (green points) and deaths (pur
 the weekly averages (stars) on a log scale.
 The plots on the right show the number of people in hospital on a linear scale.
 
-The trajectory of hospitalization in Alberta continued to grow for several weekas after the daily cases started to diminish,
-not following the typical behaviour seen in many US states.
+The trajectory of hospitalization in Alberta continued to grow for several weekas after the daily cases started to diminish.
+The hospitalization trajectories generally do not follow the case trajectories well, in contrast to
+the typical behaviour seen in most German and US states (posted in this area).
 
 Forecasts for the coming month are provided, assuming no general change in behaviour.
 Ontario brought in additional measures into force on Dec 26, which may substantially change its trajectory.
