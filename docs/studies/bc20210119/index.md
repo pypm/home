@@ -1,7 +1,6 @@
 ## January 19, 2021 Analysis of BC regional data
 
-The following shows graphs of daily cases and cumulative cases. Data through January 17 are used,
-with the plots starting on October 1.
+The following shows graphs of daily cases and cumulative cases. Data through January 17 are used, with the plots starting on October 1.
 
 Changes in social behaviours and other factors cause transmission rates to change from time to time.
 The analysis estimates transition dates from the data.
