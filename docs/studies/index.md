@@ -13,6 +13,24 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### January 26, 2021: [BC by health region](bc20210126/index.md)
+
+The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
+the number of cases each day, divided into sex, age, and health region.
+The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
+the dates assigned to each positive case.
+
+In October the province saw COVID-19 growth in all regions with the strongest growth in the two Vancouver
+health regons.
+At the beginning of November, new restrictions came into force in Vancouver, which reduced growth rates.
+The data currently show a steady decline in cases in the Fraser Health region but
+show positive growth for all other, regions: Vancouver Island, Coastal, Interior, and Northern.
+
+In the past, the two Vancouver health regions have had larger growth rates than the other regions.
+Currently, Vancouver Island is the region with the highest growth rate.
+
+Forecasts for the next 4 weeks are provided. Comparisons of observations and a forecast from last month are shown.
+
 ### January 24, 2021: [USA by state](usa20210124/index.md)
 
 This is the latest analysis prepared for
@@ -25,21 +43,6 @@ Overall the US forecasts show decline. Vaccination and new variants are not incl
 Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
-
-### January 19, 2021: [BC by health region](bc20210119/index.md)
-
-The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
-the number of cases each day, divided into sex, age, and health region.
-The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
-the dates assigned to each positive case.
-
-In October the province saw COVID-19 growth in all regions with the strongest growth in the two Vancouver
-health regons.
-At the beginning of November, new restrictions came into force in Vancouver, and the data now shows
-a decline in transmission rate for Vancouver Coastal and Fraser Health regions.
-The data now shows positive growth for all other, regions including Vancouver Island, Interior, and Northern.
-
-Forecasts for the next 4 weeks are provided. Comparison of observations and a previous forecast are shown.
 
 ### January 19, 2021: [9 provinces](prov20210119/index.md)
 
