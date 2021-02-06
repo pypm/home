@@ -13,6 +13,16 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### February 5, 2021: [Israel during vaccine deployment](https://github.com/pypm/quickstart/blob/master/misc/israel_vaccination_study_20210204/israel_20210204.ipynb)
+
+Israel currently has the highest rate of vaccinations per capita, with more than 40% of the population having received their first dose by early February.
+The case and vaccination time-series data from Israel are analyzed and
+amongst the older population, being nearly 90% vaccinated, the decline
+in cases is consistent with expectations from vaccination immunity.
+
+These data are valuable to benchmark vaccination models, to improve
+forecasting accuracy in other regions a with slower vaccination schedule.
+
 ### February 2, 2021: [BC by health region](bc20210202/index.md)
 
 The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
