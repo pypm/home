@@ -13,6 +13,12 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### February 7, 2021: [9 provinces](prov20210207/index.md)
+
+This is an update of the previous Canadian provincial analyses,
+now using data from March 1, 2020 - February 6, 2021.
+The report includes forecasts for the upcoming 4 weeks.
+
 ### February 5, 2021: [Israel during vaccine deployment](https://github.com/pypm/quickstart/blob/master/misc/israel_vaccination_study_20210204/israel_20210204.ipynb)
 
 Israel currently has the highest rate of vaccinations per capita, with more than 40% of the population having received their first dose by early February.
@@ -20,8 +26,7 @@ The case and vaccination time-series data from Israel are analyzed and
 amongst the older population, being nearly 90% vaccinated, the decline
 in cases is consistent with expectations from vaccination immunity.
 
-These data are valuable to benchmark vaccination models, to improve
-forecasting accuracy in other regions a with slower vaccination schedule.
+This represents the first quantitative demonstration of herd-immunity to COVID-19 at a national scale.
 
 ### February 2, 2021: [BC by health region](bc20210202/index.md)
 
@@ -53,11 +58,6 @@ Overall the US forecasts show decline. Vaccination and new variants are not incl
 Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
-
-### January 19, 2021: [9 provinces](prov20210119/index.md)
-
-This is an update of the previous provincial analysis, now using data from March 1, 2020 - January 17, 2021.
-The report includes forecasts for the upcoming 4 weeks.
 
 ### January 17, 2021: [16 German states](germany20210117/index.md)
 
