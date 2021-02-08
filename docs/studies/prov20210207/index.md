@@ -19,7 +19,7 @@ Forecasts from a previous analysis in January is compared with the most recent d
 
 ### [BC](img/bcc_2_8_0207.pdf)
 
-A better analysis [here](../bc20210119) uses corrected data (including Saturday and Sunday numbers) and shows
+A better analysis [here](../bc20210202) uses corrected data (including Saturday and Sunday numbers) and shows
 the breakdowns by health region.
 
 ![bc](img/bcc_2_8_0207.png)

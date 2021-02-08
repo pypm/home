@@ -82,25 +82,6 @@ This provides useful data to study how to model a non-homogenous population.
 
 An initial study of Brazil data: fitting to death data only.
 
-### Possible future studies
-
-* Reporting noise, due to the process by which reports are collected, greatly affect the
-variation seen in daily case numbers. These have strong negative correlation between neighboring
-days (as missed reports and included in the subsequent day's reports).
-A simple model for reporting noise is included in ``pyPM.ca``, with a single parameter.
-Tests of the reporting noise model will be shown.
-
-* Negative binomial parameter: It is common to not treat infections as independent events (which
-would lead to treating the number of cases on a day as an outcome of a Poisson random variable).
-Instead, it is common to use a negative binomial distribution.
-The choice of the single additional parameter is studied.
-
-* Projections for growth resulting from relaxation of social distancing. Choose some
-modified transmission rates, show the expectations, and consider how much time is required to
-detect changes for a given significance.
-
-* Consider the effect of contact tracing (included in reference model 2.)
-
 ## [Archive of older studies](archive/index.md)
 
 ## [return to pyPM.ca documentation home page](../..)
