@@ -44,7 +44,7 @@ The case and vaccination time-series data from Israel are analyzed and
 amongst the older population, being nearly 90% vaccinated, the decline
 in cases is consistent with expectations from vaccination immunity.
 
-This represents the first quantitative demonstration of herd-immunity to COVID-19 at a national scale.
+This represents the first quantitative demonstration of the herd-effect to COVID-19 at a national scale.
 
 ### January 24, 2021: [USA by state](usa20210124/index.md)
 
