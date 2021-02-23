@@ -13,6 +13,20 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### February 21, 2021: [USA by state](usa20210221/index.md)
+
+This is the latest analysis prepared for
+the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
+
+Overall the US forecasts show decline. Vaccination is well underway.
+Plots for each state show how natural and vaccination immunity is playing a role to bring infections down.
+
+[![uc](usa_uc_2020-11-15.png)](usa_uc_2020-11-15.gif)
+
+Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
+fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
+corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
+
 ### February 8, 2021: [BC by health region](bc20210208/index.md)
 
 The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
@@ -45,19 +59,6 @@ amongst the older population, being nearly 90% vaccinated, the decline
 in cases is consistent with expectations from vaccination immunity.
 
 This represents the first quantitative demonstration of the herd-effect to COVID-19 at a national scale.
-
-### January 24, 2021: [USA by state](usa20210124/index.md)
-
-This is the latest analysis prepared for
-the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
-
-Overall the US forecasts show decline. Vaccination and new variants are not included in these analyses.
-
-[![uc](usa_uc_2020-11-15.png)](usa_uc_2020-11-15.gif)
-
-Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
-fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
-corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
 
 ### January 17, 2021: [16 German states](germany20210117/index.md)
 
