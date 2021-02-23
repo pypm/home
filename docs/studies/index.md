@@ -27,6 +27,14 @@ Click on the above image to see a time lapse animation of how COVID-19 spread th
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
 
+### February 21, 2021: [16 German states](germany20210221/index.md)
+
+This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
+by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
+
+Data is provided by [Robert Koch Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0)
+Unlike the situation in the US, immunity is not playing a significant role in bringing down the infection.
+
 ### February 8, 2021: [BC by health region](bc20210208/index.md)
 
 The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
@@ -59,15 +67,6 @@ amongst the older population, being nearly 90% vaccinated, the decline
 in cases is consistent with expectations from vaccination immunity.
 
 This represents the first quantitative demonstration of the herd-effect to COVID-19 at a national scale.
-
-### January 17, 2021: [16 German states](germany20210117/index.md)
-
-This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
-by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
-
-Data is provided by [Robert Koch Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0) and [DIVI Intensivregister](https://www.divi.de/register/tagesreport).
-The analysis was made complicated by new lockdown measures instituted in mid-December along with reporting issues over the Christmas holiday
-period.
 
 ### November 22, 2020: [USA by state](usa_hhs_20201122/index.md)
 

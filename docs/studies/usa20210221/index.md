@@ -7,8 +7,10 @@ The data fits were done using data up until February 20, 2021.
 
 The green points are the daily cases, the grey points the daily hospitalizations, and
 indigo points are the daily deaths (each averaged over a week).
-The case data are used to define the periods for which transmission rate appears to be constant,
-leading to steady exponential growth or decline during the period, which appear as straight lines on
+The case data are used to define the periods for which transmission rate appears to be constant.
+The vertical lines show where the transmission rate is changed.
+In absence of immunity, constant transmission rates
+lead to steady exponential growth or decline during, which appear as straight lines on
 these log-scale plots.
 The curves are the model expectations for cases, hospitalizations, and deaths, as determined from
 the case data.
