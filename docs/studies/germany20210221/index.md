@@ -37,17 +37,17 @@ The reduction is a free parameter in the fits to case data.
 
 ![hb](img/hb_2_8_0221.png)
 
-### [Hamburg](img/hh_2_8_0221_h.pdf)
+### [Hamburg](img/hh_2_8_0221.pdf)
 
-![hh](img/hh_2_8_0221_h.png)
+![hh](img/hh_2_8_0221.png)
 
 ### [Hesse](img/he_2_8_0221.pdf)
 
 ![he](img/he_2_8_0221.png)
 
-### [Lower Saxony](img/ni_2_8_0221_h.pdf)
+### [Lower Saxony](img/ni_2_8_0221.pdf)
 
-![ni](img/ni_2_8_0221_h.png)
+![ni](img/ni_2_8_0221.png)
 
 ### [Mecklenburg-Vorpommern](img/mv_2_8_0221.pdf)
 
