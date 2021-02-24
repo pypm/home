@@ -13,6 +13,26 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### February 23, 2021: [BC by health region](bc20210208/index.md)
+
+The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
+the number of cases each day, divided into sex, age, and health region.
+The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
+the dates assigned to each positive case.
+
+In October the province saw COVID-19 growth in all regions with the strongest growth in the two Vancouver
+health regons.
+At the beginning of November, new restrictions came into force in Vancouver, which reduced the rate of growth.
+
+The Fraser Health region had see declining daily cases, since mid-November, unlike the other regions
+which had steady or growing case numbers.
+Starting at the end of January, cases started growing again in the Fraser HA, at about 2 +/- 1 % per day.
+
+The growth in Vancouver Island has stopped, and there is now significant decline in the Interior.
+The Coastal and Northern regions remain steady.
+
+Forecasts for the next 4 weeks are provided. Comparisons of observations and a forecast from last month are shown.
+
 ### February 21, 2021: [USA by state](usa20210221/index.md)
 
 This is the latest analysis prepared for
@@ -34,24 +54,6 @@ by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Inst
 
 Data is provided by [Robert Koch Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0)
 Unlike the situation in the US, immunity is not playing a significant role in bringing down the infection.
-
-### February 8, 2021: [BC by health region](bc20210208/index.md)
-
-The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
-the number of cases each day, divided into sex, age, and health region.
-The data differs somewhat from that used in the Canada-wide studies, possibly due to corrections in
-the dates assigned to each positive case.
-
-In October the province saw COVID-19 growth in all regions with the strongest growth in the two Vancouver
-health regons.
-At the beginning of November, new restrictions came into force in Vancouver, which reduced the rate of growth.
-The Fraser Health region has declining daily cases, since November, unlike the other regions
-which have steady or growing case numbers.
-
-In the past, the two Vancouver health regions have had larger growth rates than the other regions.
-Currently, Vancouver Island is the region with the highest growth rate.
-
-Forecasts for the next 4 weeks are provided. Comparisons of observations and a forecast from last month are shown.
 
 ### February 7, 2021: [9 provinces](prov20210207/index.md)
 
