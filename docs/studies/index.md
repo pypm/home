@@ -13,7 +13,7 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### February 23, 2021: [BC by health region](bc20210208/index.md)
+### February 23, 2021: [BC by health region](bc20210223/index.md)
 
 The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
 the number of cases each day, divided into sex, age, and health region.
