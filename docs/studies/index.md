@@ -6,12 +6,21 @@
     * introduces the pypm framework and describes methods to define comparitive statistics with weak model dependence
     and estimate their uncertainties
 
-* Presentation: [Characterizing the spread of CoViD-19](reports/pims_karlen20200622.pdf), D. Karlen, June 22, 2020.
-    * presentation at the [CAIMS-PIMS Coronavirus Modelling Conference](https://www.pims.math.ca/scientific-event/200622-cpcmc)
-
 ## Case studies
 
 Click on the titles below to see detailed results from the studies.
+
+### February 28, 2021: [16 German states](germany20210228/index.md)
+
+This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
+by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
+
+Data is provided by [Robert Koch Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0)
+Unlike the situation in the US, immunity is not playing a significant role in bringing down the infection.
+
+Recently cases are starting to increase and there is concern about B.1.1.7 variant.
+The model fits include a second infection cycle for the variant with a nominal advantage of 10% per day larger growth rate.
+Model fits to the case data appear to be consistent with variant fraction currently making up about 30-40% of cases.
 
 ### February 23, 2021: [BC by health region](bc20210223/index.md)
 
@@ -46,14 +55,6 @@ Plots for each state show how natural and vaccination immunity is playing a role
 Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
-
-### February 21, 2021: [16 German states](germany20210221/index.md)
-
-This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
-by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
-
-Data is provided by [Robert Koch Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0)
-Unlike the situation in the US, immunity is not playing a significant role in bringing down the infection.
 
 ### February 7, 2021: [9 provinces](prov20210207/index.md)
 
