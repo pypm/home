@@ -1,4 +1,4 @@
-## Marck 9, 2021 Analysis of BC regional data
+## March 9, 2021 Analysis of BC regional data
 
 The following shows graphs of daily cases and cumulative cases. Data through March 7 are used,
 with the plots starting on November 1.
