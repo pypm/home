@@ -19,12 +19,12 @@ The vertical dashed lines shown where transmission rates are changed in the mode
 The rapidly rising lines (olive) show the growth of cases due to B.1.1.7.
 The contribution is not yet well established, except for Ontario.
 
-### [BC](img/bcc_2_8_0311.pdf)
+### [BC](img/bc_2_8_0311.pdf)
 
 A better analysis [here](../bc20210309) uses corrected data (including Saturday and Sunday numbers) and shows
 the breakdowns by health region.
 
-![bc](img/bcc_2_8_0311.png)
+![bc](img/bc_2_8_0311.png)
 
 ### [Alberta](img/ab_2_8_0311.pdf)
 
