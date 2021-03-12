@@ -10,6 +10,13 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### March 11, 2021: [5 provinces](prov20210311/index.md)
+
+Model fits to data from BC, Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
+A second infection cycle is included in the model to represent the B.1.1.7 variant.
+Forecasts for the coming weeks and months are highly uncertain since the variant prevelance
+is not well measured, except Ontario.
+
 ### March 9, 2021: [BC by health region](bc20210309/index.md)
 
 The BC government makes [available](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
@@ -56,12 +63,6 @@ in growth rate of 8% per day.
 Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
-
-### February 7, 2021: [9 provinces](prov20210207/index.md)
-
-This is an update of the previous Canadian provincial analyses,
-now using data from March 1, 2020 - February 6, 2021.
-The report includes forecasts for the upcoming 4 weeks.
 
 ### February 5, 2021: [Israel during vaccine deployment](https://github.com/pypm/quickstart/blob/master/misc/israel_vaccination_study_20210204/israel_20210204.ipynb)
 
