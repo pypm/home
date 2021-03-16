@@ -10,6 +10,34 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### March 14, 2021: [USA by state](usa20210314/index.md)
+
+This shows results from an analysis prepared for
+the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
+
+Overall US cases continue to decline. Vaccination is well underway.
+Plots for each state show how natural and vaccination immunity is playing a role to bring infections down.
+The analysis now accounts for the rapid growth of the B117 variant, having an advantage
+in growth rate of 8% per day.
+
+[![uc](usa_uc_2020-11-15.png)](usa_uc_2020-11-15.gif)
+
+Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
+fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
+corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
+
+### March 14, 2021: [16 German states](germany20210314/index.md)
+
+This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
+by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
+
+Data is provided by [Robert Koch Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0)
+Unlike the situation in the US, immunity is not yet playing a significant role in bringing down the infection.
+
+Recently cases are starting to increase and there is concern about B.1.1.7 variant.
+The model fits include a second infection cycle for the variant with a nominal advantage of 10% per day larger growth rate.
+Model fits to the case data appear to be consistent with variant fraction currently making up about 40-90% of cases.
+
 ### March 11, 2021: [5 provinces](prov20210311/index.md)
 
 Model fits to data from BC, Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
@@ -35,34 +63,6 @@ Only the Interior region is showing significant decline.
 
 Forecasts for the next 4 weeks are provided. Comparisons of recent data
 and a forecast from last month are shown.
-
-### March 7, 2021: [16 German states](germany20210307/index.md)
-
-This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
-by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
-
-Data is provided by [Robert Koch Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0)
-Unlike the situation in the US, immunity is not playing a significant role in bringing down the infection.
-
-Recently cases are starting to increase and there is concern about B.1.1.7 variant.
-The model fits include a second infection cycle for the variant with a nominal advantage of 10% per day larger growth rate.
-Model fits to the case data appear to be consistent with variant fraction currently making up about 30-40% of cases.
-
-### March 7, 2021: [USA by state](usa20210307/index.md)
-
-This shows results from an analysis prepared for
-the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
-
-Overall the US forecasts show decline. Vaccination is well underway.
-Plots for each state show how natural and vaccination immunity is playing a role to bring infections down.
-The analysis now accounts for the rapid growth of the B117 variant, having an advantage
-in growth rate of 8% per day.
-
-[![uc](usa_uc_2020-11-15.png)](usa_uc_2020-11-15.gif)
-
-Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
-fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
-corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
 
 ### February 5, 2021: [Israel during vaccine deployment](https://github.com/pypm/quickstart/blob/master/misc/israel_vaccination_study_20210204/israel_20210204.ipynb)
 
