@@ -10,6 +10,8 @@
 
 Click on the titles below to see detailed results from the studies.
 
+<!-- Leave off for now
+
 ### March 14, 2021: [USA by state](usa20210314/index.md)
 
 This shows results from an analysis prepared for
@@ -25,6 +27,8 @@ in growth rate of 8% per day.
 Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
+
+-->
 
 ### March 14, 2021: [16 German states](germany20210314/index.md)
 
