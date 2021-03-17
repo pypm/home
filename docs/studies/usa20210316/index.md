@@ -34,18 +34,18 @@ and current "frequency" of these cases.
 
 State | s | w |f_v (Mar 13)
 ---|---|---|---
-California|0.070 $\pm$ 0.004|0.002 $\pm$ 0.012|0.381 $\pm$ 0.007
-Florida|0.069 $\pm$ 0.001|0.008 $\pm$ 0.001|0.614 $\pm$ 0.007
-Georgia|0.093 $\pm$ 0.002|0.004 $\pm$ 0.001|0.578 $\pm$ 0.011
-Indiana|0.083 $\pm$ 0.010|0.000 $\pm$ 0.000|0.288 $\pm$ 0.044
-Michigan|0.080 $\pm$ 0.010|0.000 $\pm$ 0.000|0.573 $\pm$ 0.045
-North Carolina|0.092 $\pm$ 0.004|0.001 $\pm$ 0.003|0.313 $\pm$ 0.008
-Pennsylvania|0.085 $\pm$ 0.002|0.003 $\pm$ 0.001|0.366 $\pm$ 0.004
-Texas|0.087 $\pm$ 0.004|0.000 $\pm$ 0.000|0.572 $\pm$ 0.028
+California|0.070 &pm; 0.004|0.002 &pm; 0.012|0.381 &pm; 0.007
+Florida|0.069 &pm; 0.001|0.008 &pm; 0.001|0.614 &pm; 0.007
+Georgia|0.093 &pm; 0.002|0.004 &pm; 0.001|0.578 &pm; 0.011
+Indiana|0.083 &pm; 0.010|0.000 &pm; 0.000|0.288 &pm; 0.044
+Michigan|0.080 &pm; 0.010|0.000 &pm; 0.000|0.573 &pm; 0.045
+North Carolina|0.092 &pm; 0.004|0.001 &pm; 0.003|0.313 &pm; 0.008
+Pennsylvania|0.085 &pm; 0.002|0.003 &pm; 0.001|0.366 &pm; 0.004
+Texas|0.087 &pm; 0.004|0.000 &pm; 0.000|0.572 &pm; 0.028
 
-s: selection coefficient
-w: SGTF false identification probability
-f_v: fraction of cases due to the variant on March 13, 2021
+ * s: selection coefficient
+ * w: SGTF false identification probability
+ * f_v: fraction of cases due to the variant on March 13, 2021
 
 
 ## States with genomic data
@@ -281,10 +281,11 @@ Such NPI changes can lead to large changes in the projections for the future gro
 ## Summary of growth rates (with and without immunity)
 
 The following plots summarize the infection history.
-The upper plot shows the daily growth/decline of infections (% per day).
+The upper plot shows the daily growth/decline of infections (% per day) for the orginal strain.
 The dashed curve are the growths that would have been experienced in absense of immunity.
 Natural immunity built up during the course of the epidemic has helped reduce infections and
 this is now being overtaken by vaccine immunity in many of the states.
+Note that the daily growth rate for the B117 variant is typically 8% more than that of the original strain.
 
 The lower plot shows an estimate of the contagious fraction of the population as a function of time.
 
