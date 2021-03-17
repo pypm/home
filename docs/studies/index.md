@@ -10,17 +10,22 @@
 
 Click on the titles below to see detailed results from the studies.
 
-<!-- Leave off for now
-
-### March 14, 2021: [USA by state](usa20210314/index.md)
+### March 16, 2021: [USA by state](usa20210316/index.md)
 
 This shows results from an analysis prepared for
 the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
 
-Overall US cases continue to decline. Vaccination is well underway.
+Most states show cases in decline.
+Vaccination is well underway.
 Plots for each state show how natural and vaccination immunity is playing a role to bring infections down.
+
 The analysis now accounts for the rapid growth of the B117 variant, having an advantage
 in growth rate of 8% per day.
+The future growth of cases in states depends on a race between vaccination and the B117 variant and
+on the social distancing measures in force.
+Assuming future behaviour remains the same as current behaviour, significant growth is possible in several
+states in the coming months.
+For those states with genomic screening data, the forecast is much better established.
 
 [![uc](usa_uc_2020-11-15.png)](usa_uc_2020-11-15.gif)
 
@@ -28,7 +33,6 @@ Click on the above image to see a time lapse animation of how COVID-19 spread th
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
 
--->
 
 ### March 14, 2021: [16 German states](germany20210314/index.md)
 
