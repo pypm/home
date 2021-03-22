@@ -34,7 +34,7 @@ fraction of the population in each state who are contagious. The scale is logrit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
 
 
-### March 14, 2021: [16 German states](germany20210314/index.md)
+### March 21, 2021: [16 German states](germany20210321/index.md)
 
 This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
 by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
@@ -42,9 +42,9 @@ by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Inst
 Data is provided by [Robert Koch Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0)
 Unlike the situation in the US, immunity is not yet playing a significant role in bringing down the infection.
 
-Recently cases are starting to increase and there is concern about B.1.1.7 variant.
+Cases have growing quickly, primarily due to the  B.1.1.7 variant.
 The model fits include a second infection cycle for the variant with a nominal advantage of 10% per day larger growth rate.
-Model fits to the case data appear to be consistent with variant fraction currently making up about 40-90% of cases.
+Model fits to the case data appear to be consistent with variant fraction currently making up about 45-85% of cases.
 
 ### March 11, 2021: [5 provinces](prov20210311/index.md)
 
