@@ -10,7 +10,7 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### March 16, 2021: [USA by state](usa20210316/index.md)
+### March 21, 2021: [USA by state](usa20210321/index.md)
 
 This shows results from an analysis prepared for
 the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
@@ -23,7 +23,7 @@ The analysis now accounts for the rapid growth of the B117 variant, having an ad
 in growth rate of 8% per day.
 The future growth of cases in states depends on a race between vaccination and the B117 variant and
 on the social distancing measures in force.
-Assuming future behaviour remains the same as current behaviour, significant growth is possible in several
+Assuming future behaviour remains the same as current behaviour, a return to growth appears likely in several
 states in the coming months.
 For those states with genomic screening data, the forecast is much better established.
 
