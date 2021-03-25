@@ -10,6 +10,16 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### March 24, 2021: [BC by health region](bc20210324/index.md)
+
+The B.1.1.7 variant is likely responsible for the recent growth in daily cases across BC.
+
+The province does not make public the data necessary to estimate the critical parameters for B.1.1.7 in the province, so
+useful forecasts cannot be provided at this time.
+
+This study illustrates possible levels of B.1.1.7 and growth advantage, to give an indication how quickly the situation
+could change.
+
 ### March 21, 2021: [USA by state](usa20210321/index.md)
 
 This shows results from an analysis prepared for
