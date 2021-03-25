@@ -25,17 +25,18 @@ could change.
 This shows results from an analysis prepared for
 the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
 
-Most states show cases in decline.
+Following a period of steady decline in cases, most states now show a plateau or the start of a growth phase.
+
 Vaccination is well underway.
 Plots for each state show how natural and vaccination immunity is playing a role to bring infections down.
 
 The analysis now accounts for the rapid growth of the B117 variant, having an advantage
-in growth rate of 8% per day.
+in growth rate of about 8% per day.
 The future growth of cases in states depends on a race between vaccination and the B117 variant and
 on the social distancing measures in force.
-Assuming future behaviour remains the same as current behaviour, a return to growth appears likely in several
-states in the coming months.
-For those states with genomic screening data, the forecast is much better established.
+Assuming future behaviour remains the same as current behaviour, a return to growth appears likely in most
+states in the coming weeks.
+For those states with genomic screening data, the forecasts are much better established.
 
 [![uc](usa_uc_2020-11-15.png)](usa_uc_2020-11-15.gif)
 

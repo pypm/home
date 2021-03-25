@@ -21,6 +21,9 @@ The dashed curves illustrate how cases from the variant (B.1.1.7) overtake the c
 For Vancouver Island, no variant has been included, since there is no indication of
 recent change to growth in cases.
 
+An outbreak in cases for Fraser and overall BC in February is included to model the "Trivia Night" event
+that caused a large number of infections in Vancouver.
+
 ### [BC total](img/bc_2_8_0324.pdf)
 
 ![bc](img/bc_2_8_0324.png)
@@ -45,25 +48,7 @@ recent change to growth in cases.
 
 ![northern](img/northern_2_8_0324.png)
 
-## Tables
-
-The tables below are results from the fits to reference model 2.8.
-
-### Daily fractional growth rates (&delta;)
-
-HA| &delta; | day | &delta; | day | &delta; | day | &delta;
----|---|---|---|---|---|---|---
-bc| 5.3 +/-  0.2|Nov 10|-0.5 +/-  0.1|Jan 27| 1.1 +/-  0.3
-fraser| 4.6 +/-  0.1|Nov 13|-1.2 +/-  0.1|Jan 18| 1.7 +/-  0.3
-interior| 4.9 +/-  0.2|Dec 03| 0.2 +/-  0.2|Jan 10|-2.4 +/-  0.4
-island| 10.7 +/-  1.5|Nov 14|-3.0 +/-  0.7|Dec 10| 3.1 +/-  0.5|Jan 13| 0.4 +/-  0.3
-coastal| 6.2 +/-  0.5|Nov 08|-0.9 +/-  0.2|Dec 27| 0.8 +/-  0.2
-northern| 5.3 +/-  0.3|Dec 06|-0.0 +/-  0.2
-
-* &delta;: daily fractional growth rate (in percent per day)
-* day: dates when transmission rate changed - resulting in a change in growth rate
-
-## Forecasts (current and from Feb 23)
+## Forecasts from Feb 23
 
 The procedure previously used to produce the BC forecast intervals has
 been used in US forecasts for the past several months and coverage of those intervals have been reasonable.
