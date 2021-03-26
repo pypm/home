@@ -10,6 +10,14 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### March 25, 2021: [5 provinces](prov20210325/index.md)
+
+Model fits to data from BC, Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
+A second infection cycle is included in the model to represent the B.1.1.7 variant.
+Forecasts for the coming weeks and months are highly uncertain since
+genomic screening data are not publicly available to estimate
+the variant prevelance and growth advantage.
+
 ### March 24, 2021: [BC by health region](bc20210324/index.md)
 
 The B.1.1.7 variant is likely responsible for the recent growth in daily cases across BC.
@@ -44,7 +52,6 @@ Click on the above image to see a time lapse animation of how COVID-19 spread th
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
 
-
 ### March 21, 2021: [16 German states](germany20210321/index.md)
 
 This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
@@ -56,13 +63,6 @@ Unlike the situation in the US, immunity is not yet playing a significant role i
 Cases have growing quickly, primarily due to the  B.1.1.7 variant.
 The model fits include a second infection cycle for the variant with a nominal advantage of 10% per day larger growth rate.
 Model fits to the case data appear to be consistent with variant fraction currently making up about 45-85% of cases.
-
-### March 11, 2021: [5 provinces](prov20210311/index.md)
-
-Model fits to data from BC, Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
-A second infection cycle is included in the model to represent the B.1.1.7 variant.
-Forecasts for the coming weeks and months are highly uncertain since the variant prevelance
-is not well measured, except Ontario.
 
 ### March 9, 2021: [BC by health region](bc20210309/index.md)
 
