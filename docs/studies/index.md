@@ -10,6 +10,31 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### March 28, 2021: [USA by state](usa20210328/index.md)
+## March 21, 2021: [USA by state](usa20210321/index.md) - for comparison
+
+These show results from analyses prepared for
+the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
+
+Following a period of steady decline in cases, most states now show a plateau or the start of a growth phase.
+
+Vaccination is well underway.
+Plots for each state show how natural and vaccination immunity is playing a role to bring infections down.
+
+The analysis accounts for the rapid growth of the B117 variant, having an advantage
+in growth rate of about 8% per day.
+The future growth of cases in states depends on a race between vaccination and the B117 variant and
+on the social distancing measures in force.
+Assuming future behaviour remains the same as current behaviour, a return to growth is likely in most
+states in the coming weeks.
+For those states with genomic screening data, the forecasts are much better established.
+
+[![uc](usa_uc_2020-11-15.png)](usa_uc_2020-11-15.gif)
+
+Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
+fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
+corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
+
 ### March 25, 2021: [5 provinces](prov20210325/index.md)
 
 Model fits to data from BC, Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
@@ -27,30 +52,6 @@ useful forecasts cannot be provided at this time.
 
 This study illustrates possible levels of B.1.1.7 and growth advantage, to give an indication how quickly the situation
 could change.
-
-### March 21, 2021: [USA by state](usa20210321/index.md)
-
-This shows results from an analysis prepared for
-the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
-
-Following a period of steady decline in cases, most states now show a plateau or the start of a growth phase.
-
-Vaccination is well underway.
-Plots for each state show how natural and vaccination immunity is playing a role to bring infections down.
-
-The analysis now accounts for the rapid growth of the B117 variant, having an advantage
-in growth rate of about 8% per day.
-The future growth of cases in states depends on a race between vaccination and the B117 variant and
-on the social distancing measures in force.
-Assuming future behaviour remains the same as current behaviour, a return to growth appears likely in most
-states in the coming weeks.
-For those states with genomic screening data, the forecasts are much better established.
-
-[![uc](usa_uc_2020-11-15.png)](usa_uc_2020-11-15.gif)
-
-Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
-fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
-corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
 
 ### March 21, 2021: [16 German states](germany20210321/index.md)
 
