@@ -11,7 +11,7 @@
 Click on the titles below to see detailed results from the studies.
 
 ### March 28, 2021: [USA by state](usa20210328/index.md)
-## March 21, 2021: [USA by state](usa20210321/index.md) - for comparison
+#### March 21, 2021: [USA by state](usa20210321/index.md) - for comparison
 
 These show results from analyses prepared for
 the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
