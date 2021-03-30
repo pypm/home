@@ -10,6 +10,18 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### March 28, 2021: [16 German states](germany20210328/index.md)
+
+This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
+by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
+
+Data is provided by [Robert Koch Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0)
+Unlike the situation in the US, immunity is not yet playing a significant role in reducing the spread of the virus.
+
+Cases have grown quickly, primarily due to the  B.1.1.7 variant.
+The model fits include a second infection cycle for the variant with a nominal advantage of 10% per day larger growth rate.
+Model fits to the case data appear to be consistent with variant fraction currently making up about 75-95% of cases.
+
 ### March 28, 2021: [USA by state](usa20210328/index.md)
 #### March 21, 2021: [USA by state](usa20210321/index.md) - for comparison
 
@@ -52,18 +64,6 @@ useful forecasts cannot be provided at this time.
 
 This study illustrates possible levels of B.1.1.7 and growth advantage, to give an indication how quickly the situation
 could change.
-
-### March 21, 2021: [16 German states](germany20210321/index.md)
-
-This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
-by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
-
-Data is provided by [Robert Koch Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0)
-Unlike the situation in the US, immunity is not yet playing a significant role in bringing down the infection.
-
-Cases have growing quickly, primarily due to the  B.1.1.7 variant.
-The model fits include a second infection cycle for the variant with a nominal advantage of 10% per day larger growth rate.
-Model fits to the case data appear to be consistent with variant fraction currently making up about 45-85% of cases.
 
 ### March 9, 2021: [BC by health region](bc20210309/index.md)
 
