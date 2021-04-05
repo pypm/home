@@ -57,7 +57,7 @@ Pennsylvania|0.075 +/- 0.002|0.003 +/- 0.000|0.699 +/- 0.012
 Texas|0.084 +/- 0.002|0.000 +/- 0.000|0.866 +/- 0.011
 
  * s: selection coefficient
- * w: SGTF false identification probability
+ * w: B.1.1.7 false identifications per sample
  * f_v: fraction of cases due to the variant on March 27, 2021
 
 
