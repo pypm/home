@@ -22,7 +22,8 @@ Cases have grown quickly, primarily due to the  B.1.1.7 variant.
 The model fits include a second infection cycle for the variant with a nominal advantage of 10% per day larger growth rate.
 Model fits to the case data appear to be consistent with variant fraction currently making up about 75-95% of cases.
 
-### March 28, 2021: [USA by state](usa20210328/index.md)
+### April 4, 2021: [USA by state](usa20210404/index.md)
+#### March 28, 2021: [USA by state](usa20210328/index.md) - for comparison
 #### March 21, 2021: [USA by state](usa20210321/index.md) - for comparison
 
 These show results from analyses prepared for
