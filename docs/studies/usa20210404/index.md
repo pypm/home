@@ -3,7 +3,7 @@
 ## Individual state histories
 
 The plots below show the case / hospitalization / deaths data for all 50 states, DC, and PR.
-The data fits were done using data up until March 27, 2021.
+The data fits were done using data up until April 3, 2021.
 
 The green points are the daily cases, the grey points the daily hospitalizations, and
 indigo points are the daily deaths (each averaged over a week).
@@ -15,12 +15,13 @@ these log-scale plots.
 With immunity growing, these lines are no longer straight - bending downwards due to the herd effect.
 The curves are the model expectations for cases, hospitalizations, and deaths, as determined from
 the case data.
-The dashed curves separately show the reported cases from the original variant and the B117 variant.
+The dashed curves separately show the reported cases from the original variant and the B.1.1.7 variant.
 
 Below the set of individual state plots, summary plots are provided that indicate the degree that
 natural and vaccination immunization is helping to bring down infections.
 
-The final set of plots show the 4 week forecast for the USA and for each state.
+The final set of plots show the 4 week forecast for the USA and a comparison of forecasts from 3 weeks ago
+with the most recent data.
 
 ## Genomic data
 
