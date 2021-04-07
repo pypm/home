@@ -1,8 +1,8 @@
-## March 25, 2021 Analysis of Canadian provincial data
+## April 6, 2021 Analysis of Canadian provincial data
 
 Reference model 2.8 is fit to data from the Canadian provinces with substantial cases.
 The model includes a second infection cycle to represent the B.1.1.7 variant, assuming a growth
-advantage of about 8.5% per day.
+advantage of about 8% per day.
 The fractions of cases arising from B.1.1.7 are not well measured.
 The unknown prevalence and growth advantage leads to significant uncertainty in forecasting growth in the
 coming weeks.
@@ -16,32 +16,32 @@ The vertical dashed lines shown where transmission rates are changed in the mode
 
 The rapidly rising lines (olive) show the growth of cases due to B.1.1.7.
 
-### [BC](img/bc_2_8_0325.pdf)
+### [BC](img/bc_2_8_0406.pdf)
 
 A better analysis [here](../bc20210309) uses corrected data (including Saturday and Sunday numbers) and shows
 the breakdowns by health region.
 
-![bc](img/bc_2_8_0325.png)
+![bc](img/bc_2_8_0406.png)
 
-### [Alberta](img/ab_2_8_0325.pdf)
+### [Alberta](img/ab_2_8_0406.pdf)
 
-![ab](img/ab_2_8_0325.png)
+![ab](img/ab_2_8_0406.png)
 
-### [Saskatchewan](img/sk_2_8_0325.pdf)
+### [Saskatchewan](img/sk_2_8_0406.pdf)
 
-![sk](img/sk_2_8_0325.png)
+![sk](img/sk_2_8_0406.png)
 
-### [Manitoba](img/mb_2_8_0325.pdf)
+### [Manitoba](img/mb_2_8_0406.pdf)
 
-![mb](img/mb_2_8_0325.png)
+![mb](img/mb_2_8_0406.png)
 
-### [Ontario](img/on_2_8_0325.pdf)
+### [Ontario](img/on_2_8_0406.pdf)
 
-![on](img/on_2_8_0325.png)
+![on](img/on_2_8_0406.png)
 
-### [Quebec](img/qc_2_8_0325.pdf)
+### [Quebec](img/qc_2_8_0406.pdf)
 
-![qc](img/qc_2_8_0325.png)
+![qc](img/qc_2_8_0406.png)
 
 
 ## [return to case studies](../index.md)

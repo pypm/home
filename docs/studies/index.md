@@ -10,6 +10,18 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### April 6, 2021: [5 provinces](prov20210406/index.md)
+
+Model fits to data from BC, Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
+A second infection cycle is included in the model to represent the B.1.1.7 variant.
+Forecasts for the coming weeks and months are highly uncertain since
+genomic screening data are not publicly available to estimate
+the variant prevelance and growth advantage.
+
+### April 6, 2021: [BC by health region](bc20210406/index.md)
+
+The B.1.1.7 variant is responsible for the recent growth in daily cases across BC, and now the dominant strain.
+
 ### March 28, 2021: [16 German states](germany20210328/index.md)
 
 This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
@@ -47,14 +59,6 @@ For those states with genomic screening data, the forecasts are much better esta
 Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
-
-### March 25, 2021: [5 provinces](prov20210325/index.md)
-
-Model fits to data from BC, Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
-A second infection cycle is included in the model to represent the B.1.1.7 variant.
-Forecasts for the coming weeks and months are highly uncertain since
-genomic screening data are not publicly available to estimate
-the variant prevelance and growth advantage.
 
 ### March 24, 2021: [BC by health region](bc20210324/index.md)
 
