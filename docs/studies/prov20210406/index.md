@@ -16,9 +16,13 @@ The vertical dashed lines shown where transmission rates are changed in the mode
 
 The rapidly rising lines (olive) show the growth of cases due to B.1.1.7.
 
+Some provinces have increased restrictions at the end of March.
+Plots are provided to show projections for 3 scenarios: no change, changes that reduce growth by 2% per day, and
+changes that reduce growth by 4% per day (instituted on March 29).
+
 ### [BC](img/bc_2_8_0406.pdf)
 
-A better analysis [here](../bc20210309) uses corrected data (including Saturday and Sunday numbers) and shows
+A better analysis [here](../bc20210406) uses corrected data (including Saturday and Sunday numbers) and shows
 the breakdowns by health region.
 
 ![bc](img/bc_2_8_0406.png)
@@ -42,6 +46,36 @@ the breakdowns by health region.
 ### [Quebec](img/qc_2_8_0406.pdf)
 
 ![qc](img/qc_2_8_0406.png)
+
+## Projections with additional restrictions
+
+Some provinces have increased restrictions at the end of March.
+The following  show projections for 3 scenarios: no change, changes that reduce growth by 2% per day, and
+changes that reduce growth by 4% per day (instituted on March 29).
+
+### [BC](img/bc_2_8_0406_proj.pdf)
+
+![bc](img/bc_2_8_0406_proj.png)
+
+### [Alberta](img/ab_2_8_0406_proj.pdf)
+
+![ab](img/ab_2_8_0406_proj.png)
+
+### [Saskatchewan](img/sk_2_8_0406_proj.pdf)
+
+![sk](img/sk_2_8_0406_proj.png)
+
+### [Manitoba](img/mb_2_8_0406_proj.pdf)
+
+![mb](img/mb_2_8_0406_proj.png)
+
+### [Ontario](img/on_2_8_0406_proj.pdf)
+
+![on](img/on_2_8_0406_proj.png)
+
+### [Quebec](img/qc_2_8_0406_proj.pdf)
+
+![qc](img/qc_2_8_0406_proj.png)
 
 
 ## [return to case studies](../index.md)
