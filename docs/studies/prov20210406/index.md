@@ -22,7 +22,7 @@ changes that reduce growth by 4% per day (instituted on March 29).
 
 ### [BC](img/bc_2_8_0406.pdf)
 
-A better analysis [here](../bc20210406) uses corrected data (including Saturday and Sunday numbers) and shows
+A better analysis [here](../bc20210413) uses corrected data (including Saturday and Sunday numbers) and shows
 the breakdowns by health region.
 
 ![bc](img/bc_2_8_0406.png)

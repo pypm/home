@@ -10,6 +10,10 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### April 13, 2021: [BC by health region](bc20210413/index.md)
+
+Variants of concern are responsible for the recent growth in daily cases across BC, and now the dominant strain.
+
 ### April 6, 2021: [5 provinces](prov20210406/index.md)
 
 Model fits to data from BC, Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
@@ -17,10 +21,6 @@ A second infection cycle is included in the model to represent the B.1.1.7 varia
 Forecasts for the coming weeks and months are highly uncertain since
 genomic screening data are not publicly available to estimate
 the variant prevelance and growth advantage.
-
-### April 6, 2021: [BC by health region](bc20210406/index.md)
-
-The B.1.1.7 variant is responsible for the recent growth in daily cases across BC, and now the dominant strain.
 
 ### March 28, 2021: [16 German states](germany20210328/index.md)
 
@@ -89,7 +89,7 @@ Only the Interior region is showing significant decline.
 Forecasts for the next 4 weeks are provided. Comparisons of recent data
 and a forecast from last month are shown.
 
-### February 5, 2021: [Israel during vaccine deployment](https://github.com/pypm/quickstart/blob/master/misc/israel_vaccination_study_20210204/israel_20210204.ipynb)
+### February 5, 2021: [Israel during vaccine deployment](https://nbviewer.jupyter.org/github/pypm/quickstart/blob/master/misc/israel_vaccination_study_20210204/israel_20210204.ipynb)
 
 Israel currently has the highest rate of vaccinations per capita, with more than 40% of the population having received their first dose by early February.
 The case and vaccination time-series data from Israel are analyzed and
