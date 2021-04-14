@@ -306,7 +306,7 @@ The following plots show the combined US 4 week forecast. The shaded areas are 5
 
 ![usa](img/usa-forecast.png)
 
-## Comparison with model fit to case data from 3 weeks ago
+## Comparison with model fit to case data from 4 weeks ago
 
 The following plots show 3 figures for each state
  * Left: case data available until March 14
