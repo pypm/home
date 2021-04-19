@@ -22,7 +22,8 @@ Forecasts for the coming weeks and months are highly uncertain since
 genomic screening data are not publicly available to estimate
 the variant prevelance and growth advantage.
 
-### April 11, 2021: [USA by state](usa20210411/index.md)
+### April 18, 2021: [USA by state](usa20210418/index.md)
+#### April 11, 2021: [USA by state](usa20210411/index.md) - for comparison
 #### April 4, 2021: [USA by state](usa20210404/index.md) - for comparison
 #### March 28, 2021: [USA by state](usa20210328/index.md) - for comparison
 #### March 21, 2021: [USA by state](usa20210321/index.md) - for comparison
