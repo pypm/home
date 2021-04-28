@@ -10,6 +10,11 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### April 25, 2021: [BC by health region](bc20210425/index.md)
+
+Variants of concern are responsible for most cases in BC.
+All regions of BC are now seeing signficant decline in cases, except the Fraser Health Authority.
+
 ### April 25, 2021: [USA by state](usa20210425/index.md)
 #### April 18, 2021: [USA by state](usa20210418/index.md)
 #### April 4, 2021: [USA by state](usa20210404/index.md) - for comparison
@@ -46,10 +51,6 @@ Data is provided by [Robert Koch Institut](https://npgeo-corona-npgeo-de.hub.arc
 
 The model fits include a second infection cycle for the B.1.1.7 variant.
 Model fits to the case data appear to be consistent with variant fraction currently responsible for almost all cases.
-
-### April 13, 2021: [BC by health region](bc20210413/index.md)
-
-Variants of concern are responsible for the recent growth in daily cases across BC, and now the dominant strain.
 
 ### April 6, 2021: [5 provinces](prov20210406/index.md)
 
