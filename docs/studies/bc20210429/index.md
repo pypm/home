@@ -59,7 +59,7 @@ steady case rates are both consistent with data.
 
 The following shows the forecast for each Health Authority.
 
-![forecasts](img/bc_2_8_0429_proj.png)
+![forecasts](img/bc_2_8_0429_HA.png)
 
 ## [return to case studies](../index.md)
 
