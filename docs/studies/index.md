@@ -15,7 +15,7 @@ Click on the titles below to see detailed results from the studies.
 Variants of concern are responsible for most cases in BC.
 All regions of BC are now seeing decline in case rates.
 
-### April 29, 2021: [5 provinces](prov20210429/index.md)
+### April 29, 2021: [6 provinces](prov20210429/index.md)
 
 Model fits to data from BC, Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
 A second infection cycle is included in the model to represent the B.1.1.7 variant.
