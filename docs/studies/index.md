@@ -10,6 +10,14 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### May 2, 2021: [16 German states](germany20210502/index.md)
+
+This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
+by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
+
+The model fits include a second infection cycle for the B.1.1.7 variant and
+takes into account the vaccination rates in each state.
+
 ### April 29, 2021: [BC by health region](bc20210429/index.md)
 
 Variants of concern are responsible for most cases in BC.
@@ -46,16 +54,6 @@ For those states with genomic screening data, the forecasts are much better esta
 Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
-
-### April 18, 2021: [16 German states](germany20210418/index.md)
-
-This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
-by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
-
-Data is provided by [Robert Koch Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0)
-
-The model fits include a second infection cycle for the B.1.1.7 variant.
-Model fits to the case data appear to be consistent with variant fraction currently responsible for almost all cases.
 
 ### March 24, 2021: [BC by health region](bc20210324/index.md)
 
