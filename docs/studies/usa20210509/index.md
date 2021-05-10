@@ -51,9 +51,9 @@ At the bottom of this page, plots showing the combined forecast for the US is sh
 
 ![dc](img/dc_2_8_0509.png)
 
-### [Delaware](img/de_2_5_1115.pdf)
+### [Delaware](img/de_2_8_0509.pdf)
 
-![de](img/de_2_5_1115.png)
+![de](img/de_2_8_0509.png)
 
 ### [Florida](img/fl_2_8_0509.pdf)
 
