@@ -10,25 +10,7 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### May 2, 2021: [16 German states](germany20210502/index.md)
-
-This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
-by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
-
-The model fits include a second infection cycle for the B.1.1.7 variant and
-takes into account the vaccination rates in each state.
-
-### April 29, 2021: [BC by health region](bc20210429/index.md)
-
-Variants of concern are responsible for most cases in BC.
-All regions of BC are now seeing decline in case rates.
-
-### April 29, 2021: [6 provinces](prov20210429/index.md)
-
-Model fits to data from BC, Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
-A second infection cycle is included in the model to represent the B.1.1.7 variant.
-
-### April 25, 2021: [USA by state](usa20210425/index.md)
+### May 9, 2021: [USA by state](usa20210509/index.md)
 #### April 18, 2021: [USA by state](usa20210418/index.md) - for comparison
 #### April 4, 2021: [USA by state](usa20210404/index.md) - for comparison
 #### March 21, 2021: [USA by state](usa20210321/index.md) - for comparison
@@ -54,6 +36,24 @@ For those states with genomic screening data, the forecasts are much better esta
 Click on the above image to see a time lapse animation of how COVID-19 spread through the USA. The colors indicate the
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
+
+### May 2, 2021: [16 German states](germany20210502/index.md)
+
+This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
+by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
+
+The model fits include a second infection cycle for the B.1.1.7 variant and
+takes into account the vaccination rates in each state.
+
+### April 29, 2021: [BC by health region](bc20210429/index.md)
+
+Variants of concern are responsible for most cases in BC.
+All regions of BC are now seeing decline in case rates.
+
+### April 29, 2021: [6 provinces](prov20210429/index.md)
+
+Model fits to data from BC, Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
+A second infection cycle is included in the model to represent the B.1.1.7 variant.
 
 ### March 24, 2021: [BC by health region](bc20210324/index.md)
 
