@@ -16,7 +16,7 @@ cases are declining in BC, Saskatchewan, Ontario, and Quebec.
 Projections into May are shown, assuming current public health measures are maintained.
 The upper and lower curves indicate the range of possible trajectories consistent with case data (68% CL).
 
-### [BC]
+### BC
 
 Detailed BC analyses are reported in the [BC file](../index.md).
 

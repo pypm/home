@@ -29,23 +29,6 @@ The transition date is fit for each region individually.
 All health authorities now show significant decline in case rates, except Fraser, where decline or
 steady case rates are both consistent with data.
 
-### BC projection with transmission rate changes estimated from data
-
-This long range projection assumes that on May 25 the additional measures introduced on March 30 are rescinded.
-The nominal vaccination assumptions are that the rate of 1st doses grows to 45,000/day on May 17 (given to all ages
-and in proportion to HA populations until 75% of the population is vaccinated) and ultimate 1st dose effectiveness is 90%.
-This is compared to a low vaccination scenario where the rate of 1st doses remains at 35,000/day until 65% of the
-population is vaccinated, and ultimate 1st dose effectiveness is 80%.
-
-![bc_proj](img/bc_2_8_0511_proj.png)
-
-Some of the internal workings of the model are illustrated in the figure below.
-The daily growth rate (delta) depends on the product of the transmission rate (alpha) and the susceptible fraction (S/N). 
-The product is shown by the green curves and the grey horizontal lines show the growth rate for a few values.
-In the nominal vaccination scenario, growth becomes negative in mid-June.
-
-![bc_suscept](img/bc_suscept_0511_proj.png)
-
 ## Model fits
 
 The following shows graphs of daily cases on linear and log scale. Data through May 10 are used,
@@ -85,6 +68,24 @@ The following plots shows the April 30 forecast for each Health Authority, along
 with the data collected after the forecast (red dots).
 
 ![forecasts](img/BC_2_8_0429_HA_compare.png)
+
+### BC projection for removal of "circuit breaker" measures
+
+This long range projection assumes that on May 25 the additional measures introduced on March 30 are rescinded.
+The nominal vaccination assumptions are that the rate of 1st doses grows to 45,000/day on May 17 (given to all ages
+and in proportion to HA populations until 75% of the population is vaccinated) and ultimate 1st dose effectiveness is 90%.
+This is compared to a low vaccination scenario where the rate of 1st doses remains at 35,000/day until 65% of the
+population is vaccinated, and ultimate 1st dose effectiveness is 80%.
+
+![bc_proj](img/bc_2_8_0511_proj.png)
+
+Some of the internal workings of the model are illustrated in the figure below.
+The daily growth rate (delta) depends on the product of the transmission rate (alpha) and the susceptible fraction (S/N). 
+The product is shown by the green curves and the grey horizontal lines show the growth rate for a few values.
+In the nominal vaccination scenario, growth becomes negative in mid-June.
+
+![bc_suscept](img/bc_suscept_0511.png)
+
 
 ## [return to case studies](../index.md)
 
