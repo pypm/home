@@ -10,7 +10,7 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### May 16, 2021: [16 German states](germany20210516/index.md)
+### May 23, 2021: [16 German states](germany20210523/index.md)
 
 This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
 by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
@@ -18,7 +18,7 @@ by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Inst
 The model fits include a second infection cycle for the B.1.1.7 variant and
 takes into account the vaccination rates in each state.
 
-### May 16, 2021: [USA by state](usa20210516/index.md)
+### May 23, 2021: [USA by state](usa20210523/index.md)
 #### April 18, 2021: [USA by state](usa20210418/index.md) - for comparison
 #### April 4, 2021: [USA by state](usa20210404/index.md) - for comparison
 #### March 21, 2021: [USA by state](usa20210321/index.md) - for comparison
