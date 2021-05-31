@@ -33,69 +33,69 @@ The prevalence is set at 4% at the end of May in the models for all states, and 
 near term forecasts, but could be important if transmission rates increase significantly, due to
 relaxation of health measures.
 
-### [Baden-Wurttemberg](img/bw_2_8_0530.pdf)
+### [Baden-Wurttemberg](img/bw_2_9_0530.pdf)
 
-![bw](img/bw_2_8_0530.png)
+![bw](img/bw_2_9_0530.png)
 
-### [Bavaria](img/by_2_8_0530.pdf)
+### [Bavaria](img/by_2_9_0530.pdf)
 
-![by](img/by_2_8_0530.png)
+![by](img/by_2_9_0530.png)
 
-### [Berlin](img/be_2_8_0530.pdf)
+### [Berlin](img/be_2_9_0530.pdf)
 
-![be](img/be_2_8_0530.png)
+![be](img/be_2_9_0530.png)
 
-### [Brandenburg](img/bb_2_8_0530.pdf)
+### [Brandenburg](img/bb_2_9_0530.pdf)
 
-![bb](img/bb_2_8_0530.png)
+![bb](img/bb_2_9_0530.png)
 
-### [Bremen](img/hb_2_8_0530.pdf)
+### [Bremen](img/hb_2_9_0530.pdf)
 
-![hb](img/hb_2_8_0530.png)
+![hb](img/hb_2_9_0530.png)
 
-### [Hamburg](img/hh_2_8_0530.pdf)
+### [Hamburg](img/hh_2_9_0530.pdf)
 
-![hh](img/hh_2_8_0530.png)
+![hh](img/hh_2_9_0530.png)
 
-### [Hesse](img/he_2_8_0530.pdf)
+### [Hesse](img/he_2_9_0530.pdf)
 
-![he](img/he_2_8_0530.png)
+![he](img/he_2_9_0530.png)
 
-### [Lower Saxony](img/ni_2_8_0530.pdf)
+### [Lower Saxony](img/ni_2_9_0530.pdf)
 
-![ni](img/ni_2_8_0530.png)
+![ni](img/ni_2_9_0530.png)
 
-### [Mecklenburg-Vorpommern](img/mv_2_8_0530.pdf)
+### [Mecklenburg-Vorpommern](img/mv_2_9_0530.pdf)
 
-![mv](img/mv_2_8_0530.png)
+![mv](img/mv_2_9_0530.png)
 
-### [North Rhine-Westphalia](img/nw_2_8_0530.pdf)
+### [North Rhine-Westphalia](img/nw_2_9_0530.pdf)
 
-![nw](img/nw_2_8_0530.png)
+![nw](img/nw_2_9_0530.png)
 
-### [Rhineland-Palatinate](img/rp_2_8_0530.pdf)
+### [Rhineland-Palatinate](img/rp_2_9_0530.pdf)
 
-![rp](img/rp_2_8_0530.png)
+![rp](img/rp_2_9_0530.png)
 
-### [Saarland](img/sl_2_8_0530.pdf)
+### [Saarland](img/sl_2_9_0530.pdf)
 
-![sl](img/sl_2_8_0530.png)
+![sl](img/sl_2_9_0530.png)
 
-### [Saxony](img/sn_2_8_0530.pdf)
+### [Saxony](img/sn_2_9_0530.pdf)
 
-![sn](img/sn_2_8_0530.png)
+![sn](img/sn_2_9_0530.png)
 
-### [Saxony-Anhalt](img/st_2_8_0530.pdf)
+### [Saxony-Anhalt](img/st_2_9_0530.pdf)
 
-![st](img/st_2_8_0530.png)
+![st](img/st_2_9_0530.png)
 
-### [Schleswig-Holstein](img/sh_2_8_0530.pdf)
+### [Schleswig-Holstein](img/sh_2_9_0530.pdf)
 
-![sh](img/sh_2_8_0530.png)
+![sh](img/sh_2_9_0530.png)
 
-### [Thuringia](img/th_2_8_0530.pdf)
+### [Thuringia](img/th_2_9_0530.pdf)
 
-![th](img/th_2_8_0530.png)
+![th](img/th_2_9_0530.png)
 
 
 ## [return to case studies](../index.md)
