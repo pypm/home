@@ -32,12 +32,16 @@ Click on the above image to see a time lapse animation of how COVID-19 spread th
 fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
 corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
 
-### May 11, 2021: [BC by health region](bc20210511/index.md)
+### May 28, 2021: [BC by health region](bc20210528/index.md)
 
-Variants of concern are responsible for most cases in BC.
-All regions of BC are now seeing decline in case rates.
+Variants of concern are responsible for most cases in BC, and following the "circuit breaker",
+all regions of BC saw case rates decline.
+Those restrictions were relaxed at the end of May.
 
-### May 11, 2021: [5 provinces](prov20210511/index.md)
+This study includes, for the first time, the possible effects of B.1.617.2, a variant of concern that
+has a significant growth advantage over the currently dominant strain, B.1.1.7.
+
+### May 28, 2021: [5 provinces](prov20210528/index.md)
 
 Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
 A second infection cycle is included in the models to represent the variants of concern.
