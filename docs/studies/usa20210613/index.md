@@ -19,25 +19,25 @@ The curves are the best fit, the shaded region indicates the 95% central interva
 (modifying the parameters according to their covariance) and the vertical bars are the central 95% intervals
 for each binomial sampling.
 
-![var_p](usa_variant_ratio_p.png)
+![var_p](img/usa_variant_ratio_p.png)
 
 region | s | rpb| w |f_b (June 13)
 ---|---|---|---|---
-Arizona|0.092 $\pm$ 0.006|0.695 $\pm$ 0.058|0.001 $\pm$ 0.000|0.592 $\pm$ 0.020
-California|0.073 $\pm$ 0.002|0.695 $\pm$ 0.033|0.002 $\pm$ 0.000|0.590 $\pm$ 0.011
-Florida|0.079 $\pm$ 0.001|0.475 $\pm$ 0.009|0.007 $\pm$ 0.000|0.678 $\pm$ 0.004
-Georgia|0.100 $\pm$ 0.003|0.290 $\pm$ 0.014|0.001 $\pm$ 0.000|0.775 $\pm$ 0.008
-Illinois|0.080 $\pm$ 0.006|0.563 $\pm$ 0.060|0.000 $\pm$ 0.001|0.641 $\pm$ 0.025
-Indiana|0.108 $\pm$ 0.004|0.385 $\pm$ 0.018|0.001 $\pm$ 0.000|0.723 $\pm$ 0.010
-Louisiana|0.095 $\pm$ 0.011|0.156 $\pm$ 0.035|0.001 $\pm$ 0.001|0.866 $\pm$ 0.026
-Massachusetts|0.126 $\pm$ 0.009|1.025 $\pm$ 0.043|0.031 $\pm$ 0.002|0.494 $\pm$ 0.010
-Michigan|0.111 $\pm$ 0.005|0.228 $\pm$ 0.009|0.001 $\pm$ 0.000|0.815 $\pm$ 0.006
-Minnesota|0.098 $\pm$ 0.008|0.187 $\pm$ 0.021|0.001 $\pm$ 0.000|0.843 $\pm$ 0.014
-North Carolina|0.095 $\pm$ 0.004|0.500 $\pm$ 0.028|0.001 $\pm$ 0.000|0.667 $\pm$ 0.012
-New Jersey|0.066 $\pm$ 0.009|0.281 $\pm$ 0.176|0.000 $\pm$ 0.001|0.771 $\pm$ 0.093
-New York|0.088 $\pm$ 0.018|1.122 $\pm$ 0.221|0.004 $\pm$ 0.004|0.469 $\pm$ 0.049
-Pennsylvania|0.088 $\pm$ 0.003|0.572 $\pm$ 0.020|0.003 $\pm$ 0.000|0.636 $\pm$ 0.008
-Texas|0.102 $\pm$ 0.003|0.459 $\pm$ 0.022|0.000 $\pm$ 0.000|0.685 $\pm$ 0.010
+Arizona|0.092 +/- 0.006|0.695 +/- 0.058|0.001 +/- 0.000|0.592 +/- 0.020
+California|0.073 +/- 0.002|0.695 +/- 0.033|0.002 +/- 0.000|0.590 +/- 0.011
+Florida|0.079 +/- 0.001|0.475 +/- 0.009|0.007 +/- 0.000|0.678 +/- 0.004
+Georgia|0.100 +/- 0.003|0.290 +/- 0.014|0.001 +/- 0.000|0.775 +/- 0.008
+Illinois|0.080 +/- 0.006|0.563 +/- 0.060|0.000 +/- 0.001|0.641 +/- 0.025
+Indiana|0.108 +/- 0.004|0.385 +/- 0.018|0.001 +/- 0.000|0.723 +/- 0.010
+Louisiana|0.095 +/- 0.011|0.156 +/- 0.035|0.001 +/- 0.001|0.866 +/- 0.026
+Massachusetts|0.126 +/- 0.009|1.025 +/- 0.043|0.031 +/- 0.002|0.494 +/- 0.010
+Michigan|0.111 +/- 0.005|0.228 +/- 0.009|0.001 +/- 0.000|0.815 +/- 0.006
+Minnesota|0.098 +/- 0.008|0.187 +/- 0.021|0.001 +/- 0.000|0.843 +/- 0.014
+North Carolina|0.095 +/- 0.004|0.500 +/- 0.028|0.001 +/- 0.000|0.667 +/- 0.012
+New Jersey|0.066 +/- 0.009|0.281 +/- 0.176|0.000 +/- 0.001|0.771 +/- 0.093
+New York|0.088 +/- 0.018|1.122 +/- 0.221|0.004 +/- 0.004|0.469 +/- 0.049
+Pennsylvania|0.088 +/- 0.003|0.572 +/- 0.020|0.003 +/- 0.000|0.636 +/- 0.008
+Texas|0.102 +/- 0.003|0.459 +/- 0.022|0.000 +/- 0.000|0.685 +/- 0.010
 
 
  *   s: selection coefficient
@@ -52,11 +52,11 @@ The ratios of delta (B.1.617.2) and gamma (P.1) to alpha (B.1.1.7) cases are sho
 both delta and gamma have higher transmission than alpha, with delta significantly larger.
 Some states, such as Colorado and Utah, have a significant fraction of cases due to teh delta variant.
 
-![var_rat](us_variant_ratios_2_good.png)
+![var_rat](img/us_variant_ratios_2_good.png)
 
 A summary of the estimated selection coefficients for each state are below.
 
-![sel_co](us_selection_coefficients_2x.png)
+![sel_co](img/us_selection_coefficients_2x.png)
 
 ## Individual state histories
 
