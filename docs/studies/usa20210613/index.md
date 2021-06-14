@@ -10,6 +10,8 @@ using the SGTF protocol, is available to estimate the growth advantage
 
 Unlike in other countries, SGTF cases did not continue to gain an increasing fraction, but stabalized at a fixed fraction.
 This is due to other variants of concern with a similar growth advantage but which are not tagged by SGTF.
+Once delta approaches dominance, the SGTF fraction is expected to drop as the fraction of alpha (and other variants)
+will decrease in favor of delta.
 
 Below is a figure showing fits to the ratio of the SGTF cases to non-SGTF cases which is used used to estimate the
 selection coefficient (s), the ratio of other VoC to the B.1.1.7 (rpb),
@@ -50,7 +52,7 @@ Texas|0.102 +/- 0.003|0.459 +/- 0.022|0.000 +/- 0.000|0.685 +/- 0.010
 Many states submit whole genomic sequencing data to GISAID that can be used to track the growth of VoC state by state.
 The ratios of delta (B.1.617.2) and gamma (P.1) to alpha (B.1.1.7) cases are shown in the plots below, where it is evident that
 both delta and gamma have higher transmission than alpha, with delta significantly larger.
-Some states, such as Colorado and Utah, have a significant fraction of cases due to teh delta variant.
+Some states, such as Colorado and Kansas, have a significant fraction of cases due to the delta variant.
 
 ![var_rat](img/us_variant_ratios_2_good.png)
 
