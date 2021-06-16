@@ -10,6 +10,16 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### June 14, 2021: [BC by health region](bc20210614/index.md)
+
+This study suggests that no large wave will occur in the coming weeks due to B.1.617.2 (delta), a variant of concern that
+has a significant growth advantage over the currently dominant strain, B.1.1.7 (alpha).
+
+### June 14, 2021: [5 provinces](prov20210614/index.md)
+
+Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
+Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
+
 ### June 13, 2021: [16 German states](germany20210613/index.md)
 
 This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
@@ -43,11 +53,6 @@ Those restrictions were relaxed at the end of May.
 
 This study includes, for the first time, the possible effects of B.1.617.2, a variant of concern that
 has a significant growth advantage over the currently dominant strain, B.1.1.7.
-
-### May 28, 2021: [5 provinces](prov20210528/index.md)
-
-Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
-A second infection cycle is included in the models to represent the variants of concern.
 
 ### March 24, 2021: [BC by health region](bc20210324/index.md)
 
