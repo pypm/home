@@ -34,25 +34,25 @@ it is measured to be 10% per day (see above).
 
 Detailed BC analyses are reported in the [BC file](../index.md).
 
-### [Alberta](img/ab_2_8_0614_proj.pdf)
+### [Alberta](img/ab_2_9_0614_proj.pdf)
 
-![ab](img/ab_2_8_0614_proj.png)
+![ab](img/ab_2_9_0614_proj.png)
 
-### [Saskatchewan](img/sk_2_8_0614_proj.pdf)
+### [Saskatchewan](img/sk_2_9_0614_proj.pdf)
 
-![sk](img/sk_2_8_0614_proj.png)
+![sk](img/sk_2_9_0614_proj.png)
 
-### [Manitoba](img/mb_2_8_0614_proj.pdf)
+### [Manitoba](img/mb_2_9_0614_proj.pdf)
 
-![mb](img/mb_2_8_0614_proj.png)
+![mb](img/mb_2_9_0614_proj.png)
 
-### [Ontario](img/on_2_8_0614_proj.pdf)
+### [Ontario](img/on_2_9_0614_proj.pdf)
 
-![on](img/on_2_8_0614_proj.png)
+![on](img/on_2_9_0614_proj.png)
 
-### [Quebec](img/qc_2_8_0614_proj.pdf)
+### [Quebec](img/qc_2_9_0614_proj.pdf)
 
-![qc](img/qc_2_8_0614_proj.png)
+![qc](img/qc_2_9_0614_proj.png)
 
 
 ## [return to case studies](../index.md)

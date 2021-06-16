@@ -49,7 +49,7 @@ The following plots shows the May 14 forecast that assumed the circuit breaker r
 The forecast predicted a short period of growth due to alpha for the first half of June, which was not seen, as shown by the
 data collected after the forecast (red dots).
 
-![forecast511](img/BC_2_8_0511_proj.png)
+![forecast511](img/bc_2_8_0511_proj.png)
 
 ### BC projection including B.1.617.2 variant
 
@@ -64,7 +64,9 @@ is much less than the May 28 forecast.
 Some of the internal workings of the model are illustrated in the figure below.
 The daily growth rate (delta) depends on the product of the transmission rate (alpha) and the susceptible fraction (S/N). 
 The product is shown by the olive curve (for B.1.1.7) and the red curves (for B.1.617.2 for different growth advantages)
-and the grey horizontal lines show the growth rate for a few values.
+and the grey horizontal lines show the growth rate for a few
+values: 0% (solid line) + and - 2% per day (dashed lines)
+and + and -5% per day (dotted lines).
 
 ![bc_suscept](img/bc_suscept_0610_proj.png)
 
