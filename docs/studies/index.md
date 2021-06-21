@@ -10,6 +10,17 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### June 20, 2021: [USA by state](usa20210620/index.md)
+#### April 18, 2021: [USA by state](usa20210418/index.md) - for comparison
+#### April 4, 2021: [USA by state](usa20210404/index.md) - for comparison
+#### March 21, 2021: [USA by state](usa20210321/index.md) - for comparison
+
+These show results from analyses prepared for
+the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
+
+The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
+takes into account the vaccination rates in each state.
+
 ### June 14, 2021: [BC by health region](bc20210614/index.md)
 
 This study suggests that no large wave will occur in the coming weeks due to B.1.617.2 (delta), a variant of concern that
@@ -27,23 +38,6 @@ by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Inst
 
 The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
 takes into account the vaccination rates in each state.
-
-### June 13, 2021: [USA by state](usa20210613/index.md)
-#### April 18, 2021: [USA by state](usa20210418/index.md) - for comparison
-#### April 4, 2021: [USA by state](usa20210404/index.md) - for comparison
-#### March 21, 2021: [USA by state](usa20210321/index.md) - for comparison
-
-These show results from analyses prepared for
-the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
-
-The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
-takes into account the vaccination rates in each state.
-
-[![uc](usa_uc_2020-11-15.png)](usa_uc_2020-11-15.gif)
-
-Click on the above image to see a time lapse animation of how COVID-19 spread through the USA in 2020. The colors indicate the
-fraction of the population in each state who are contagious. The scale is logrithmic: a difference of 1 unit
-corresponds to a factor of 10 in the contagious fraction. The above still image is the snapshot for November 15.
 
 ### May 28, 2021: [BC by health region](bc20210528/index.md)
 
