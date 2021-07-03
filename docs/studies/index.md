@@ -10,6 +10,16 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### July 2, 2021: [BC by health region](bc20210702/index.md)
+
+This study suggests that no large wave will occur in the coming weeks due to B.1.617.2 (delta), a variant of concern that
+has a significant growth advantage over the currently dominant strain, B.1.1.7 (alpha).
+
+### July 2, 2021: [5 provinces](prov20210702/index.md)
+
+Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
+Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
+
 ### June 20, 2021: [USA by state](usa20210620/index.md)
 #### April 18, 2021: [USA by state](usa20210418/index.md) - for comparison
 #### April 4, 2021: [USA by state](usa20210404/index.md) - for comparison
@@ -20,16 +30,6 @@ the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination wi
 
 The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
 takes into account the vaccination rates in each state.
-
-### June 14, 2021: [BC by health region](bc20210614/index.md)
-
-This study suggests that no large wave will occur in the coming weeks due to B.1.617.2 (delta), a variant of concern that
-has a significant growth advantage over the currently dominant strain, B.1.1.7 (alpha).
-
-### June 14, 2021: [5 provinces](prov20210614/index.md)
-
-Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
-Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
 
 ### June 13, 2021: [16 German states](germany20210613/index.md)
 

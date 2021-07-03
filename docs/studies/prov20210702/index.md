@@ -1,4 +1,4 @@
-## June 14, 2021 Analysis of Canadian provincial data
+## July 2, 2021 Analysis of Canadian provincial data
 
 Reference model 2.9 is fit to data from the Canadian provinces with substantial cases.
 The model includes a second infection cycle to represent the alpha and gamma variants of concern and a
@@ -8,14 +8,14 @@ Vaccination is included in the models.
 ### Genomic data for delta
 
 Currently, only genomic data from Alberta is publicly available to estimate the growth advantage of delta
-and its current prevalence.
+and its prevalence for the week starting June 6.
 The figure below shows the ratio of cases for three variants to the alpha variant.
 
-![abvoc](img/ab_variant_ratios.png)
+![abvoc](img/ab_variant_ratios_0702.png)
 
- *  beta:  prev/prev_alpha = 0.0031 +/- 0.0007,  s = 0.0003 +/- 0.0047
- *  gamma:  prev/prev_alpha = 0.0796 +/- 0.0041,  s = 0.0057 +/- 0.0011
- *  delta:  prev/prev_alpha = 0.1300 +/- 0.0099,  s = 0.1000 +/- 0.0040
+ *  beta:  prev/prev_alpha = 0.0033 +/- 0.0007,  s = 0.001 +/- 0.004
+ *  gamma:  prev/prev_alpha = 0.080 +/- 0.004,  s = 0.006 +/- 0.001
+ *  delta:  prev/prev_alpha = 0.16 +/- 0.007,  s = 0.101 +/- 0.003
 
 ### Provincial case and hospitalizations
 
@@ -34,25 +34,25 @@ it is measured to be 10% per day (see above).
 
 Detailed BC analyses are reported in the [BC file](../index.md).
 
-### [Alberta](img/ab_2_9_0614_proj.pdf)
+### [Alberta](img/ab_2_9_0702_proj.pdf)
 
-![ab](img/ab_2_9_0614_proj.png)
+![ab](img/ab_2_9_0702_proj.png)
 
-### [Saskatchewan](img/sk_2_9_0614_proj.pdf)
+### [Saskatchewan](img/sk_2_9_0702_proj.pdf)
 
-![sk](img/sk_2_9_0614_proj.png)
+![sk](img/sk_2_9_0702_proj.png)
 
-### [Manitoba](img/mb_2_9_0614_proj.pdf)
+### [Manitoba](img/mb_2_9_0702_proj.pdf)
 
-![mb](img/mb_2_9_0614_proj.png)
+![mb](img/mb_2_9_0702_proj.png)
 
-### [Ontario](img/on_2_9_0614_proj.pdf)
+### [Ontario](img/on_2_9_0702_proj.pdf)
 
-![on](img/on_2_9_0614_proj.png)
+![on](img/on_2_9_0702_proj.png)
 
-### [Quebec](img/qc_2_9_0614_proj.pdf)
+### [Quebec](img/qc_2_9_0702_proj.pdf)
 
-![qc](img/qc_2_9_0614_proj.png)
+![qc](img/qc_2_9_0702_proj.png)
 
 
 ## [return to case studies](../index.md)
