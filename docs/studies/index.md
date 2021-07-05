@@ -10,6 +10,14 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### July 4, 2021: [16 German states](germany20210704/index.md)
+
+This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
+by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
+
+The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
+takes into account the vaccination rates in each state.
+
 ### July 4, 2021: [USA by state](usa20210704/index.md)
 #### April 18, 2021: [USA by state](usa20210418/index.md) - for comparison
 #### March 21, 2021: [USA by state](usa20210321/index.md) - for comparison
@@ -29,14 +37,6 @@ has a significant growth advantage over the currently dominant strain, B.1.1.7 (
 
 Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
 Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
-
-### June 13, 2021: [16 German states](germany20210613/index.md)
-
-This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
-by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
-
-The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
-takes into account the vaccination rates in each state.
 
 ### May 28, 2021: [BC by health region](bc20210528/index.md)
 
