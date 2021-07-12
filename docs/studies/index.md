@@ -10,20 +10,20 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### July 4, 2021: [16 German states](germany20210704/index.md)
-
-This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
-by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
-
-The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
-takes into account the vaccination rates in each state.
-
-### July 4, 2021: [USA by state](usa20210704/index.md)
+### July 11, 2021: [USA by state](usa20210711/index.md)
 #### April 18, 2021: [USA by state](usa20210418/index.md) - for comparison
 #### March 21, 2021: [USA by state](usa20210321/index.md) - for comparison
 
 These show results from analyses prepared for
 the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
+
+The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
+takes into account the vaccination rates in each state.
+
+### July 4, 2021: [16 German states](germany20210704/index.md)
+
+This study was prepared for inclusion in the [German forecast-hub](https://kitmetricslab.github.io/forecasthub/forecast), led
+by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Institute for Theoretical Studies.
 
 The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
 takes into account the vaccination rates in each state.
