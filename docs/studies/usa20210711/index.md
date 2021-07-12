@@ -1,4 +1,4 @@
-## July 1, 2021 Analysis of USA state data
+## July 11, 2021 Analysis of USA state data
 
 ## Studies of variant prevalence and growth advantage
 
