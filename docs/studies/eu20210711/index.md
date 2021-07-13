@@ -76,75 +76,75 @@ The very rapid growth of cases is a combination of relaxing restrictions and the
 Several of these are not sustainable, and will no doubt turn around.
 
 
-### [Austria] (img/at_2_9_0709.pdf)
+### [Austria](img/at_2_9_0709.pdf)
 
 ![at](img/at_2_9_0709.png)
 
-### [Belgium] (img/be_2_9_0709.pdf)
+### [Belgium](img/be_2_9_0709.pdf)
 
 ![be](img/be_2_9_0709.png)
 
-### [Bulgaria] (img/bg_2_9_0709.pdf)
+### [Bulgaria](img/bg_2_9_0709.pdf)
 
 ![bg](img/bg_2_9_0709.png)
 
-### [Croatia] (img/hr_2_9_0709.pdf)
+### [Croatia](img/hr_2_9_0709.pdf)
 
 ![hr](img/hr_2_9_0709.png)
 
-### [Cyprus] (img/cy_2_9_0709.pdf)
+### [Cyprus](img/cy_2_9_0709.pdf)
 
 ![cy](img/cy_2_9_0709.png)
 
-### [Czechia] (img/cz_2_9_0709.pdf)
+### [Czechia](img/cz_2_9_0709.pdf)
 
 ![cz](img/cz_2_9_0709.png)
 
-### [Denmark] (img/dk_2_9_0709.pdf)
+### [Denmark](img/dk_2_9_0709.pdf)
 
 ![dk](img/dk_2_9_0709.png)
 
-### [Estonia] (img/ee_2_9_0709.pdf)
+### [Estonia](img/ee_2_9_0709.pdf)
 
 ![ee](img/ee_2_9_0709.png)
 
-### [France] (img/fr_2_9_0709.pdf)
+### [France](img/fr_2_9_0709.pdf)
 
 ![fr](img/fr_2_9_0709.png)
 
-### [Germany] (img/de_2_9_0709.pdf)
+### [Germany](img/de_2_9_0709.pdf)
 
 ![de](img/de_2_9_0709.png)
 
-### [Greece] (img/gr_2_9_0709.pdf)
+### [Greece](img/gr_2_9_0709.pdf)
 
 ![gr](img/gr_2_9_0709.png)
 
-### [Ireland] (img/ie_2_9_0709.pdf)
+### [Ireland](img/ie_2_9_0709.pdf)
 
 ![ie](img/ie_2_9_0709.png)
 
-### [Italy] (img/it_2_9_0709.pdf)
+### [Italy](img/it_2_9_0709.pdf)
 
 ![it](img/it_2_9_0709.png)
 
-### [Netherlands] (img/nl_2_9_0709.pdf)
+### [Netherlands](img/nl_2_9_0709.pdf)
 
 ![nl](img/nl_2_9_0709.png)
 
-### [Norway] (img/no_2_9_0709.pdf)
+### [Norway](img/no_2_9_0709.pdf)
 
 ![no](img/no_2_9_0709.png)
 
-### [Spain] (img/es_2_9_0709.pdf)
+### [Spain](img/es_2_9_0709.pdf)
 
 ![es](img/es_2_9_0709.png)
 
-### [Switzerland] (img/ch_2_9_0709.pdf)
+### [Switzerland](img/ch_2_9_0709.pdf)
 
 ![ch](img/ch_2_9_0709.png)
 
-### [United Kingdom] (img/gb_2_9_0709.pdf)
+### [United Kingdom](img/gb_2_9_0709.pdf)
 
 ![gb](img/gb_2_9_0709.png)
 
