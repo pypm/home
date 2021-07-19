@@ -10,7 +10,7 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### July 11, 2021: [18 EU nations](eu20210711/index.md)
+### July 18, 2021: [29 EU nations](eu20210718/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
 coordinated by the European Centre for Disease Prevention and Control.
