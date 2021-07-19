@@ -18,7 +18,7 @@ coordinated by the European Centre for Disease Prevention and Control.
 The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
 takes into account the vaccination rates in each country.
 
-### July 11, 2021: [USA by state](usa20210711/index.md)
+### July 18, 2021: [USA by state](usa20210718/index.md)
 #### April 18, 2021: [USA by state](usa20210418/index.md) - for comparison
 #### March 21, 2021: [USA by state](usa20210321/index.md) - for comparison
 
