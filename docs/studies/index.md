@@ -10,7 +10,7 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### July 18, 2021: [29 EU nations](eu20210718/index.md)
+### July 25, 2021: [29 EU nations](eu20210725/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
 coordinated by the European Centre for Disease Prevention and Control.
@@ -18,7 +18,7 @@ coordinated by the European Centre for Disease Prevention and Control.
 The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
 takes into account the vaccination rates in each country.
 
-### July 18, 2021: [USA by state](usa20210718/index.md)
+### July 25, 2021: [USA by state](usa20210725/index.md)
 #### April 18, 2021: [USA by state](usa20210418/index.md) - for comparison
 #### March 21, 2021: [USA by state](usa20210321/index.md) - for comparison
 
