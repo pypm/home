@@ -97,9 +97,9 @@ It can be seen in the graphs that growth in hospital occupancy will be delayed c
 
 The plots are shown in linear and log-scale.
 
-![hosp-linear](img/BC_2_9_0726_linear_proj.png)
+![hosp-linear](img/bc_2_9_0726_linear_proj.png)
 
-![hosp-log](img/BC_2_9_0726_log_proj.png)
+![hosp-log](img/bc_2_9_0726_log_proj.png)
 
 
 ## [return to case studies](../index.md)
