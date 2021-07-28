@@ -10,6 +10,11 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### July 26, 2021: [BC by health region](bc20210726/index.md)
+
+The first signs that the long period of declining cases is transitioning to potentially rapid growth are shown.
+The pattern follows what has been seen in Europe and US states (see below for EU and USA model analyses).
+
 ### July 25, 2021: [29 EU nations](eu20210725/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
@@ -35,11 +40,6 @@ by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Inst
 
 The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
 takes into account the vaccination rates in each state.
-
-### July 2, 2021: [BC by health region](bc20210702/index.md)
-
-This study suggests that no large wave will occur in the coming weeks due to B.1.617.2 (delta), a variant of concern that
-has a significant growth advantage over the currently dominant strain, B.1.1.7 (alpha).
 
 ### July 2, 2021: [5 provinces](prov20210702/index.md)
 
