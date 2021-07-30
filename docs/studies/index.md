@@ -10,10 +10,17 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### July 29, 2021: [5 provinces](prov20210729/index.md)
+
+Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
+Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
+Case rates are no longer following a steady decline, possibly indicating a transition to rapid growth as
+seen in Europe and US states (see EU and USA model analyses on this page)
+
 ### July 26, 2021: [BC by health region](bc20210726/index.md)
 
 The first signs that the long period of declining cases is transitioning to potentially rapid growth are shown.
-The pattern follows what has been seen in Europe and US states (see below for EU and USA model analyses).
+The pattern follows what has been seen in Europe and US states (see EU and USA model analyses on this page).
 
 ### July 25, 2021: [29 EU nations](eu20210725/index.md)
 
@@ -40,11 +47,6 @@ by  researchers at the Karlsruhe Institute of Technology and the Heidelberg Inst
 
 The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
 takes into account the vaccination rates in each state.
-
-### July 2, 2021: [5 provinces](prov20210702/index.md)
-
-Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
-Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
 
 ### May 28, 2021: [BC by health region](bc20210528/index.md)
 
