@@ -67,9 +67,9 @@ A 4-month and 12-month summary are shown. Log-scale is used to better see the ef
 
 #### Saskatchewan
 
-![sk2](img/ab_2_9_0729_log_proj.png)
+![sk2](img/sk_2_9_0729_log_proj.png)
 
-![sk3](img/ab_2_9_0729_log_proj_1year.png)
+![sk3](img/sk_2_9_0729_log_proj_1year.png)
 
 
 ## [return to case studies](../index.md)
