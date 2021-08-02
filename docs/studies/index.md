@@ -10,6 +10,14 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### August 1, 2021: [29 EU nations](eu20210801/index.md)
+
+This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
+coordinated by the European Centre for Disease Prevention and Control.
+
+The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
+takes into account the vaccination rates in each country.
+
 ### August 1, 2021: [USA by state](usa20210801/index.md)
 
 #### July 25, 2021: [USA by state](usa20210725/index.md) - for comparison
@@ -33,14 +41,6 @@ seen in Europe and US states (see EU and USA model analyses on this page)
 
 The first signs that the long period of declining cases is transitioning to potentially rapid growth are shown.
 The pattern follows what has been seen in Europe and US states (see EU and USA model analyses on this page).
-
-### July 25, 2021: [29 EU nations](eu20210725/index.md)
-
-This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
-coordinated by the European Centre for Disease Prevention and Control.
-
-The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
-takes into account the vaccination rates in each country.
 
 ### July 4, 2021: [16 German states](germany20210704/index.md)
 
