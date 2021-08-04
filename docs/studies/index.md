@@ -10,6 +10,13 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### August 2, 2021: [5 provinces](prov20210802/index.md)
+
+Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
+Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
+Case rates are no longer following a steady decline, possibly indicating a transition to rapid growth as
+seen in Europe and US states (see EU and USA model analyses on this page)
+
 ### August 1, 2021: [29 EU nations](eu20210801/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
@@ -29,13 +36,6 @@ the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination wi
 
 The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
 takes into account the vaccination rates in each state.
-
-### July 29, 2021: [5 provinces](prov20210729/index.md)
-
-Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
-Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
-Case rates are no longer following a steady decline, possibly indicating a transition to rapid growth as
-seen in Europe and US states (see EU and USA model analyses on this page)
 
 ### July 26, 2021: [BC by health region](bc20210726/index.md)
 
