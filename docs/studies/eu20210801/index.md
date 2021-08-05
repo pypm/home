@@ -141,6 +141,63 @@ The very rapid growth of cases is a combination of relaxing restrictions and the
 
 ![gb](img/gb_2_9_0801.png)
 
+## Initial hospitalization studies
+
+The ECDC has collected hospital admission time series for some countries.
+In the figures below, those data are shown along with basic attempt to calibrate the
+model by setting the hospitalization fraction and delay parameters to match recent data.
+
+### [Belgium](img/be_2_9_0801_h.pdf)
+
+![be](img/be_2_9_0801_h.png)
+
+### [Croatia](img/hr_2_9_0801_h.pdf)
+
+![hr](img/hr_2_9_0801_h.png)
+
+### [Denmark](img/dk_2_9_0801_h.pdf)
+
+![dk](img/dk_2_9_0801_h.png)
+
+### [Estonia](img/ee_2_9_0801_h.pdf)
+
+![ee](img/ee_2_9_0801_h.png)
+
+### [France](img/fr_2_9_0801_h.pdf)
+
+![fr](img/fr_2_9_0801_h.png)
+
+### [Ireland](img/ie_2_9_0801_h.pdf)
+
+![ie](img/ie_2_9_0801_h.png)
+
+### [Netherlands](img/nl_2_9_0801_h.pdf)
+
+![nl](img/nl_2_9_0801_h.png)
+
+### [Norway](img/no_2_9_0801_h.pdf)
+
+![no](img/no_2_9_0801_h.png)
+
+### [Slovenia](img/si_2_9_0801_h.pdf)
+
+![si](img/si_2_9_0801_h.png)
+
+### [Spain](img/es_2_9_0801_h.pdf)
+
+![es](img/es_2_9_0801_h.png)
+
+### [United Kingdom](img/gb_2_9_0801_h.pdf)
+
+![gb](img/gb_2_9_0801_h.png)
+
+## Summary of hospitalization/case ratios
+
+For several countries, the hospitalization/case ratio has declined over the past 5 months by up to a factor of 4.
+The figure below shows the ratio of the hospital admissions data to the model
+(which was adjusted to match the current data).
+
+![gb](img/eu_hosp_ratio.png)
 
 ## [return to case studies](../index.md)
 
