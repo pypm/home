@@ -1,4 +1,4 @@
-# pyPM: Python Population Modeller
+# pyPM
 
 ## [Case studies and reports](docs/studies/index.md)
 
