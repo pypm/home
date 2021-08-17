@@ -1,3 +1,5 @@
+# pyPM: Python Population Modeller
+
 ## [Case studies and reports](docs/studies/index.md)
 
 Click this [link](docs/studies/index.md) to see the latest pyPM CoViD-19 modelling results.
