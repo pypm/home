@@ -1,13 +1,14 @@
-## August 10, 2021 Analysis of Canadian provincial data
+## August 18, 2021 Analysis of Canadian provincial data
 
 Reference model 2.9 is fit to data from the Canadian provinces with substantial cases.
 The model includes additional infection cycles to represent the alpha and delta variants of concern.
 Past vaccination rates are included in the models.
 
-### Recent case history compared to previous forecasts
+### Case history compared to June forecasts
 
-Until recently, case rates in the large provinces were in steady decline, following closely forecasts made in mid-June or early July.
-In the past few weeks, the situation has changed, with case rates exceeding the forecasts.
+Until mid-July, case rates in the large provinces were in steady decline,
+following closely forecasts made from mid- to late-June.
+The situation changed, with case rates significantly exceeding the forecasts except in Manitoba.
 
 The plots show the daily case numbers (small green points) and the weekly averages of the daily rates (large green dots) for the data
 used in fitting the model forecast, shown by the smooth green curves. The dashed curves show how the model attributes cases to
@@ -46,56 +47,56 @@ Detailed BC analyses are reported in the [BC analysis page](../index.md).
 
 ### New model fits including transitions to rapid growth
 
-In recent weeks many European nations have experienced similar transitions to rapid growth
+European nations have experienced similar transitions to rapid growth due to delta
 and several have been able to reduce or turn the growth around.
-In the US, most states had recently been in a long period of steady decline,
-but now all states are currently experiencing rapid growth.
+The rapid growth was also seen in all US states, and the growth has continued for a longer
+period of time, with signs of slowing growth coming only recently in some states.
 Model fits to EU and US states can be found [here](../index.md).
 
 New model fits to provincial data including transition to rapid growth are shown below on linear and log-scale:
 
-#### [Alberta](img/ab_2_9_0810_cases.pdf)
+#### [Alberta](img/ab_2_9_0818_cases.pdf)
 
-![ab](img/ab_2_9_0810_cases.png)
+![ab](img/ab_2_9_0818_cases.png)
 
-#### [Saskatchewan](img/sk_2_9_0810_cases.pdf)
+#### [Saskatchewan](img/sk_2_9_0818_cases.pdf)
 
-![sk](img/sk_2_9_0810_cases.png)
+![sk](img/sk_2_9_0818_cases.png)
 
-#### [Manitoba](img/mb_2_9_0810_cases.pdf)
+#### [Manitoba](img/mb_2_9_0818_cases.pdf)
 
-![mb](img/mb_2_9_0810_cases.png)
+![mb](img/mb_2_9_0818_cases.png)
 
-#### [Ontario](img/on_2_9_0810_cases.pdf)
+#### [Ontario](img/on_2_9_0818_cases.pdf)
 
-![on](img/on_2_9_0810_cases.png)
+![on](img/on_2_9_0818_cases.png)
 
-#### [Quebec](img/qc_2_9_0810_cases.pdf)
+#### [Quebec](img/qc_2_9_0818_cases.pdf)
 
-![qc](img/qc_2_9_0810_cases.png)
+![qc](img/qc_2_9_0818_cases.png)
 
 
 ### Provincial histories and projections with hospital occupancy
 
-#### [Alberta](img/ab_2_9_0810_linear_proj.pdf)
+#### [Alberta](img/ab_2_9_0818_linear_proj.pdf)
 
-![ab](img/ab_2_9_0810_linear_proj.png)
+![ab](img/ab_2_9_0818_linear_proj.png)
 
-#### [Saskatchewan](img/sk_2_9_0810_linear_proj.pdf)
+#### [Saskatchewan](img/sk_2_9_0818_linear_proj.pdf)
 
-![sk](img/sk_2_9_0810_linear_proj.png)
+![sk](img/sk_2_9_0818_linear_proj.png)
 
-#### [Manitoba](img/mb_2_9_0810_linear_proj.pdf)
+#### [Manitoba](img/mb_2_9_0818_linear_proj.pdf)
 
-![mb](img/mb_2_9_0810_linear_proj.png)
+![mb](img/mb_2_9_0818_linear_proj.png)
 
-#### [Ontario](img/on_2_9_0810_linear_proj.pdf)
+#### [Ontario](img/on_2_9_0818_linear_proj.pdf)
 
-![on](img/on_2_9_0810_linear_proj.png)
+![on](img/on_2_9_0818_linear_proj.png)
 
-#### [Quebec](img/qc_2_9_0810_linear_proj.pdf)
+#### [Quebec](img/qc_2_9_0818_linear_proj.pdf)
 
-![qc](img/qc_2_9_0810_linear_proj.png)
+![qc](img/qc_2_9_0818_linear_proj.png)
 
 
 ## [return to case studies](../index.md)
