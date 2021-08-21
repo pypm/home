@@ -29,6 +29,13 @@ my_ipypm.get_display()
 
 ### In case of problems
 
+* If you get an error that looks like ipywidgets cannot be found, you can install the library:
+  * If using conda enter the following in the terminal:
+    * conda install -c conda-forge ipywidgets
+  * For pip there are two steps: installing and enabling:
+    * pip install ipywidgets
+    * jupyter nbextension enable --py widgetsnbextension
+
 * If you find that the GUI is not responding, you can restart by restarting the jupyter notebook kernel:
   * Menu -> Kernel -> Restart and Clear Output
   * execute the command to display the GUI.
