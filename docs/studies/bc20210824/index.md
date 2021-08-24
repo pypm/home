@@ -62,12 +62,18 @@ Coastal | +6% / day | +6% / day | +7% / day | +7% / day | +6% / day
 Island | - | +7% / day | +9% / day | +9% / day | +7% / day
 Northern | - | +14% / day | +15% / day | +14% / day | +10% / day
 
-The growth rates are consistent from week to week, except for the reduction in Interior,
+The growth rates are roughly consistent from week to week,
+except for the significant reduction in Interior,
 which also affects the overall growth.
 Growth appears to be sustained in the other regions.
-If that continues, then the growth rate for the province will return to 7-8%/day when the other
+The low case rates in Northern and Vancouver Island HA leads to larger variance of the
+growth rate estimators.
+
+If the growth continues in each HA,
+then the growth rate for the province will return to 7-8%/day once the other
 regions start to produce the most cases.
-With growing immunity, the model predicts decling growth rates of about 0.3%/day per week.
+With growing immunity, the model predicts decling growth rates of about 0.3%/day per week for constant
+transmission rates.
 
 ## Hospitalization projections
 
