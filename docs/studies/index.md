@@ -10,6 +10,20 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### August 24, 2021: [5 provinces](prov20210824/index.md)
+
+Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
+Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
+Case rates are growing rapidly in these provinces (except Manitoba) due to delta, as
+seen in Europe and US states (see EU and USA model analyses on this page)
+
+### August 24, 2021: [BC by health region](bc20210824/index.md)
+
+All regions have been experiencing rapid growth in cases in a
+much like what has been seen in Europe and US states (see EU and USA model analyses on this page).
+The Okanagan region has reduced its growth rate significantly, following measures brought into force
+at the end of July.
+
 ### August 22, 2021: [29 EU nations](eu20210822/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
@@ -30,19 +44,6 @@ the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination wi
 
 The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
 takes into account the vaccination rates in each state.
-
-### August 18, 2021: [5 provinces](prov20210818/index.md)
-
-Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
-Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
-Case rates are growing rapidly in these provinces (except Manitoba) due to delta, as
-seen in Europe and US states (see EU and USA model analyses on this page)
-
-### August 16, 2021: [BC by health region](bc20210816/index.md)
-
-All regions are experiencing rapid growth in cases in a
-much like what has been seen in Europe and US states (see EU and USA model analyses on this page).
-Also shown are longer term projections that indicate action is necessary to avoid exceeding hospital capacity.
 
 ### July 4, 2021: [16 German states](germany20210704/index.md)
 
