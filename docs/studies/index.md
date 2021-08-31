@@ -10,6 +10,36 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### August 30, 2021: [5 provinces](prov20210830/index.md)
+
+Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
+Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
+Case rates are growing rapidly in these provinces (except Manitoba) due to delta, as
+seen in Europe and US states (see EU and USA model analyses on this page)
+
+Some previous studies:
+
+* [August 24](prov20210824/index.md)
+* [August 18](prov20210818/index.md)
+* [July 29](prov20210729/index.md)
+
+### August 30, 2021: [BC by health region](bc20210830/index.md)
+
+All regions had been experiencing rapid growth in cases in a
+much like what has been seen in Europe and US states (see EU and USA model analyses on this page).
+The Okanagan region reduced its growth rate to near zero, following measures brought into force
+at the end of July.
+Growth rates in the other regions in the province have recently declined as well.
+
+Some previous studies:
+
+* [August 24](bc20210830/index.md)
+* [August 18](bc20210830/index.md)
+* [July 26](bc20210830/index.md)
+* [May 28](bc20210830/index.md)
+* [March 24](bc20210830/index.md)
+* [March 9](bc20210830/index.md)
+
 ### August 29, 2021: [29 EU nations](eu20210829/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
@@ -20,30 +50,19 @@ takes into account the vaccination rates in each country.
 
 ### August 29, 2021: [USA by state](usa20210829/index.md)
 
-#### August 8, 2021: [USA by state](usa20210808/index.md) - for comparison
-#### July 25, 2021: [USA by state](usa20210725/index.md) - for comparison
-#### April 18, 2021: [USA by state](usa20210418/index.md) - for comparison
-#### March 21, 2021: [USA by state](usa20210321/index.md) - for comparison
-
 These show results from analyses prepared for
 the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
 
 The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
 takes into account the vaccination rates in each state.
 
-### August 24, 2021: [5 provinces](prov20210824/index.md)
+Some previous studies:
 
-Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
-Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
-Case rates are growing rapidly in these provinces (except Manitoba) due to delta, as
-seen in Europe and US states (see EU and USA model analyses on this page)
-
-### August 24, 2021: [BC by health region](bc20210824/index.md)
-
-All regions have been experiencing rapid growth in cases in a
-much like what has been seen in Europe and US states (see EU and USA model analyses on this page).
-The Okanagan region has reduced its growth rate significantly, following measures brought into force
-at the end of July.
+* [August 15](usa20210815/index.md)
+* [August 8](usa20210808/index.md)
+* [July 25](usa20210725/index.md)
+* [April 18](usa20210418/index.md)
+* [March 21](usa20210321/index.md)
 
 ### July 4, 2021: [16 German states](germany20210704/index.md)
 
