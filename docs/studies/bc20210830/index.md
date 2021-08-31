@@ -43,9 +43,14 @@ what was known at that time.
 
 ## Recent transition to growth
 
-The recent transition to rapid growth is seen more clearly in the plot below.
+The transition to rapid growth and the changes since are shown in the plot below.
 
 ![forecast_linear](img/BC_2_9_0830_HA.png)
+
+The animated gif image, shows how the model fits adjusted to new data as it came in over
+the past 5 weeks.
+
+![animated](img/bc_case_20210830.gif)
 
 The table below indicates the growth rates for each region for recent analyses
 

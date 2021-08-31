@@ -23,26 +23,38 @@ New model fits to provincial data including transition to rapid growth are shown
 
 Detailed BC analyses are reported in the [BC analysis page](../index.md).
 
-#### [Alberta](img/ab_2_90830_cases.pdf)
+#### [Alberta](img/ab_2_9_0830_cases.pdf)
 
-![ab](img/ab_2_90830_cases.png)
+![ab](img/ab_2_9_0830_cases.png)
 
-#### [Saskatchewan](img/sk_2_90830_cases.pdf)
+#### [Saskatchewan](img/sk_2_9_0830_cases.pdf)
 
-![sk](img/sk_2_90830_cases.png)
+![sk](img/sk_2_9_0830_cases.png)
 
-#### [Manitoba](img/mb_2_90830_cases.pdf)
+#### [Manitoba](img/mb_2_9_0830_cases.pdf)
 
-![mb](img/mb_2_90830_cases.png)
+![mb](img/mb_2_9_0830_cases.png)
 
-#### [Ontario](img/on_2_90830_cases.pdf)
+#### [Ontario](img/on_2_9_0830_cases.pdf)
 
-![on](img/on_2_90830_cases.png)
+![on](img/on_2_9_0830_cases.png)
 
-#### [Quebec](img/qc_2_90830_cases.pdf)
+#### [Quebec](img/qc_2_9_0830_cases.pdf)
 
-![qc](img/qc_2_90830_cases.png)
+![qc](img/qc_2_9_0830_cases.png)
 
+### Current growth rate
+
+The table below indicates the growth rates for each region for recent analyses
+
+Rpovince | Aug 30 
+---|---
+BC | +2% / day 
+Alberta | +6% / day 
+Saskatchewan | +5% / day 
+Manitoba | +5% / day 
+Ontario | +4% / day 
+Quebec | +4% / day 
 
 ### Provincial histories and projections with hospital occupancy
 
@@ -51,30 +63,30 @@ Generally, hospitalization is rising in accord with the model projection
 that assumes the fraction of cases that lead to hospitalization is
 constant throughout the year.
 
-#### [Alberta](img/ab_2_90830_linear_proj.pdf)
+#### [Alberta](img/ab_2_9_0830_linear_proj.pdf)
 
-![ab](img/ab_2_90830_linear_proj.png)
-![ab](img/ab_2_90830_log_proj.png)
+![ab](img/ab_2_9_0830_linear_proj.png)
+![ab](img/ab_2_9_0830_log_proj.png)
 
-#### [Saskatchewan](img/sk_2_90830_linear_proj.pdf)
+#### [Saskatchewan](img/sk_2_9_0830_linear_proj.pdf)
 
-![sk](img/sk_2_90830_linear_proj.png)
-![sk](img/sk_2_90830_log_proj.png)
+![sk](img/sk_2_9_0830_linear_proj.png)
+![sk](img/sk_2_9_0830_log_proj.png)
 
-#### [Manitoba](img/mb_2_90830_linear_proj.pdf)
+#### [Manitoba](img/mb_2_9_0830_linear_proj.pdf)
 
-![mb](img/mb_2_90830_linear_proj.png)
-![mb](img/mb_2_90830_log_proj.png)
+![mb](img/mb_2_9_0830_linear_proj.png)
+![mb](img/mb_2_9_0830_log_proj.png)
 
-#### [Ontario](img/on_2_90830_linear_proj.pdf)
+#### [Ontario](img/on_2_9_0830_linear_proj.pdf)
 
-![on](img/on_2_90830_linear_proj.png)
-![on](img/on_2_90830_log_proj.png)
+![on](img/on_2_9_0830_linear_proj.png)
+![on](img/on_2_9_0830_log_proj.png)
 
-#### [Quebec](img/qc_2_90830_linear_proj.pdf)
+#### [Quebec](img/qc_2_9_0830_linear_proj.pdf)
 
-![qc](img/qc_2_90830_linear_proj.png)
-![qc](img/qc_2_90830_log_proj.png)
+![qc](img/qc_2_9_0830_linear_proj.png)
+![qc](img/qc_2_9_0830_log_proj.png)
 
 ### Case history compared to June forecasts
 
