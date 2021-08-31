@@ -33,12 +33,12 @@ Growth rates in the other regions in the province have recently declined as well
 
 Some previous studies:
 
-* [August 24](bc20210830/index.md)
-* [August 18](bc20210830/index.md)
-* [July 26](bc20210830/index.md)
-* [May 28](bc20210830/index.md)
-* [March 24](bc20210830/index.md)
-* [March 9](bc20210830/index.md)
+* [August 24](bc20210824/index.md)
+* [August 18](bc20210818/index.md)
+* [July 26](bc20210726/index.md)
+* [May 28](bc20210528/index.md)
+* [March 24](bc20210324/index.md)
+* [March 9](bc20210309/index.md)
 
 ### August 29, 2021: [29 EU nations](eu20210829/index.md)
 
