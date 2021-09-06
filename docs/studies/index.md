@@ -10,6 +10,22 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### September 5, 2021: [USA by state](usa20210905/index.md)
+
+These show results from analyses prepared for
+the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
+
+The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
+takes into account the vaccination rates in each state.
+
+Some previous studies:
+
+* [August 15](usa20210815/index.md)
+* [August 8](usa20210808/index.md)
+* [July 25](usa20210725/index.md)
+* [April 18](usa20210418/index.md)
+* [March 21](usa20210321/index.md)
+
 ### August 30, 2021: [5 provinces](prov20210830/index.md)
 
 Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
@@ -47,22 +63,6 @@ coordinated by the European Centre for Disease Prevention and Control.
 
 The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
 takes into account the vaccination rates in each country.
-
-### August 29, 2021: [USA by state](usa20210829/index.md)
-
-These show results from analyses prepared for
-the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
-
-The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
-takes into account the vaccination rates in each state.
-
-Some previous studies:
-
-* [August 15](usa20210815/index.md)
-* [August 8](usa20210808/index.md)
-* [July 25](usa20210725/index.md)
-* [April 18](usa20210418/index.md)
-* [March 21](usa20210321/index.md)
 
 ### July 4, 2021: [16 German states](germany20210704/index.md)
 
