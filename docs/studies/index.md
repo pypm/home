@@ -26,6 +26,18 @@ Some previous studies:
 * [April 18](usa20210418/index.md)
 * [March 21](usa20210321/index.md)
 
+### September 5, 2021: [29 EU nations](eu20210905/index.md)
+
+This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
+coordinated by the European Centre for Disease Prevention and Control.
+
+The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
+takes into account the vaccination rates in each country.
+
+Some previous studies:
+
+* [August 15](eu20210815/index.md)
+
 ### August 30, 2021: [5 provinces](prov20210830/index.md)
 
 Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
@@ -55,14 +67,6 @@ Some previous studies:
 * [May 28](bc20210528/index.md)
 * [March 24](bc20210324/index.md)
 * [March 9](bc20210309/index.md)
-
-### August 29, 2021: [29 EU nations](eu20210829/index.md)
-
-This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
-coordinated by the European Centre for Disease Prevention and Control.
-
-The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
-takes into account the vaccination rates in each country.
 
 ### July 4, 2021: [16 German states](germany20210704/index.md)
 
