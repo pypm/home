@@ -44,19 +44,20 @@ The curves show the best fit at this time, the table below shows uncertainty in 
 
 ## Summary of growth rates estimates
 
-The table below indicates the growth rates for each region for recent analyses.
+The table below indicates the growth rates (shown as percent per day)
+for each region for recent analyses.
 The trend to reduced growth rates is evident.
 Typical uncertainty (68% CL) is a 1%/day, but for the current estimates, the uncertainties are
 larger, so are included in the table.
 
 Region | July 28 | Aug 3 | Aug 10 | Aug 16 | Aug 24 | Aug 30 | Sept 7
 ---|---|---|---|---|---|---|---
-BC | +9% / day | +9% / day | +9% / day | +8% / day | +3% / day | +2% / day | +1% +/- 1% / day 
-Fraser | +8% / day | +7% / day | +8% / day | +7% / day | +7% / day | +3% / day | +2% +/- 1% / day 
-Interior | +12% / day | +11% / day | +8% / day | +6% / day | +1% / day | 0% / day | -1% +/- 1% / day 
-Coastal | +6% / day | +6% / day | +7% / day | +7% / day | +6% / day | +2% / day | -2% +/- 3% / day 
-Island | - | +7% / day | +9% / day | +9% / day | +7% / day | +4% / day | -3% +/- 4% / day 
-Northern | - | +14% / day | +15% / day | +14% / day | +10% / day | +5% / day | +5% +/- 3% / day 
+BC | +9%  | +9%  | +9%  | +8%  | +3%  | +2%  | +1% +/- 1%  
+Fraser | +8%  | +7%  | +8%  | +7%  | +7%  | +3%  | +2% +/- 1%  
+Interior | +12%  | +11%  | +8%  | +6%  | +1%  | 0%  | -1% +/- 1%  
+Coastal | +6%  | +6%  | +7%  | +7%  | +6%  | +2%  | -2% +/- 3%  
+Island | - | +7%  | +9%  | +9%  | +7%  | +4%  | -3% +/- 4%  
+Northern | - | +14%  | +15%  | +14%  | +10%  | +5%  | +5% +/- 3%  
 
 
 ## [return to case studies](../index.md)
