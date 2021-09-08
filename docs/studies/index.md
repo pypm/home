@@ -21,7 +21,7 @@ Some previous studies:
 
 * [August 30](bc20210830/index.md)
 * [August 24](bc20210824/index.md)
-* [August 18](bc20210818/index.md)
+* [August 16](bc20210816/index.md)
 * [July 26](bc20210726/index.md)
 * [May 28](bc20210528/index.md)
 * [March 24](bc20210324/index.md)
