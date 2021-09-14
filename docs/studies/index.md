@@ -10,15 +10,14 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### September 7, 2021: [BC by health region](bc20210907/index.md)
+### September 13, 2021: [BC by health region](bc20210913/index.md)
 
-With the imposition of measures to reduce transmission across the province
-the growth rate of cases in all regions are reducing.
-The growth rate estimates at this time are uncertain, since changes
-are recent.
+With the imposition of measures to reduce transmission across the province,
+the growth rate of cases have reduced significantly.
 
 Some previous studies:
 
+* [September 7](bc20210907/index.md)
 * [August 30](bc20210830/index.md)
 * [August 24](bc20210824/index.md)
 * [August 16](bc20210816/index.md)
