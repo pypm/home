@@ -26,21 +26,20 @@ Some previous studies:
 * [March 24](bc20210324/index.md)
 * [March 9](bc20210309/index.md)
 
-### September 7, 2021: [5 provinces](prov20210907/index.md)
+### September 13, 2021: [5 provinces](prov20210913/index.md)
 
 Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
 Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
-Case rates are growing rapidly in these provinces (except Manitoba) due to delta, as
-seen in Europe and US states (see EU and USA model analyses on this page)
 
 Some previous studies:
 
+* [September 7](prov20210907/index.md)
 * [August 30](prov20210830/index.md)
 * [August 24](prov20210824/index.md)
 * [August 18](prov20210818/index.md)
 * [July 29](prov20210729/index.md)
 
-### September 5, 2021: [USA by state](usa20210905/index.md)
+### September 12, 2021: [USA by state](usa20210912/index.md)
 
 These show results from analyses prepared for
 the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
@@ -50,13 +49,14 @@ takes into account the vaccination rates in each state.
 
 Some previous studies:
 
+* [September 5](usa20210905/index.md)
 * [August 15](usa20210815/index.md)
 * [August 8](usa20210808/index.md)
 * [July 25](usa20210725/index.md)
 * [April 18](usa20210418/index.md)
 * [March 21](usa20210321/index.md)
 
-### September 5, 2021: [29 EU nations](eu20210905/index.md)
+### September 12, 2021: [29 EU nations](eu20210912/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
 coordinated by the European Centre for Disease Prevention and Control.
@@ -66,6 +66,7 @@ takes into account the vaccination rates in each country.
 
 Some previous studies:
 
+* [September 5](eu20210905/index.md)
 * [August 15](eu20210815/index.md)
 
 ### July 4, 2021: [16 German states](germany20210704/index.md)
