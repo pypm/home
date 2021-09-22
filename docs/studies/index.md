@@ -10,13 +10,14 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### September 13, 2021: [BC by health region](bc20210913/index.md)
+### September 21, 2021: [BC by health region](bc20210921/index.md)
 
 With the imposition of measures to reduce transmission across the province,
 the growth rate of cases have reduced significantly.
 
 Some previous studies:
 
+* [September 13](bc20210913/index.md)
 * [September 7](bc20210907/index.md)
 * [August 30](bc20210830/index.md)
 * [August 24](bc20210824/index.md)
@@ -26,13 +27,14 @@ Some previous studies:
 * [March 24](bc20210324/index.md)
 * [March 9](bc20210309/index.md)
 
-### September 13, 2021: [5 provinces](prov20210913/index.md)
+### September 21, 2021: [5 provinces](prov20210921/index.md)
 
 Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario and Quebec are shown.
 Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
 
 Some previous studies:
 
+* [September 13](prov20210913/index.md)
 * [September 7](prov20210907/index.md)
 * [August 30](prov20210830/index.md)
 * [August 24](prov20210824/index.md)
