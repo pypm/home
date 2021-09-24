@@ -71,6 +71,11 @@ constant throughout the year.
 ![sk](img/sk_2_9_0921_linear_proj.png)
 ![sk](img/sk_2_9_0921_log_proj.png)
 
+#### [Manitoba](img/mb_2_9_0921_linear_proj.pdf)
+
+![mb](img/mb_2_9_0921_linear_proj.png)
+![mb](img/mb_2_9_0921_log_proj.png)
+
 #### [Ontario](img/on_2_9_0921_linear_proj.pdf)
 
 ![on](img/on_2_9_0921_linear_proj.png)
