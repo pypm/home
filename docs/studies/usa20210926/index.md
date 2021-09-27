@@ -245,6 +245,11 @@ At the bottom of this page, plots showing the combined forecast for the US are s
 
 ![wy](img/wy_2_9_0926.png)
 
+## Comparing prevalence between states 
+
+The following plots show the daily cases per 100,000 people in each state, grouped according to the 10 standard federal regions.
+
+![prev](img/USA_2_9_0926_prevalence.png)
 
 ## USA Forecast
 
