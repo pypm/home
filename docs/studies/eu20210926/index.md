@@ -145,6 +145,11 @@ The very rapid growth of cases is a combination of relaxing restrictions and the
 
 ![gb](img/gb_2_9_0926.png)
 
+## Comparing prevalence between countries
+
+The following plots show the daily cases per 100,000 people in each country, grouped according to geographical regions.
+
+![prev](img/EU_2_9_0926_prevalence.png)
 
 ## [return to case studies](../index.md)
 
