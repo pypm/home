@@ -126,13 +126,13 @@ During a period of stable testing policies, the number of tests performed each w
 There is a multiplying effect in the latter because not only do symptomatic individuals seek tests, but
 when a test is positive, that leads to tests being performed on close contacts.
 
-In other words, the expected number of tests each week ($N_t$) can be approximated
-by a simple function of the number of cases that week ($N_c$): $N_t = a N_c + b N$,
-where $a$ is a constant (multiplier), $N$ is the population, and $b$ is the fraction of people who
+In other words, the expected number of tests each week (Nt) can be approximated
+by a simple function of the number of cases that week (Nc): Nt = a Nc + b N,
+where "a" is a constant (multiplier), N is the population, and "b" is the fraction of people who
 seek a test in a week (for reasons unrelated to an actual infection).
 
 The figure below shows the weekly tests and cases in Alberta and its five zones for each week in 2021.
-The data from the third wave (period shaded in red) are used to estimate the coefficients, $a$ and $b$.
+The data from the third wave (period shaded in red) are used to estimate the coefficients, "a" and "b".
 The blue curve shows the expected number of tests given these estimated coefficients and the cases each week.
 The simple model agrees well with the weekly number of tests during the third wave.
 It appears that in the fourth wave, however, that fewer tests are being performed than expected for North, Central, and South
