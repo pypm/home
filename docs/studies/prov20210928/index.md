@@ -115,5 +115,44 @@ The hospitalization projections for the Atlantic provinces are hampered by low s
 ![ns](img/ns_2_9_0928_log_proj.png)
 
 
+### Testing rates in Alberta
+
+As shown above, hospitalization in Alberta for the 4th wave exceeds the projection that is based on case data and
+on hospitalization during the 3rd wave.
+One possibility is that testing is identifying a diminishing fraction of infections during the 4th wave.
+
+During a period of stable testing policies, the number of tests performed each week is a combination of a baseline number
+(not depending on the current infection levels) and a number that increases with infection levels.
+There is a multiplying effect in the latter because not only do symptomatic individuals seek tests, but
+when a test is positive, that leads to tests being performed on close contacts.
+
+In other words, the expected number of tests each week ($N_t$) can be approximated
+by a simple function of the number of cases that week ($N_c$): $N_t = a N_c + b N$,
+where $a$ is a constant (multiplier), $N$ is the population, and $b$ is the fraction of people who
+seek a test in a week (for reasons unrelated to an actual infection).
+
+The figure below shows the weekly tests and cases in Alberta and its five zones for each week in 2021.
+The data from the third wave (period shaded in red) are used to estimate the coefficients, $a$ and $b$.
+The blue curve shows the expected number of tests given these estimated coefficients and the cases each week.
+The simple model agrees well with the weekly number of tests during the third wave.
+It appears that in the fourth wave, however, that fewer tests are being performed than expected for North, Central, and South
+zones (using the 3rd wave as a reference).
+Many of the recent hospital admissions are patients from those zones.
+It is possible that reduced testing in these zones is partly responsible for the hospitalization projections to be lower
+than the observed hospitalizations.
+
+![ab_test](img/AB_testing_rate_0929_zoom.png)
+
+The estimated coefficients are shown in the table below:
+
+|Zone|a|b (%)
+|---|---|---
+Alberta | 6.6 | 0.69
+Calgary | 5.8 | 0.90
+Central | 6.6 | 0.51
+Edmonton | 8.2 | 0.64
+North | 5.4 | 0.41
+South | 9.0 | 0.53
+
 ## [return to case studies](../index.md)
 
