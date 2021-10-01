@@ -115,7 +115,7 @@ The hospitalization projections for the Atlantic provinces are hampered by low s
 ![ns](img/ns_2_9_0928_log_proj.png)
 
 
-### Testing rates in Alberta
+### Testing rates in Alberta by zone
 
 As shown above, hospitalization in Alberta for the 4th wave exceeds the projection that is based on case data and
 on hospitalization during the 3rd wave.
@@ -153,6 +153,21 @@ Central | 6.6 | 0.51
 Edmonton | 8.2 | 0.64
 North | 5.4 | 0.41
 South | 9.0 | 0.53
+
+### Hospital admission rates in Alberta by zone
+
+The figure below compares the weekly hospital admissions to weekly cases for Alberta and each zone.
+Unlike hospital occupancy, the admission data does not have a significant lag compared to cases,
+so there is no need to apply a time offset: to compare, cases are scaled down by a factor of 30.
+
+The rural zones are contributing a significant number of hospital admissions on both a per-capita basis and
+on an absolute basis.
+The ratio of admissions to cases is significantly larger in all regions for the 4th wave, except Calgary.
+The study on testing rates (see above) suggest diminished testing for the 4th wave except in Calgary, so
+lower testing rates could be a contributing factor in understanding the larger than expected hospital load
+given the number of cases in the fourth wave.
+
+![ab_hosp](img/AB_hospitalization_0929.png)
 
 ## [return to case studies](../index.md)
 
