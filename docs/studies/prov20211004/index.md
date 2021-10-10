@@ -1,4 +1,4 @@
-## October 4, 2021 Analysis of Canadian provincial data
+# October 4, 2021 Analysis of Canadian provincial data
 
 This summarizes analyses of data from the Canadian provinces with substantial cases.
 The model includes additional infection cycles to represent the alpha and delta variants of concern.
@@ -157,7 +157,7 @@ than the observed hospitalizations.
 
 ![ab_test](img/AB_testing_rate_1004_zoom.png)
 
-The estimated coefficients are shown in the table below:
+The estimated coefficients are shown in the headings in the plots above.
 
 ### Hospital admission rates in Alberta by zone
 
