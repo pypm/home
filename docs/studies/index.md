@@ -10,13 +10,13 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### October 4, 2021: [BC by health region](bc20211004/index.md)
+### October 13, 2021: [BC by health region](bc20211013/index.md)
 
-With the imposition of measures to reduce transmission across the province,
-the growth rate of cases have reduced significantly.
+Growth rates of cases are in the range 0 to -2%/day.
 
 Some previous studies:
 
+* [October 4](bc20211004/index.md)
 * [September 28](bc20210928/index.md)
 * [September 21](bc20210921/index.md)
 * [September 13](bc20210913/index.md)
@@ -29,13 +29,14 @@ Some previous studies:
 * [March 24](bc20210324/index.md)
 * [March 9](bc20210309/index.md)
 
-### October 4, 2021: [7 provinces](prov20211004/index.md)
+### October 13, 2021: [7 provinces](prov20211013/index.md)
 
 Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario, Quebec, New Brunswick, and Nova Scotia are shown.
 Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
 
 Some previous studies:
 
+* [October 4](prov20211004/index.md)
 * [September 28](prov20210928/index.md)
 * [September 21](prov20210921/index.md)
 * [September 13](prov20210913/index.md)
@@ -45,7 +46,7 @@ Some previous studies:
 * [August 18](prov20210818/index.md)
 * [July 29](prov20210729/index.md)
 
-### October 3, 2021: [USA by state](usa20211003/index.md)
+### October 10, 2021: [USA by state](usa20211010/index.md)
 
 These show results from analyses prepared for
 the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
@@ -55,6 +56,7 @@ takes into account the vaccination rates in each state.
 
 Some previous studies:
 
+* [October 3](usa20211003/index.md)
 * [September 26](usa20210926/index.md)
 * [September 12](usa20210912/index.md)
 * [September 5](usa20210905/index.md)
@@ -64,7 +66,7 @@ Some previous studies:
 * [April 18](usa20210418/index.md)
 * [March 21](usa20210321/index.md)
 
-### October 3, 2021: [29 European nations](eu20211003/index.md)
+### October 10, 2021: [29 European nations](eu20211010/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
 coordinated by the European Centre for Disease Prevention and Control.
@@ -74,6 +76,7 @@ takes into account the vaccination rates in each country.
 
 Some previous studies:
 
+* [October 3](eu20211003/index.md)
 * [September 26](eu20210926/index.md)
 * [September 12](eu20210912/index.md)
 * [September 5](eu20210905/index.md)
