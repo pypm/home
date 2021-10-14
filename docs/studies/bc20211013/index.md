@@ -43,12 +43,6 @@ The recent case history for all health authorities are compared on log scale bel
 
 ![forecast_linear](img/BC_2_9_1013_HA.png)
 
-The animated figure below shows how the projections change from week to week as more data are collected.
-For the September 7 projection, large uncertainties on the growth rate were indicated, given the
-recent transition.
-
-![anim](img/bc_animated_1013.gif)
-
 The table below indicates the growth rates (shown as percent per day)
 for each region for recent analyses.
 The trend to reduced growth rates is evident.
