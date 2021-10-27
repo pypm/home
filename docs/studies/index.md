@@ -10,12 +10,13 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### October 13, 2021: [BC by health region](bc20211013/index.md)
+### October 25, 2021: [BC by health region](bc20211025/index.md)
 
-Growth rates of cases are in the range 0 to -2%/day.
+Growth rates of cases are in the range 0 to -3%/day.
 
 Some previous studies:
 
+* [October 13](bc20211013/index.md)
 * [October 4](bc20211004/index.md)
 * [September 28](bc20210928/index.md)
 * [September 21](bc20210921/index.md)
@@ -29,13 +30,14 @@ Some previous studies:
 * [March 24](bc20210324/index.md)
 * [March 9](bc20210309/index.md)
 
-### October 13, 2021: [7 provinces](prov20211013/index.md)
+### October 25, 2021: [7 provinces](prov20211025/index.md)
 
 Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario, Quebec, New Brunswick, and Nova Scotia are shown.
 Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
 
 Some previous studies:
 
+* [October 13](prov20211013/index.md)
 * [October 4](prov20211004/index.md)
 * [September 28](prov20210928/index.md)
 * [September 21](prov20210921/index.md)
@@ -46,7 +48,7 @@ Some previous studies:
 * [August 18](prov20210818/index.md)
 * [July 29](prov20210729/index.md)
 
-### October 10, 2021: [USA by state](usa20211010/index.md)
+### October 24, 2021: [USA by state](usa20211024/index.md)
 
 These show results from analyses prepared for
 the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
@@ -54,8 +56,11 @@ the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination wi
 The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
 takes into account the vaccination rates in each state.
 
+Infection rates are declining in all states.
+
 Some previous studies:
 
+* [October 10](usa20211010/index.md)
 * [October 3](usa20211003/index.md)
 * [September 26](usa20210926/index.md)
 * [September 12](usa20210912/index.md)
@@ -66,7 +71,7 @@ Some previous studies:
 * [April 18](usa20210418/index.md)
 * [March 21](usa20210321/index.md)
 
-### October 10, 2021: [29 European nations](eu20211010/index.md)
+### October 24, 2021: [29 European nations](eu20211024/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
 coordinated by the European Centre for Disease Prevention and Control.
@@ -74,8 +79,12 @@ coordinated by the European Centre for Disease Prevention and Control.
 The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
 takes into account the vaccination rates in each country.
 
+In the past few weeks most European nations have experienced a significant increase in
+rate of growth in cases. Such a resurgence has not yet been seen in North America.
+
 Some previous studies:
 
+* [October 10](eu20211010/index.md)
 * [October 3](eu20211003/index.md)
 * [September 26](eu20210926/index.md)
 * [September 12](eu20210912/index.md)
