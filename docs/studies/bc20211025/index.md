@@ -66,10 +66,9 @@ Cases per capita in the Northern HA is similar to the levels reached in Alberta 
 
 ## Hospitalization projections
 
-The figure below shows unfitted projections for hospital and ICU occupancy, assuming the growth in case rates from the figure above.
+The figure below shows projections for hospital and ICU occupancy (calibrated to the third wave),
+assuming the growth in case rates from the figure above.
 It can be seen in the graphs that growth in hospital occupancy are delayed compared to the growth in cases.
-The rise in hospitalization due to the recent growth of delta is apparent,
-although the ICU occupancy is somewhat higher that the projection.
 
 The plots are shown in linear and log-scale.
 
