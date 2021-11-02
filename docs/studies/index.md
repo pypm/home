@@ -35,7 +35,7 @@ Some previous studies:
 * [April 18](usa20210418/index.md)
 * [March 21](usa20210321/index.md)
 
-### October 24, 2021: [29 European nations](eu20211024/index.md)
+### October 31, 2021: [29 European nations](eu20211031/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
 coordinated by the European Centre for Disease Prevention and Control.
@@ -48,6 +48,7 @@ rate of growth in cases. Such a resurgence has not yet been seen in North Americ
 
 Some previous studies:
 
+* [October 24](eu20211024/index.md)
 * [October 10](eu20211010/index.md)
 * [October 3](eu20211003/index.md)
 * [September 26](eu20210926/index.md)
