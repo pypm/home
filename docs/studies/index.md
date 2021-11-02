@@ -10,6 +10,51 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### October 31, 2021: [USA by state](usa20211031/index.md)
+
+These show results from analyses prepared for
+the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
+
+The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
+takes into account the vaccination rates in each state.
+
+While infection rates are declining in most states, upswings in daily case growth rates
+are seen in several states.
+
+Some previous studies:
+
+* [October 24](usa20211024/index.md)
+* [October 10](usa20211010/index.md)
+* [October 3](usa20211003/index.md)
+* [September 26](usa20210926/index.md)
+* [September 12](usa20210912/index.md)
+* [September 5](usa20210905/index.md)
+* [August 15](usa20210815/index.md)
+* [August 8](usa20210808/index.md)
+* [July 25](usa20210725/index.md)
+* [April 18](usa20210418/index.md)
+* [March 21](usa20210321/index.md)
+
+### October 24, 2021: [29 European nations](eu20211024/index.md)
+
+This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
+coordinated by the European Centre for Disease Prevention and Control.
+
+The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
+takes into account the vaccination rates in each country.
+
+In the past few weeks most European nations have experienced a significant increase in
+rate of growth in cases. Such a resurgence has not yet been seen in North America.
+
+Some previous studies:
+
+* [October 10](eu20211010/index.md)
+* [October 3](eu20211003/index.md)
+* [September 26](eu20210926/index.md)
+* [September 12](eu20210912/index.md)
+* [September 5](eu20210905/index.md)
+* [August 15](eu20210815/index.md)
+
 ### October 25, 2021: [BC by health region](bc20211025/index.md)
 
 Growth rates of cases are in the range 0 to -3%/day.
@@ -47,49 +92,6 @@ Some previous studies:
 * [August 24](prov20210824/index.md)
 * [August 18](prov20210818/index.md)
 * [July 29](prov20210729/index.md)
-
-### October 24, 2021: [USA by state](usa20211024/index.md)
-
-These show results from analyses prepared for
-the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
-
-The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
-takes into account the vaccination rates in each state.
-
-Infection rates are declining in all states.
-
-Some previous studies:
-
-* [October 10](usa20211010/index.md)
-* [October 3](usa20211003/index.md)
-* [September 26](usa20210926/index.md)
-* [September 12](usa20210912/index.md)
-* [September 5](usa20210905/index.md)
-* [August 15](usa20210815/index.md)
-* [August 8](usa20210808/index.md)
-* [July 25](usa20210725/index.md)
-* [April 18](usa20210418/index.md)
-* [March 21](usa20210321/index.md)
-
-### October 24, 2021: [29 European nations](eu20211024/index.md)
-
-This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
-coordinated by the European Centre for Disease Prevention and Control.
-
-The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
-takes into account the vaccination rates in each country.
-
-In the past few weeks most European nations have experienced a significant increase in
-rate of growth in cases. Such a resurgence has not yet been seen in North America.
-
-Some previous studies:
-
-* [October 10](eu20211010/index.md)
-* [October 3](eu20211003/index.md)
-* [September 26](eu20210926/index.md)
-* [September 12](eu20210912/index.md)
-* [September 5](eu20210905/index.md)
-* [August 15](eu20210815/index.md)
 
 ### July 4, 2021: [16 German states](germany20210704/index.md)
 
