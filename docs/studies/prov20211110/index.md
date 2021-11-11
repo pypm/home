@@ -73,7 +73,7 @@ Detailed BC analyses are reported in the [BC analysis page](../index.md).
 
 The table below indicates the growth rates (% per day) for each province for recent analyses
 
-Rpovince | Sep 7 | Sep 13 | Sep 21 | Sep 28 | Oct 4 | Oct 13 | Oct 25 | Nov 10
+Province | Sep 7 | Sep 13 | Sep 21 | Sep 28 | Oct 4 | Oct 13 | Oct 25 | Nov 10
 ---|---|---|---|---|---|---|---|---
 BC | +1% | +1% | 0% | -1% | -1% | -1% | -2% | -3%
 Alberta | +4% | +2% | +2% | +1% | -7 +/- 3% | -4% | -5% | -6%
