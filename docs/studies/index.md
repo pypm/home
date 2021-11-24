@@ -10,7 +10,39 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### November 14, 2021: [USA by state](usa20211114/index.md)
+### November 22, 2021: [BC by health region](bc20211122/index.md)
+
+Cases are continuing to decline. New measures for the
+Northern HA in mid October has successfuly reduced transmission rates
+significantly.
+
+Some previous studies:
+
+* [November 10](bc20211110/index.md)
+* October [4](bc20211004/index.md), [13](bc20211013/index.md), [25](bc20211025/index.md)
+* September [7](bc20210907/index.md), [13](bc20210913/index.md), [21](bc20210921/index.md),  [28](bc20210928/index.md)
+* August [16](bc20210816/index.md), [24](bc20210824/index.md), [30](bc20210830/index.md)
+* [July 26](bc20210726/index.md)
+* [May 28](bc20210528/index.md)
+* March [9](bc20210309/index.md), [24](bc20210324/index.md)
+
+### November 22, 2021: [7 provinces](prov20211122/index.md)
+
+Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario, Quebec, New Brunswick, and Nova Scotia are shown.
+Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
+
+Manitoba, Ontario, Quebec, New Brunswick, and Nova Scotia have recently seen
+growth in cases. This may be the start of a Fall resurgence, similar to what is has been seen in Europe.
+
+Some previous studies:
+
+* [November 10](prov20211110/index.md)
+* October [4](prov20211004/index.md), [13](prov20211013/index.md), [25](prov20211025/index.md)
+* September [7](prov20210907/index.md), [13](prov20210913/index.md), [21](prov20210921/index.md), [28](prov20210928/index.md)
+* August [18](prov20210818/index.md), [24](prov20210824/index.md), [30](prov20210830/index.md)
+* [July 29](prov20210729/index.md)
+
+### November 21, 2021: [USA by state](usa20211121/index.md)
 
 These show results from analyses prepared for
 the [COVID-19 Forecast Hub](https://covid19forecasthub.org/), in coordination with the US CDC.
@@ -23,15 +55,15 @@ are now seen in many states.
 
 Some previous studies:
 
-* [November 7](usa20211107/index.md)
-* October [31](usa20211031/index.md), [24](usa20211024/index.md), [10](usa20211010/index.md), [3](usa20211003/index.md)
-* September [26](usa20210926/index.md), [12](usa20210912/index.md), [5](usa20210905/index.md)
-* August [15](usa20210815/index.md), [8](usa20210808/index.md)
+* November [7](usa20211107/index.md), [14](usa20211114/index.md)
+* October [3](usa20211003/index.md), [10](usa20211010/index.md), [24](usa20211024/index.md), [31](usa20211031/index.md)
+* September [5](usa20210905/index.md), [12](usa20210912/index.md), [26](usa20210926/index.md)
+* August [8](usa20210808/index.md), [15](usa20210815/index.md)
 * [July 25](usa20210725/index.md)
 * [April 18](usa20210418/index.md)
 * [March 21](usa20210321/index.md)
 
-### November 14, 2021: [29 European nations](eu20211114/index.md)
+### November 21, 2021: [29 European nations](eu20211121/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
 coordinated by the European Centre for Disease Prevention and Control.
@@ -44,40 +76,10 @@ rate of growth in cases. A similar resurgence appears to be starting in Eastern 
 
 Some previous studies:
 
-* [November 7](eu20211107/index.md)
-* October [31](eu20211031/index.md), [24](eu20211024/index.md), [10](eu20211010/index.md), [3](eu20211003/index.md)
-* September [26](eu20210926/index.md), [12](eu20210912/index.md), [5](eu20210905/index.md)
+* November [7](eu20211107/index.md), [14](eu20211114/index.md)
+* October [3](eu20211003/index.md), [10](eu20211010/index.md), [24](eu20211024/index.md), [31](eu20211031/index.md)
+* September [5](eu20210905/index.md), [12](eu20210912/index.md), [26](eu20210926/index.md)
 * [August 15](eu20210815/index.md)
-
-### November 10, 2021: [BC by health region](bc20211110/index.md)
-
-Cases are continuing to decline. New measures for the
-Northern HA in mid October has successfuly reduced transmission rates
-significantly.
-
-Some previous studies:
-
-* October [25](bc20211025/index.md), [13](bc20211013/index.md), [4](bc20211004/index.md)
-* September [28](bc20210928/index.md), [21](bc20210921/index.md), [13](bc20210913/index.md), [7](bc20210907/index.md)
-* August [30](bc20210830/index.md), [24](bc20210824/index.md), [16](bc20210816/index.md)
-* [July 26](bc20210726/index.md)
-* [May 28](bc20210528/index.md)
-* March [24](bc20210324/index.md), [9](bc20210309/index.md)
-
-### November 10, 2021: [7 provinces](prov20211110/index.md)
-
-Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario, Quebec, New Brunswick, and Nova Scotia are shown.
-Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
-
-Manitoba, Ontario, Quebec, New Brunswick, and Nova Scotia have recently seen
-growth in cases. This may be the start of a Fall resurgence, similar to what is has been seen in Europe.
-
-Some previous studies:
-
-* October [25](prov20211025/index.md), [13](prov20211013/index.md), [4](prov20211004/index.md)
-* September [28](prov20210928/index.md), [21](prov20210921/index.md), [13](prov20210913/index.md), [7](prov20210907/index.md)
-* August [30](prov20210830/index.md), [24](prov20210824/index.md), [18](prov20210818/index.md)
-* [July 29](prov20210729/index.md)
 
 ### July 4, 2021: [16 German states](germany20210704/index.md)
 
