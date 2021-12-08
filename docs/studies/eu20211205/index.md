@@ -1,4 +1,4 @@
-## December 6, 2021 Analysis of EU national data
+## December 5, 2021 Analysis of EU national data
 
 Summary: Several weeks ago,
 daily growth rates for cases have increased significantly in
@@ -52,127 +52,127 @@ from variants of
 concern, divided into two types B.1.1.7 (alpha) and B.1.617.2 (delta).
 The very rapid growth of cases is a combination of relaxing restrictions and the introduction of the delta variant.
 
-### [Austria](img/at_2_9_1121.pdf)
+### [Austria](img/at_2_9_1205.pdf)
 
-![at](img/at_2_9_1121.png)
+![at](img/at_2_9_1205.png)
 
-### [Belgium](img/be_2_9_1121.pdf)
+### [Belgium](img/be_2_9_1205.pdf)
 
-![be](img/be_2_9_1121.png)
+![be](img/be_2_9_1205.png)
 
-### [Bulgaria](img/bg_2_9_1121.pdf)
+### [Bulgaria](img/bg_2_9_1205.pdf)
 
-![bg](img/bg_2_9_1121.png)
+![bg](img/bg_2_9_1205.png)
 
-### [Croatia](img/hr_2_9_1121.pdf)
+### [Croatia](img/hr_2_9_1205.pdf)
 
-![hr](img/hr_2_9_1121.png)
+![hr](img/hr_2_9_1205.png)
 
-### [Cyprus](img/cy_2_9_1121.pdf)
+### [Cyprus](img/cy_2_9_1205.pdf)
 
-![cy](img/cy_2_9_1121.png)
+![cy](img/cy_2_9_1205.png)
 
-### [Czechia](img/cz_2_9_1121.pdf)
+### [Czechia](img/cz_2_9_1205.pdf)
 
-![cz](img/cz_2_9_1121.png)
+![cz](img/cz_2_9_1205.png)
 
-### [Denmark](img/dk_2_9_1121.pdf)
+### [Denmark](img/dk_2_9_1205.pdf)
 
-![dk](img/dk_2_9_1121.png)
+![dk](img/dk_2_9_1205.png)
 
-### [Estonia](img/ee_2_9_1121.pdf)
+### [Estonia](img/ee_2_9_1205.pdf)
 
-![ee](img/ee_2_9_1121.png)
+![ee](img/ee_2_9_1205.png)
 
-### [Finland](img/fi_2_9_1121.pdf)
+### [Finland](img/fi_2_9_1205.pdf)
 
-![fi](img/fi_2_9_1121.png)
+![fi](img/fi_2_9_1205.png)
 
-### [France](img/fr_2_9_1121.pdf)
+### [France](img/fr_2_9_1205.pdf)
 
-![fr](img/fr_2_9_1121.png)
+![fr](img/fr_2_9_1205.png)
 
-### [Germany](img/de_2_9_1121.pdf)
+### [Germany](img/de_2_9_1205.pdf)
 
-![de](img/de_2_9_1121.png)
+![de](img/de_2_9_1205.png)
 
-### [Greece](img/gr_2_9_1121.pdf)
+### [Greece](img/gr_2_9_1205.pdf)
 
-![gr](img/gr_2_9_1121.png)
+![gr](img/gr_2_9_1205.png)
 
-### [Hungary](img/hu_2_9_1121.pdf)
+### [Hungary](img/hu_2_9_1205.pdf)
 
-![hu](img/hu_2_9_1121.png)
+![hu](img/hu_2_9_1205.png)
 
-### [Ireland](img/ie_2_9_1121.pdf)
+### [Ireland](img/ie_2_9_1205.pdf)
 
-![ie](img/ie_2_9_1121.png)
+![ie](img/ie_2_9_1205.png)
 
-### [Italy](img/it_2_9_1121.pdf)
+### [Italy](img/it_2_9_1205.pdf)
 
-![it](img/it_2_9_1121.png)
+![it](img/it_2_9_1205.png)
 
-### [Latvia](img/lv_2_9_1121.pdf)
+### [Latvia](img/lv_2_9_1205.pdf)
 
-![lv](img/lv_2_9_1121.png)
+![lv](img/lv_2_9_1205.png)
 
-### [Lithuania](img/lt_2_9_1121.pdf)
+### [Lithuania](img/lt_2_9_1205.pdf)
 
-![lt](img/lt_2_9_1121.png)
+![lt](img/lt_2_9_1205.png)
 
-### [Luxembourg](img/lu_2_9_1121.pdf)
+### [Luxembourg](img/lu_2_9_1205.pdf)
 
-![lu](img/lu_2_9_1121.png)
+![lu](img/lu_2_9_1205.png)
 
-### [Netherlands](img/nl_2_9_1121.pdf)
+### [Netherlands](img/nl_2_9_1205.pdf)
 
-![nl](img/nl_2_9_1121.png)
+![nl](img/nl_2_9_1205.png)
 
-### [Norway](img/no_2_9_1121.pdf)
+### [Norway](img/no_2_9_1205.pdf)
 
-![no](img/no_2_9_1121.png)
+![no](img/no_2_9_1205.png)
 
-### [Poland](img/pl_2_9_1121.pdf)
+### [Poland](img/pl_2_9_1205.pdf)
 
-![pl](img/pl_2_9_1121.png)
+![pl](img/pl_2_9_1205.png)
 
-### [Portugal](img/pt_2_9_1121.pdf)
+### [Portugal](img/pt_2_9_1205.pdf)
 
-![pt](img/pt_2_9_1121.png)
+![pt](img/pt_2_9_1205.png)
 
-### [Romania](img/ro_2_9_1121.pdf)
+### [Romania](img/ro_2_9_1205.pdf)
 
-![ro](img/ro_2_9_1121.png)
+![ro](img/ro_2_9_1205.png)
 
-### [Slovakia](img/sk_2_9_1121.pdf)
+### [Slovakia](img/sk_2_9_1205.pdf)
 
-![sk](img/sk_2_9_1121.png)
+![sk](img/sk_2_9_1205.png)
 
-### [Slovenia](img/si_2_9_1121.pdf)
+### [Slovenia](img/si_2_9_1205.pdf)
 
-![si](img/si_2_9_1121.png)
+![si](img/si_2_9_1205.png)
 
-### [Spain](img/es_2_9_1121.pdf)
+### [Spain](img/es_2_9_1205.pdf)
 
-![es](img/es_2_9_1121.png)
+![es](img/es_2_9_1205.png)
 
-### [Sweden](img/se_2_9_1121.pdf)
+### [Sweden](img/se_2_9_1205.pdf)
 
-![se](img/se_2_9_1121.png)
+![se](img/se_2_9_1205.png)
 
-### [Switzerland](img/ch_2_9_1121.pdf)
+### [Switzerland](img/ch_2_9_1205.pdf)
 
-![ch](img/ch_2_9_1121.png)
+![ch](img/ch_2_9_1205.png)
 
-### [United Kingdom](img/gb_2_9_1121.pdf)
+### [United Kingdom](img/gb_2_9_1205.pdf)
 
-![gb](img/gb_2_9_1121.png)
+![gb](img/gb_2_9_1205.png)
 
 ## Comparing prevalence between countries
 
 The following plots show the daily cases per 100,000 people in each country, grouped according to geographical regions.
 
-![prev](img/EU_2_9_1121_prevalence.png)
+![prev](img/EU_2_9_1205_prevalence.png)
 
 ## [return to case studies](../index.md)
 
