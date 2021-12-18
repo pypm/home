@@ -14,7 +14,7 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### December 16, 2021: [8 provinces](prov20211206/index.md)
+### December 16, 2021: [8 provinces](prov20211216/index.md)
 
 Omicron is spreading rapidly around the globe.
 
@@ -33,7 +33,7 @@ Some previous studies:
 * August [18](prov20210818/index.md), [24](prov20210824/index.md), [30](prov20210830/index.md)
 * [July 29](prov20210729/index.md)
 
-### December 6, 2021: [BC by health region](bc20211216/index.md)
+### December 16, 2021: [BC by health region](bc20211216/index.md)
 
 Cases are rising rapidly due to omicron.
 All regions, except Northern HA, have recent upward departures from
