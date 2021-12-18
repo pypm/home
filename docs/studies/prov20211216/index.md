@@ -57,6 +57,8 @@ The model fit to case data finds that omicron is producing about 66% of case on 
 and growing at a rate of 25% per day.
 Analysis for each Health authority are reported in the [BC analysis page](../index.md).
 
+![bc](img/bc_4_1_1216_linear_omicron.png)
+
 #### [Alberta](img/ab_4_1_1216_linear_omicron.pdf)
 
 Starting August 2021, the change in testing policy, by nearly eliminating contact tracing,
@@ -133,60 +135,6 @@ Quebec | 18, 54
 New Brunswick | (25), 25
 Nova Scotia | (25) 72
 
-The plot below compares the daily cases as a proportion of population, indicating the serious situations
-in Alberta and Saskatchewan.
-The Alberta calculation uses hospital admissions, and the curve corresponds to the expected number of cases
-had testing not be changed in Alberta in August 2021.
-
-![casepop](img/Canada_2_9_1206_compare_casepop.png)
-
-
-### Provincial histories and projections with hospital occupancy
-
-Linear and log scale are shown to see details.
-Generally, hospitalization is rising in accord with the model projection
-that assumes the fraction of cases that lead to hospitalization is
-constant throughout the year.
-The hospitalization projections for the Atlantic provinces are hampered by low statistics.
-
-#### [Alberta](img/ab_2_9_1206_linear_proj.pdf)
-
-The Alberta analysis uses hospital admission data to estimate the growth of infections after August 1, 2021.
-The case projection exceeds the number of observed cases, with the difference being cases that were
-missed in Alberta due to changes in testing policy.
-
-![ab](img/ab_2_9_1206_linear_proj.png)
-![ab](img/ab_2_9_1206_log_proj.png)
-
-#### [Saskatchewan](img/sk_2_9_1206_linear_proj.pdf)
-
-![sk](img/sk_2_9_1206_linear_proj.png)
-![sk](img/sk_2_9_1206_log_proj.png)
-
-#### [Manitoba](img/mb_2_9_1206_linear_proj.pdf)
-
-![mb](img/mb_2_9_1206_linear_proj.png)
-![mb](img/mb_2_9_1206_log_proj.png)
-
-#### [Ontario](img/on_2_9_1206_linear_proj.pdf)
-
-![on](img/on_2_9_1206_linear_proj.png)
-![on](img/on_2_9_1206_log_proj.png)
-
-#### [Quebec](img/qc_2_9_1206_linear_proj.pdf)
-
-![qc](img/qc_2_9_1206_linear_proj.png)
-![qc](img/qc_2_9_1206_log_proj.png)
-
-#### [New Brunswick](img/nb_2_9_1206_linear_proj.pdf)
-
-![nb](img/nb_2_9_1206_linear_proj.png)
-![nb](img/nb_2_9_1206_log_proj.png)
-
-#### [Nova Scotia](img/ns_2_9_1206_linear_proj.pdf)
-
-![ns](img/ns_2_9_1206_linear_proj.png)
-![ns](img/ns_2_9_1206_log_proj.png)
 
 ## [return to case studies](../index.md)
 
