@@ -5,19 +5,44 @@
 * Paper: [Characterizing the spread of CoViD-19](reports/Characterizing_spread.pdf), D. Karlen, July 13, 2020.
     * introduces the pypm framework and describes methods to define comparitive statistics with weak model dependence
     and estimate their uncertainties
+* Update: [pyPM reference model 3.1](reports/pypm_changes_3_1.pdf), December 12, 2021.
+    * diagrams show the many infection cycles that are incorporated into the model for the variants of concern, along with independent susceptible
+	populations representing breakthrough candidates and vaccine and natural immunity escape, and the vaccination and
+	booster models.
 
 ## Case studies
 
 Click on the titles below to see detailed results from the studies.
 
-### December 6, 2021: [BC by health region](bc20211206/index.md)
+### December 16, 2021: [8 provinces](prov20211206/index.md)
 
-Cases are continuing to decline. New measures for the
-Northern HA in mid October has successfuly reduced transmission rates
-significantly.
+Omicron is spreading rapidly around the globe.
+
+Analyses of provincial case data are performed to estimate omicron parameters.
+Projections are shown assuming no change to model parameters of the next 4 weeks.
+
+The projections demonstrate that current transmission rates will overwhelm the
+health care system, and therefore measures are needed to reduce transmission significantly.
 
 Some previous studies:
 
+* December [6](prov20211206/index.md)
+* November [10](prov20211110/index.md), November [22](prov20211122/index.md)
+* October [4](prov20211004/index.md), [13](prov20211013/index.md), [25](prov20211025/index.md)
+* September [7](prov20210907/index.md), [13](prov20210913/index.md), [21](prov20210921/index.md), [28](prov20210928/index.md)
+* August [18](prov20210818/index.md), [24](prov20210824/index.md), [30](prov20210830/index.md)
+* [July 29](prov20210729/index.md)
+
+### December 6, 2021: [BC by health region](bc20211216/index.md)
+
+Cases are rising rapidly due to omicron.
+All regions, except Northern HA, have recent upward departures from
+previous trajectories.
+Omicron parameters are estimated from the HA case data.
+
+Some previous studies:
+
+* December [6](bc20211206/index.md)
 * November [10](bc20211110/index.md), [22](bc20211122/index.md)
 * October [4](bc20211004/index.md), [13](bc20211013/index.md), [25](bc20211025/index.md)
 * September [7](bc20210907/index.md), [13](bc20210913/index.md), [21](bc20210921/index.md),  [28](bc20210928/index.md)
@@ -25,22 +50,6 @@ Some previous studies:
 * [July 26](bc20210726/index.md)
 * [May 28](bc20210528/index.md)
 * March [9](bc20210309/index.md), [24](bc20210324/index.md)
-
-### December 6, 2021: [7 provinces](prov20211206/index.md)
-
-Model fits to data from Alberta, Saskatchewan, Manitoba, Ontario, Quebec, New Brunswick, and Nova Scotia are shown.
-Two additional infection cycles are included in the models to represent the variants of concern alpha and delta.
-
-Manitoba, Ontario, Quebec, New Brunswick, and Nova Scotia have recently seen
-growth in cases. This may be the start of a Fall resurgence, similar to what is has been seen in Europe.
-
-Some previous studies:
-
-* November [10](prov20211110/index.md), November [22](prov20211122/index.md)
-* October [4](prov20211004/index.md), [13](prov20211013/index.md), [25](prov20211025/index.md)
-* September [7](prov20210907/index.md), [13](prov20210913/index.md), [21](prov20210921/index.md), [28](prov20210928/index.md)
-* August [18](prov20210818/index.md), [24](prov20210824/index.md), [30](prov20210830/index.md)
-* [July 29](prov20210729/index.md)
 
 ### December 5, 2021: [USA by state](usa20211205/index.md)
 
