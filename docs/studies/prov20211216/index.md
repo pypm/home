@@ -41,8 +41,10 @@ Reporting and hospitalization follows from the infections, with probabilities an
 by calibrating to past data.
 This approach has performed well until recently, without the need to adjust parametrizations for the different variants.
 Recently there have been some departures from the hospitalization projections, not yet understood.
-For omicron, the probabilities for severe disease and time required for treatment are assumed smaller 
-than for the other variants, by a multiplicative factor of 0.3.
+The probability of an omicron infection to become severe 
+for a vaccinated or naturally immune individual and the time spent in hospital 
+for all individuals are multiplied by a factor 0.3.
+This reduction in severity for omicron infections might be considered optimistic.
 
 The plots below show daily values as small points, and weekly averages as larger circles.
 Solid curves show the model expectations, using fit parameters, and the dashed line show projections
