@@ -50,7 +50,7 @@ The vertical lines show where the transmission rate is changed.
 If the susceptibe fraction is constant (immunity not changing quickly), constant transmission rates
 lead to steady exponential growth or decline.
 With immunity growing, the curves bend downwards due to the herd effect.
-Interpretting the growth of omicron with delta rates growth rates changing leads to further
+Interpretting the growth of omicron with changing delta rates growth rates leads to additional
 uncertainty in the interpretations.
 
 The curves are the model expectations for cases, hospitalizations, and deaths, and
