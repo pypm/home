@@ -4,8 +4,8 @@ Omicron infections are spreading rapidly around the globe.
 Doubling times of 2-3 days are found in many jurisdictions.
 
 For several US states, omicron produces most of the cases resulting in 
-significant increases the the growth rates of cases. 
-Unlike earlier reports  posted on this site, only a subset of states
+significant increases in case growth rates. 
+Unlike earlier studies posted on this site, only a subset of states
 are included in this report, namely
 those with an apparant omicron signature in their case data.
 
@@ -16,7 +16,7 @@ Detailed error analysis is not performed, given the rapidly changing situation.
 ## Individual state projections
 
 The plots for each state below shows the case, hospitalization, and deaths data since
-August 2021, and a zoomed in look, since November 15.
+August 2021 (left) and since November 15 2021 (right).
 
 Generally, the infection model is defined by fitting the model to the case data, and the
 hospitalization and deaths models are derived from the infection model.
@@ -27,11 +27,11 @@ For this study, those immunized against earlier strains only have 20% effective 
 against omicron.
 
 Three severity levels are considered:
- * A: Probability for an immunized person to need hospitalization is reduced by the
+ * **A**: Probability for an immunized person to need hospitalization is reduced by the
  multiplicative factor of 0.3 and the probability of death is reduced by that factor squared.
  The length of hospital stays for all are reduced by the same factor of 0.3.
- * B: The severity factor is 0.5, instead of 0.3.
- * C: The severity factor is 1., or in other words, there is no reduction in severity
+ * **B**: The severity factor is 0.5, instead of 0.3.
+ * **C**: The severity factor is 1., or in other words, there is no reduction in severity
  as compared to delta infections.
 
 The plots below show projections for hospitalization (daily admissions and hospital occupancy)
@@ -60,45 +60,45 @@ There are several challenges arising from data issues, in particular Thanksgivin
 In the past few months, hospitalization per case has generally declined, whereas the model
 assumes constant probability for an infection to lead to hospitalization.
 
-### [Connecticut](img/ct_4_1_1216_linear_omicron.pdf)
+### [Connecticut](img/ct_4_1_1219_linear_omicron.pdf)
 
-![ct](img/ct_4_1_1216_linear_omicron.png)
+![ct](img/ct_4_1_1219_linear_omicron.png)
 
-### [District Of Columbia](img/dc_4_1_1216_linear_omicron.pdf)
+### [District Of Columbia](img/dc_4_1_1219_linear_omicron.pdf)
 
-![dc](img/dc_4_1_1216_linear_omicron.png)
+![dc](img/dc_4_1_1219_linear_omicron.png)
 
-### [Florida](img/fl_4_1_1216_linear_omicron.pdf)
+### [Florida](img/fl_4_1_1219_linear_omicron.pdf)
 
-![fl](img/fl_4_1_1216_linear_omicron.png)
+![fl](img/fl_4_1_1219_linear_omicron.png)
 
-### [Georgia](img/ga_4_1_1216_linear_omicron.pdf)
+### [Georgia](img/ga_4_1_1219_linear_omicron.pdf)
 
-![ga](img/ga_4_1_1216_linear_omicron.png)
+![ga](img/ga_4_1_1219_linear_omicron.png)
 
-### [Hawaii](img/hi_4_1_1216_linear_omicron.pdf)
+### [Hawaii](img/hi_4_1_1219_linear_omicron.pdf)
 
-![hi](img/hi_4_1_1216_linear_omicron.png)
+![hi](img/hi_4_1_1219_linear_omicron.png)
 
-### [Illinois](img/il_4_1_1216_linear_omicron.pdf)
+### [Illinois](img/il_4_1_1219_linear_omicron.pdf)
 
-![il](img/il_4_1_1216_linear_omicron.png)
+![il](img/il_4_1_1219_linear_omicron.png)
 
-### [New York](img/ny_4_1_1216_linear_omicron.pdf)
+### [New York](img/ny_4_1_1219_linear_omicron.pdf)
 
-![ny](img/ny_4_1_1216_linear_omicron.png)
+![ny](img/ny_4_1_1219_linear_omicron.png)
 
-### [Ohio](img/oh_4_1_1216_linear_omicron.pdf)
+### [Ohio](img/oh_4_1_1219_linear_omicron.pdf)
 
-![oh](img/oh_4_1_1216_linear_omicron.png)
+![oh](img/oh_4_1_1219_linear_omicron.png)
 
-### [Puerto Rico](img/pr_4_1_1216_linear_omicron.pdf)
+### [Puerto Rico](img/pr_4_1_1219_linear_omicron.pdf)
 
-![pr](img/pr_4_1_1216_linear_omicron.png)
+![pr](img/pr_4_1_1219_linear_omicron.png)
 
-### [Wisconsin](img/wi_4_1_1216_linear_omicron.pdf)
+### [Wisconsin](img/wi_4_1_1219_linear_omicron.pdf)
 
-![wi](img/wi_4_1_1216_linear_omicron.png)
+![wi](img/wi_4_1_1219_linear_omicron.png)
 
 ## Table of omicron parameter estimates
 
