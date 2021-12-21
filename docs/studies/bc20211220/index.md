@@ -16,6 +16,9 @@ infections (of either delta or omicron).
 More data are needed to better estimate the omicron parameters, 
 and revised estimates will likely be closer to typical growth rates for omicron.
 
+The projections, which assume constant behaviour and testing, continue to rise beyond the maxima
+shown in the figures. The plots show daily cases up to a maximum of 100 cases per 100,000 population. 
+
 For more information, please refer to the introductory
 material in the report on [provincial analyses](../prov20211220/index.md).
 

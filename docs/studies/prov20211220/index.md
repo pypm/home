@@ -129,7 +129,7 @@ The model fit finds that omicron is producing 63% of cases. The growth rate is f
 
 ### Comparison of omicron parameters in Canada
 
-The table below indicates the omicron growth rates (% per day) and current fracruib for each province.
+The table below indicates the omicron growth rates (% per day) and current fraction for each province.
 Values in parenthesis are not estimated from data, but instead indicate the assumed values.
 Uncertainties in these estimates are relatively large - no attempt to assess them, given the rapidly changing
 situation.
