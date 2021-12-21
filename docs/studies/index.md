@@ -33,6 +33,24 @@ Some previous studies:
 * August [18](prov20210818/index.md), [24](prov20210824/index.md), [30](prov20210830/index.md)
 * [July 29](prov20210729/index.md)
 
+### December 20, 2021: [BC by health region](bc20211220/index.md)
+
+Cases are rising rapidly due to omicron.
+All regions, except Northern HA, have recent upward departures from
+previous trajectories.
+Omicron parameters are estimated from the HA case data.
+
+Some previous studies:
+
+* December [6](bc20211206/index.md), [16](bc20211216/index.md)
+* November [10](bc20211110/index.md), [22](bc20211122/index.md)
+* October [4](bc20211004/index.md), [13](bc20211013/index.md), [25](bc20211025/index.md)
+* September [7](bc20210907/index.md), [13](bc20210913/index.md), [21](bc20210921/index.md),  [28](bc20210928/index.md)
+* August [16](bc20210816/index.md), [24](bc20210824/index.md), [30](bc20210830/index.md)
+* [July 26](bc20210726/index.md)
+* [May 28](bc20210528/index.md)
+* March [9](bc20210309/index.md), [24](bc20210324/index.md)
+
 ### December 19, 2021: [USA by state](usa20211219/index.md)
 
 This report focuses on projections for states that are already showing growth due to the new variant of concern, omicron.
@@ -49,24 +67,6 @@ Some previous studies:
 * [July 25](usa20210725/index.md)
 * [April 18](usa20210418/index.md)
 * [March 21](usa20210321/index.md)
-
-### December 16, 2021: [BC by health region](bc20211216/index.md)
-
-Cases are rising rapidly due to omicron.
-All regions, except Northern HA, have recent upward departures from
-previous trajectories.
-Omicron parameters are estimated from the HA case data.
-
-Some previous studies:
-
-* December [6](bc20211206/index.md)
-* November [10](bc20211110/index.md), [22](bc20211122/index.md)
-* October [4](bc20211004/index.md), [13](bc20211013/index.md), [25](bc20211025/index.md)
-* September [7](bc20210907/index.md), [13](bc20210913/index.md), [21](bc20210921/index.md),  [28](bc20210928/index.md)
-* August [16](bc20210816/index.md), [24](bc20210824/index.md), [30](bc20210830/index.md)
-* [July 26](bc20210726/index.md)
-* [May 28](bc20210528/index.md)
-* March [9](bc20210309/index.md), [24](bc20210324/index.md)
 
 ### December 5, 2021: [29 European nations](eu20211205/index.md)
 
