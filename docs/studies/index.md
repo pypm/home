@@ -14,6 +14,26 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### December 26, 2021: [USA by state](usa20211226/index.md)
+
+This report focuses on projections for states that are already showing growth due to the new variant of concern, omicron.
+A severity parameter is fit to hospital admission data and
+two other fixed levels of omicron severity are considered, and compared to data.
+
+From these analysis, the data suggests that omicron infections that lead to cases is less severe than delta
+cases that lead to cases, perhaps by a factor of about 4.
+
+Some previous studies:
+
+* December [5](usa20211205/index.md), [19](usa20211219/index.md)
+* November [7](usa20211107/index.md), [14](usa20211114/index.md), [21](usa20211121/index.md)
+* October [3](usa20211003/index.md), [10](usa20211010/index.md), [24](usa20211024/index.md), [31](usa20211031/index.md)
+* September [5](usa20210905/index.md), [12](usa20210912/index.md), [26](usa20210926/index.md)
+* August [8](usa20210808/index.md), [15](usa20210815/index.md)
+* [July 25](usa20210725/index.md)
+* [April 18](usa20210418/index.md)
+* [March 21](usa20210321/index.md)
+
 ### December 20, 2021: [8 provinces](prov20211220/index.md)
 
 Omicron is spreading rapidly around the globe.
@@ -50,23 +70,6 @@ Some previous studies:
 * [July 26](bc20210726/index.md)
 * [May 28](bc20210528/index.md)
 * March [9](bc20210309/index.md), [24](bc20210324/index.md)
-
-### December 19, 2021: [USA by state](usa20211219/index.md)
-
-This report focuses on projections for states that are already showing growth due to the new variant of concern, omicron.
-Three levels of severity are considered, and compared to data.
-Additional data are necessary to gauge the severity from population level data.
-
-Some previous studies:
-
-* [December 5](usa20211205/index.md)
-* November [7](usa20211107/index.md), [14](usa20211114/index.md), [21](usa20211121/index.md)
-* October [3](usa20211003/index.md), [10](usa20211010/index.md), [24](usa20211024/index.md), [31](usa20211031/index.md)
-* September [5](usa20210905/index.md), [12](usa20210912/index.md), [26](usa20210926/index.md)
-* August [8](usa20210808/index.md), [15](usa20210815/index.md)
-* [July 25](usa20210725/index.md)
-* [April 18](usa20210418/index.md)
-* [March 21](usa20210321/index.md)
 
 ### December 5, 2021: [29 European nations](eu20211205/index.md)
 
