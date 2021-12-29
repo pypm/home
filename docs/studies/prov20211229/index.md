@@ -63,10 +63,6 @@ one that demonstrates **it is essential to reduce transmission rates immediately
 
 #### [BC](img/bc_4_1_1229_linear_omicron_alt.pdf)
 
-The model fit to case data finds that omicron is producing about 83% of case on December 20, 
-and growing at a rate of 23% per day.
-Analysis for each Health authority are reported in the [BC analysis page](../index.md).
-
 ![bc](img/bc_4_1_1229_linear_omicron_alt.png)
 
 #### [Alberta](img/ab_4_1_1229_linear_omicron_alt.pdf)
@@ -79,30 +75,27 @@ infection model for the province.
 The model curve for cases, shows the expected number of cases that would have been reported
 had contact tracing remained.
 Hospital admission data are in too low numbers to use to estimate omicron parameters.
-The growth rate is estimated using case data, and found to be 29% per day with the current case fraction
-also at 83%.
+The growth rate is estimated using case data.
+
+Hospital admission data has not been updated since December 22.
 
 ![ab](img/ab_4_1_1229_linear_omicron_alt.png)
 
 #### [Saskatchewan](img/sk_4_1_1229_linear_omicron_alt.pdf)
 
-Omicron has not yet reached a proportion of cases in Saskatchewan to measure its parameters.
-An omicron growth rate of 25%/day is assumed and the current fraction of cases is assumed to be 10%
+Omicron has not yet reached a proportion of cases in Saskatchewan to measure its growth rate.
+An omicron growth rate of 25%/day is assumed.
 
 ![sk](img/sk_4_1_1229_linear_omicron_alt.png)
 
 #### [Manitoba](img/mb_4_1_1229_linear_omicron_alt.pdf)
 
 The recent upward departure from the previous trend of cases in Manitoba may be due to omicron.
-The model fit to the case data estimate the omicron growth rate and current fraction to be 37% per day and 52%, respectively. 
-Given the limited data, omicron parameter estimates have significant uncertainty.
 
 ![sk](img/mb_4_1_1229_linear_omicron_alt.png)
 
 #### [Ontario](img/on_4_1_1229_linear_omicron_alt.pdf)
 
-The model fit to Ontario data shows omicron currently
-growing at 30% per day and producing 74% of cases.
 
 ![on](img/on_4_1_1229_linear_omicron_alt.png)
 
@@ -110,21 +103,14 @@ growing at 30% per day and producing 74% of cases.
 
 The interpretation of recent Quebec data is difficult, due to a recent outbreak followed by
 what appears to be a rise in cases from omicron.
-The omicron growth rate is found to be smaller than the other provinces, at 22% per day and omicron
-producing 75% of cases.
 
 ![qc](img/qc_4_1_1229_linear_omicron_alt.png)
 
 #### [New Brunswick](img/nb_4_1_1229_linear_omicron_alt.pdf)
 
-The effect of omicron appears to be significant, but with limited case numbers, only the current
-fraction is estimated from the case data, at 26%.
-
 ![nb](img/nb_4_1_1229_linear_omicron_alt.png)
 
 #### [Nova Scotia](img/ns_4_1_1229_linear_omicron_alt.pdf)
-
-The model fit finds that omicron is producing 63% of cases. The growth rate is fixed at 25%/day.
 
 ![ns](img/ns_4_1_1229_linear_omicron_alt.png)
 
