@@ -14,6 +14,25 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### December 29, 2021: [8 provinces](prov20211229/index.md)
+
+Omicron is spreading rapidly around the globe.
+
+Analyses of provincial case data are performed to estimate omicron parameters.
+Projections are shown assuming no change to model parameters of the next few weeks.
+
+The projections demonstrate that current transmission rates will quickly overwhelm the
+health care system, and therefore measures are needed to reduce transmission significantly.
+
+Some previous studies:
+
+* December [6](prov20211206/index.md), [16](prov20211216/index.md), [20](prov20211220/index.md)
+* November [10](prov20211110/index.md), [22](prov20211122/index.md)
+* October [4](prov20211004/index.md), [13](prov20211013/index.md), [25](prov20211025/index.md)
+* September [7](prov20210907/index.md), [13](prov20210913/index.md), [21](prov20210921/index.md), [28](prov20210928/index.md)
+* August [18](prov20210818/index.md), [24](prov20210824/index.md), [30](prov20210830/index.md)
+* [July 29](prov20210729/index.md)
+
 ### December 26, 2021: [USA by state](usa20211226/index.md)
 
 This report focuses on projections for states that are already showing growth due to the new variant of concern, omicron.
@@ -33,25 +52,6 @@ Some previous studies:
 * [July 25](usa20210725/index.md)
 * [April 18](usa20210418/index.md)
 * [March 21](usa20210321/index.md)
-
-### December 20, 2021: [8 provinces](prov20211220/index.md)
-
-Omicron is spreading rapidly around the globe.
-
-Analyses of provincial case data are performed to estimate omicron parameters.
-Projections are shown assuming no change to model parameters of the next 4 weeks.
-
-The projections demonstrate that current transmission rates will quickly overwhelm the
-health care system, and therefore measures are needed to reduce transmission significantly.
-
-Some previous studies:
-
-* December [6](prov20211206/index.md), [16](prov20211216/index.md)
-* November [10](prov20211110/index.md), [22](prov20211122/index.md)
-* October [4](prov20211004/index.md), [13](prov20211013/index.md), [25](prov20211025/index.md)
-* September [7](prov20210907/index.md), [13](prov20210913/index.md), [21](prov20210921/index.md), [28](prov20210928/index.md)
-* August [18](prov20210818/index.md), [24](prov20210824/index.md), [30](prov20210830/index.md)
-* [July 29](prov20210729/index.md)
 
 ### December 20, 2021: [BC by health region](bc20211220/index.md)
 
