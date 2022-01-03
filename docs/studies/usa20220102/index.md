@@ -135,5 +135,47 @@ The numerical value indicate in the plot legend is the fit value for the omicron
 
 ![va](img/va_4_1_0102_linear_omicron.png)
 
+## Alternative analysis
+
+Case data will be difficult to interpret as testing capacity limits may have been reached 
+in many jurisdictions.
+Hospital admission data can be used in place of case data to monitor the growth rate 
+of omicron infections.
+It does not suffer a significant lag time compared to cases, but may soon be affected by
+capacity limits and possible changes to hospital admission criteria.
+The onset of herd immunity would be indicated by a slowing of the growth rate in infections, and
+therefore a slowing in the growth rate in hospital admissions.
+Slowing of hospital admission growth rates can be cause by other factors, so interpretation of
+hospitalization data will also be difficult.
+
+For two states in which omicron has been dominant for some period (Florida and Hawaii), 
+the hospital admission rates appear to have slowed in the past weeks.
+While this could be related to the holiday season, an alternative analysis is performed, that
+assumes that herd immunity is being reached sooner than the nominal model prediction.
+A possible reason for early herd immunity include spatial heterogeneity playing a larger role
+due to the rapid transmission of omicron.
+The alternative analysis implements more rapid herd immunity by scaling the fraction of
+cases leading to severe symptoms (leading to testing) by the factor of 0.2. 
+In other words, the rate of infections is 5 times higher than assumed in the nominal model.
+
+With another week of data, one (or both) of these models may be ruled out.
+
+### [Florida nominal](img/fl_4_1_0102_linear_omicron.pdf)
+
+![fl](img/fl_4_1_0102_linear_omicron.png)
+
+### [Florida alternative](img/fl_4_1_0102x_linear_omicron.pdf)
+
+![flx](img/fl_4_1_0102x_linear_omicron.png)
+
+### [Hawaii nominal](img/hi_4_1_0102_linear_omicron.pdf)
+
+![hi](img/hi_4_1_0102_linear_omicron.png)
+
+### [Hawaii alternative](img/hi_4_1_0102x_linear_omicron.pdf)
+
+![hix](img/hi_4_1_0102x_linear_omicron.png)
+
+
 ## [return to case studies](../index.md)
 
