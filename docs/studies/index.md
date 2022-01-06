@@ -14,6 +14,43 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### January 4, 2021: [BC by health region](bc20220104/index.md)
+
+Omicron parameters are estimated from each Health Authority case data.
+Longer term projections are made for BC.
+Detailed studies are also shown, adjusting key parameters for the projections.
+Even considering the great deal of uncertainty, it appears that the rapid growth
+of omicron infections will likely produce hospitalization demands in excess of capacity.
+
+Some previous studies:
+
+* December [6](bc20211206/index.md), [16](bc20211216/index.md), [20](bc20211220/index.md)
+* November [10](bc20211110/index.md), [22](bc20211122/index.md)
+* October [4](bc20211004/index.md), [13](bc20211013/index.md), [25](bc20211025/index.md)
+* September [7](bc20210907/index.md), [13](bc20210913/index.md), [21](bc20210921/index.md),  [28](bc20210928/index.md)
+* August [16](bc20210816/index.md), [24](bc20210824/index.md), [30](bc20210830/index.md)
+* [July 26](bc20210726/index.md)
+* [May 28](bc20210528/index.md)
+* March [9](bc20210309/index.md), [24](bc20210324/index.md)
+
+### January 4, 2021: [8 provinces](prov20220104/index.md)
+
+Omicron is spreading rapidly around the globe.
+
+Analyses of provincial case data are performed to estimate omicron parameters and longer
+term projections are shown.
+There is a great deal of uncertainty in these projections, but they demonstrate that the rapid growth in Omicron infections
+will likely overwhelm health care systems later in January and February.
+
+Some previous studies:
+
+* December [6](prov20211206/index.md), [16](prov20211216/index.md), [20](prov20211220/index.md), [29](prov20211229/index.md)
+* November [10](prov20211110/index.md), [22](prov20211122/index.md)
+* October [4](prov20211004/index.md), [13](prov20211013/index.md), [25](prov20211025/index.md)
+* September [7](prov20210907/index.md), [13](prov20210913/index.md), [21](prov20210921/index.md), [28](prov20210928/index.md)
+* August [18](prov20210818/index.md), [24](prov20210824/index.md), [30](prov20210830/index.md)
+* [July 29](prov20210729/index.md)
+
 ### January 2, 2022: [USA by state](usa20220102/index.md)
 
 This report focuses on projections for states that have shown a few weeks of growth due to the new variant of concern, omicron.
@@ -32,25 +69,6 @@ Some previous studies:
 * [July 25](usa20210725/index.md)
 * [April 18](usa20210418/index.md)
 * [March 21](usa20210321/index.md)
-
-### December 29, 2021: [8 provinces](prov20211229/index.md)
-
-Omicron is spreading rapidly around the globe.
-
-Analyses of provincial case data are performed to estimate omicron parameters.
-Projections are shown assuming no change to model parameters of the next few weeks.
-
-The projections demonstrate that current transmission rates will quickly overwhelm the
-health care system, and therefore measures are needed to reduce transmission significantly.
-
-Some previous studies:
-
-* December [6](prov20211206/index.md), [16](prov20211216/index.md), [20](prov20211220/index.md)
-* November [10](prov20211110/index.md), [22](prov20211122/index.md)
-* October [4](prov20211004/index.md), [13](prov20211013/index.md), [25](prov20211025/index.md)
-* September [7](prov20210907/index.md), [13](prov20210913/index.md), [21](prov20210921/index.md), [28](prov20210928/index.md)
-* August [18](prov20210818/index.md), [24](prov20210824/index.md), [30](prov20210830/index.md)
-* [July 29](prov20210729/index.md)
 
 ### December 20, 2021: [BC by health region](bc20211220/index.md)
 

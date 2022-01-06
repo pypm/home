@@ -42,7 +42,7 @@ since the reporting fraction is unknown and likely to change in the future, due 
 Projections do not include hospitalization capacity limits or changes to admission policies.
 Heterogeneity (not present in these homogeneous models) may result in earlier onset of herd immunity.
 
-### [Reduction in transmission rate (December 21)](bc_4_1_1231_trans1.pdf)
+### [Reduction in transmission rate (December 21)](img/bc_4_1_1231_trans1.pdf)
 
 The solid yellow curve shows Omicron daily infections that led to the observed cases (after a delay). 
 With a constant transmission rate, infections begin to decline in mid-January due to the herd effect.
@@ -50,24 +50,24 @@ The dashed yellow curve shows Omicron infections had transmission reduced on Dec
 reducing growth rate from 20% to 10% per day, infection and hospitalization peaks reduced by about 50%, 
 but capacity limits are still exceeded.
 
-![trans1](bc_4_1_1231_trans1.png)
+![trans1](img/bc_4_1_1231_trans1.png)
 
-### [Reduction in transmission rate (January 5)](bc_4_1_1231_trans2.pdf)
+### [Reduction in transmission rate (January 5)](img/bc_4_1_1231_trans2.pdf)
 
 The dashed yellow curve shows Omicron infections had the same reduction in transmission occured on January 5.
 Infection and hospitalization peaks are reduced by about 30%. 
 
-![trans2](bc_4_1_1231_trans2.png)
+![trans2](img/bc_4_1_1231_trans2.png)
 
-### [Reduction in transmission rate (January 20)](bc_4_1_1231_trans3.pdf)
+### [Reduction in transmission rate (January 20)](img/bc_4_1_1231_trans3.pdf)
 
 The dashed yellow curve shows Omicron infections for the same reduction in transmission occuring on January 20,
 midway through the rise in hospital demand. 
 The reduced transmission rate comes too late to have any substantial effect.
 
-![trans3](bc_4_1_1231_trans3.png)
+![trans3](img/bc_4_1_1231_trans3.png)
 
-### [Increased vaccine effectiveness against Omicron](bc_4_1_1231_escape.pdf)
+### [Increased vaccine effectiveness against Omicron](img/bc_4_1_1231_escape.pdf)
 
 Omicron has higher growth rates than Delta in part because the effectiveness of 2-dose vaccination is lower
 against Omicron infections.
@@ -77,9 +77,9 @@ and the transmission rate is adjusted to fit case data.
 Since a larger fraction of the population is immunized against Omicron, 
 herd immunity is reached earlier and peak hospital demands are reduced, but still exceed capacity.
 
-![escape](bc_4_1_1231_escape.png)
+![escape](img/bc_4_1_1231_escape.png)
 
-### [Reduced fraction of Omicron infections reported](bc_4_1_1231_asympt.pdf)
+### [Reduced fraction of Omicron infections reported](img/bc_4_1_1231_asympt.pdf)
 
 For the solid curves, the fraction of Omicron infections reported in early December is the same as for other variants.
 For the dasehd curves, the fraction of Omicron infections reported is 0.3 times the reporting fraction 
@@ -87,9 +87,9 @@ for other variants.
 In this scenario, we are further along the infection trajectory than we realized. 
 As a result, herd immunity comes earlier than expected and Omicron severity is lower than estimated from data.
 
-![asympt](bc_4_1_1231_asympt.png)
+![asympt](img/bc_4_1_1231_asympt.png)
 
-### [Omicron severity](bc_4_1_1231_severity.pdf)
+### [Omicron severity](img/bc_4_1_1231_severity.pdf)
 
 Solid hospital curves assume that the fraction of Omicron infections requiring hospitalization is 0.3 
 times the hospitalization fraction for Delta. 
@@ -99,7 +99,7 @@ of US states where Omicron has been dominant for weeks.
 Alternative Omicron hospitalization scale factors: low (0.1) high (0.5). 
 The duration scale factor is kept at 0.4.
 
-![severity](bc_4_1_1231_severity.pdf)
+![severity](img/bc_4_1_1231_severity.pdf)
 
 
 ## [return to case studies](../index.md)
