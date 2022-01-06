@@ -99,7 +99,7 @@ of US states where Omicron has been dominant for weeks.
 Alternative Omicron hospitalization scale factors: low (0.1) high (0.5). 
 The duration scale factor is kept at 0.4.
 
-![severity](img/bc_4_1_1231_severity.pdf)
+![severity](img/bc_4_1_1231_severity.png)
 
 
 ## [return to case studies](../index.md)
