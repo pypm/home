@@ -50,7 +50,7 @@ The mean ratio of durations is 0.9 with a standard deviation of 0.2,
 indicating that the duration of treatment does not appear to be significantly
 shorter for Omicron hospitalizations.
 
-![scatter](img/USA_4_2_0116_duration_scatted.png)
+![scatter](img/USA_4_2_0116_duration_scatter.png)
 ![ratio](img/USA_4_2_0116_duration_ratio.png)
 
 ## Individual state projections
@@ -311,7 +311,7 @@ For the remaining states, round estimates of 0.1 or 0.2 are shown.
 
 ![wy](img/wy_4_2_0116_linear_omicron.png)
 
-## Comparisons of state projections
+## Comparisons of state cases and hospitalization
 
 The daily case rates per 100,000 greatly exceed the levels seen earlier in the epidemic. The plots show the
 model fits to case data for states grouped according to region.
@@ -331,7 +331,7 @@ and end on January 16, 2022.
 The growth is remarkably similar across the states, considering
 the large variety of populations and environments.
 
-![hosp](img/USA_4_2_0116_compare_omicron_hosp.png)
+![hosp](img/USA_4_2_0116_compare_omicron_hosp_aligned.png)
 
 ## USA Forecast
 
