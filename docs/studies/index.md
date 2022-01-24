@@ -14,16 +14,16 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### January 16, 2022: [USA by state](usa20220116/index.md)
+### January 23, 2022: [USA by state](usa20220123/index.md)
 
-This report focuses on estimates of hospital parameters for Omicron infections, using data from all US states.
-From these analyses, the data suggests that Omicron infections are less likely to result in hospitalization
-than Delta infections, but that hospital treatment durations are similar.
-The growth of Omicron hospitalizations (per 100,000) are shown to follow similar trajectories for the states.
+This report shows the rapid drop in growth rates for Omicron cases and hospital admissions seen
+across the US.
+As a result, it appears that health care demands will be significantly lower than earlier projections
+that assumed constant transmission rates.
 
 Some previous studies:
 
-* January [2](usa20220102/index.md), [9](usa20220109/index.md)
+* January [2](usa20220102/index.md), [9](usa20220109/index.md), [16](usa20220116/index.md)
 * December [5](usa20211205/index.md), [19](usa20211219/index.md), [26](usa20211226/index.md)
 * November [7](usa20211107/index.md), [14](usa20211114/index.md), [21](usa20211121/index.md)
 * October [3](usa20211003/index.md), [10](usa20211010/index.md), [24](usa20211024/index.md), [31](usa20211031/index.md)
