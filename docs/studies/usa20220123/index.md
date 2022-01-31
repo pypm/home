@@ -351,8 +351,8 @@ The mean ratio of durations is 0.9 with a standard deviation of 0.2.
 The duration of treatment does not appear to be significantly
 shorter for Omicron hospitalizations.
 
-![scatter](img/USA_4_2_0116_duration_scatter.png)
-![ratio](img/USA_4_2_0116_duration_ratio.png)
+![scatter](img/USA_duration_scatter.png)
+![ratio](img/USA_duration_ratio.png)
 
 ### Individual state hospitalization analyses
 
