@@ -14,13 +14,14 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### February 6, 2022: [USA by state](usa20220206/index.md)
+### February 13, 2022: [USA by state](usa20220213/index.md)
 
 This report shows that many states have past the peak in cases and hospital admissions allowing
 for more reliable projections for future health care demands.
 
 Some previous studies:
 
+* February [6](usa20220206/index.md)
 * January [2](usa20220102/index.md), [9](usa20220109/index.md), [16](usa20220116/index.md), [23](usa20220123/index.md), [30](usa20220130/index.md)
 * December [5](usa20211205/index.md), [19](usa20211219/index.md), [26](usa20211226/index.md)
 * November [7](usa20211107/index.md), [14](usa20211114/index.md), [21](usa20211121/index.md)
