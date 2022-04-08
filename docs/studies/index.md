@@ -9,6 +9,9 @@
     * diagrams show the many infection cycles that are incorporated into the model for the variants of concern, along with independent susceptible
 	populations representing breakthrough candidates and vaccine and natural immunity escape, and the vaccination and
 	booster models.
+* Paper: [Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the United States](https://doi.org/10.1073/pnas.2113561119)
+    * compares the probabilistic accuracy of short-term forecasts submitted by 27 teams from April 2020 through October 2021.
+    The pypm model is ranked in the top two.
 
 ## Case studies
 
