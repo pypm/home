@@ -1,0 +1,289 @@
+## May 15, 2022 Analysis of US state data
+
+This report shows the result of analyses that use hospital admission data to estimate
+the transmission rates in the past few months to characterize the BA.1 and BA.2 Omicron strains.
+The only parameters adjusted are the transmission rates 
+and normalization constants.
+Hospital admission data are used, to avoid testing capacity issues and to
+better predict future hospital admission rates.
+
+The Omicron variants are assumed to have a much larger susceptible population, due to its
+ability to evade immunity (natural and vaccination immunity). 
+For this study, those immunized against earlier strains only have 20% effective immunity
+against omicron.
+
+Booster doses have been included in this analysis, and are assumed to raise the
+vaccine effectiveness from 20% to 80% with a time delay given by a gamma distribution with
+mean 10 days and standard deviation 5 days.
+The Omicron variants are also assumed to produce more infections that go undetected as cases
+(as compard to Delta).
+
+In the figures below, the small dots show daily values, and
+the larger circles are weekly averages to help guide the eye.
+
+The vertical dashed lines show where the transmission rate is changed in the model to better fit the data.
+If the susceptible fraction is constant (immunity not changing quickly), constant transmission rates
+lead to steady exponential growth or decline.
+With immunity growing, the curves bend downwards due to the herd effect.
+
+With the large number of BA.1 infections providing natural immunity, the model predicts
+turn-overs in hospital admissions in the coming weeks for many states.
+There are a number of assumptions made to characterize population immunity and as a result
+these forecasts have a great deal of uncertainty.
+
+### Individual state hospitalization analyses
+
+The plots for each state below show the daily hospital admissions and deaths since early February
+on a linear scale (left) and log scale (right).
+The figures show how the model attributes admissions from Delta and Omicron infections.
+
+Following the individual state plots, summaries of all states are shown below.
+
+Also shown are seroprevalence data compiled by CDC in comparison to model predictions.
+Getting the correct number of natural infections is one of many factors in
+developing a useful immunity model.
+
+### [Alaska](img/ak_4_3_0515.pdf)
+
+![ak](img/ak_4_3_0515.png)
+
+### [Alabama](img/al_4_3_0515.pdf)
+
+![al](img/al_4_3_0515.png)
+
+### [Arkansas](img/ar_4_3_0515.pdf)
+
+![ar](img/ar_4_3_0515.png)
+
+### [Arizona](img/az_4_3_0515.pdf)
+
+![az](img/az_4_3_0515.png)
+
+### [California](img/ca_4_3_0515.pdf)
+
+![ca](img/ca_4_3_0515.png)
+
+### [Colorado](img/co_4_3_0515.pdf)
+
+![co](img/co_4_3_0515.png)
+
+### [Connecticut](img/ct_4_3_0515.pdf)
+
+![ct](img/ct_4_3_0515.png)
+
+### [District Of Columbia](img/dc_4_3_0515.pdf)
+
+![dc](img/dc_4_3_0515.png)
+
+### [Delaware](img/de_4_3_0515.pdf)
+
+![de](img/de_4_3_0515.png)
+
+### [Florida](img/fl_4_3_0515.pdf)
+
+![fl](img/fl_4_3_0515.png)
+
+### [Georgia](img/ga_4_3_0515.pdf)
+
+![ga](img/ga_4_3_0515.png)
+
+### [Hawaii](img/hi_4_3_0515.pdf)
+
+![hi](img/hi_4_3_0515.png)
+
+### [Iowa](img/ia_4_3_0515.pdf)
+
+![ia](img/ia_4_3_0515.png)
+
+### [Idaho](img/id_4_3_0515.pdf)
+
+![id](img/id_4_3_0515.png)
+
+### [Illinois](img/il_4_3_0515.pdf)
+
+![il](img/il_4_3_0515.png)
+
+### [Indiana](img/in_4_3_0515.pdf)
+
+![in](img/in_4_3_0515.png)
+
+### [Kansas](img/ks_4_3_0515.pdf)
+
+![ks](img/ks_4_3_0515.png)
+
+### [Kentucky](img/ky_4_3_0515.pdf)
+
+![ky](img/ky_4_3_0515.png)
+
+### [Louisiana](img/la_4_3_0515.pdf)
+
+![la](img/la_4_3_0515.png)
+
+### [Massachusetts](img/ma_4_3_0515.pdf)
+
+![ma](img/ma_4_3_0515.png)
+
+### [Maryland](img/md_4_3_0515.pdf)
+
+![md](img/md_4_3_0515.png)
+
+### [Maine](img/me_4_3_0515.pdf)
+
+![me](img/me_4_3_0515.png)
+
+### [Michigan](img/mi_4_3_0515.pdf)
+
+![mi](img/mi_4_3_0515.png)
+
+### [Minnesota](img/mn_4_3_0515.pdf)
+
+![mn](img/mn_4_3_0515.png)
+
+### [Missouri](img/mo_4_3_0515.pdf)
+
+![mo](img/mo_4_3_0515.png)
+
+### [Mississippi](img/ms_4_3_0515.pdf)
+
+![ms](img/ms_4_3_0515.png)
+
+### [Montana](img/mt_4_3_0515.pdf)
+
+![mt](img/mt_4_3_0515.png)
+
+### [North Carolina](img/nc_4_3_0515.pdf)
+
+![nc](img/nc_4_3_0515.png)
+
+### [North Dakota](img/nd_4_3_0515.pdf)
+
+![nd](img/nd_4_3_0515.png)
+
+### [Nebraska](img/ne_4_3_0515.pdf)
+
+![ne](img/ne_4_3_0515.png)
+
+### [New Hampshire](img/nh_4_3_0515.pdf)
+
+![nh](img/nh_4_3_0515.png)
+
+### [New Jersey](img/nj_4_3_0515.pdf)
+
+![nj](img/nj_4_3_0515.png)
+
+### [New Mexico](img/nm_4_3_0515.pdf)
+
+![nm](img/nm_4_3_0515.png)
+
+### [Nevada](img/nv_4_3_0515.pdf)
+
+![nv](img/nv_4_3_0515.png)
+
+### [New York](img/ny_4_3_0515.pdf)
+
+![ny](img/ny_4_3_0515.png)
+
+### [Ohio](img/oh_4_3_0515.pdf)
+
+![oh](img/oh_4_3_0515.png)
+
+### [Oklahoma](img/ok_4_3_0515.pdf)
+
+![ok](img/ok_4_3_0515.png)
+
+### [Oregon](img/or_4_3_0515.pdf)
+
+![or](img/or_4_3_0515.png)
+
+### [Pennsylvania](img/pa_4_3_0515.pdf)
+
+![pa](img/pa_4_3_0515.png)
+
+### [Puerto Rico](img/pr_4_3_0515.pdf)
+
+![pr](img/pr_4_3_0515.png)
+
+### [Rhode Island](img/ri_4_3_0515.pdf)
+
+![ri](img/ri_4_3_0515.png)
+
+### [South Carolina](img/sc_4_3_0515.pdf)
+
+![sc](img/sc_4_3_0515.png)
+
+### [South Dakota](img/sd_4_3_0515.pdf)
+
+![sd](img/sd_4_3_0515.png)
+
+### [Tennessee](img/tn_4_3_0515.pdf)
+
+![tn](img/tn_4_3_0515.png)
+
+### [Texas](img/tx_4_3_0515.pdf)
+
+![tx](img/tx_4_3_0515.png)
+
+### [Utah](img/ut_4_3_0515.pdf)
+
+![ut](img/ut_4_3_0515.png)
+
+### [Virginia](img/va_4_3_0515.pdf)
+
+![va](img/va_4_3_0515.png)
+
+### [Vermont](img/vt_4_3_0515.pdf)
+
+![vt](img/vt_4_3_0515.png)
+
+### [Washington](img/wa_4_3_0515.pdf)
+
+![wa](img/wa_4_3_0515.png)
+
+### [Wisconsin](img/wi_4_3_0515.pdf)
+
+![wi](img/wi_4_3_0515.png)
+
+### [West Virginia](img/wv_4_3_0515.pdf)
+
+![wv](img/wv_4_3_0515.png)
+
+### [Wyoming](img/wy_4_3_0515.pdf)
+
+![wy](img/wy_4_3_0515.png)
+
+## USA Forecast
+
+The following plots show the combined US 4 week forecast. The shaded areas are 50%, 80%, and 95% intervals.
+The case forecast should be ignored, since the fraction of cases being reported reduced dramatically in early 2022.
+
+### [USA](img/usa-forecast.pdf)
+
+![usa](img/usa-forecast.png)
+
+## Seroprevalence
+
+The US-CDC coordinated a nationwide [survey](https://covid.cdc.gov/covid-data-tracker/#national-lab)
+of COVID-19 Infection-Induced Antibody Seroprevalence
+through commercial laboratories.
+
+The 2020 data were used to estimate the fraction of symptomatic cases that were reported.
+Prior to Sept 2021, some states used the Abbott Assay whose test
+sensitivity wanes (50% efficient after 6 months) resulting in reduced seroprevalence.
+The sero-positive curves show the expected data for that assay (by incorporating the
+waning of test sensitivity).
+All states use the Roche Assay after Sept 2021, which is to be compared to the
+infected curve.
+For most states, the model seroprevalence is similar to the data.
+
+![s1](img/sero_prevalence_1.png)
+![s2](img/sero_prevalence_2.png)
+![s3](img/sero_prevalence_3.png)
+![s4](img/sero_prevalence_4.png)
+![s5](img/sero_prevalence_5.png)
+![s6](img/sero_prevalence_6.png)
+![s7](img/sero_prevalence_7.png)
+![s8](img/sero_prevalence_8.png)
+![s9](img/sero_prevalence_9.png)
+
+## [return to case studies](../index.md)
+

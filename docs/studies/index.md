@@ -17,13 +17,16 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### March 13, 2022: [USA by state](usa20220313/index.md)
+### May 15, 2022: [USA by state](usa20220515/index.md)
 
-This report shows that many states have past the peak in cases and hospital admissions allowing
-for more reliable projections for future health care demands.
+This report shows the growth of the BA.2 Omicron variant. 
+The immunity from the large number of BA.1 infections is expected to result in a much smaller BA.2 wave, with turn-over
+in hospital admissions coming in a few weeks.
+The report also compares seroprevalence in the model with US-CDC data.
 
 Some previous studies:
 
+* March [13](usa20220313/index.md)
 * February [6](usa20220206/index.md), [13](usa20220213/index.md), [20](usa20220220/index.md)
 * January [2](usa20220102/index.md), [9](usa20220109/index.md), [16](usa20220116/index.md), [23](usa20220123/index.md), [30](usa20220130/index.md)
 * December [5](usa20211205/index.md), [19](usa20211219/index.md), [26](usa20211226/index.md)
