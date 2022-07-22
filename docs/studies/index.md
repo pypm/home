@@ -17,7 +17,7 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### July 17, 2022: [29 European nations](eu20211205/index.md)
+### July 17, 2022: [6 European nations](eu20220717/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
 coordinated by the European Centre for Disease Prevention and Control.
