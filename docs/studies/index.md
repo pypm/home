@@ -17,6 +17,25 @@
 
 Click on the titles below to see detailed results from the studies.
 
+### July 17, 2022: [29 European nations](eu20211205/index.md)
+
+This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
+coordinated by the European Centre for Disease Prevention and Control.
+
+Three Omicron strains are included: BA.1, BA.2, and BA.4/5.
+
+The analysis uses a new approach to incorporate population immunity, using the observed BA.2
+wave to define the level of population immunity that existed at that time.
+Some escape from natural immunity is included for BA.4/5.
+
+Some previous studies:
+
+* December [5](eu20211205/index.md)
+* November [7](eu20211107/index.md), [14](eu20211114/index.md), [14](eu20211121/index.md)
+* October [3](eu20211003/index.md), [10](eu20211010/index.md), [24](eu20211024/index.md), [31](eu20211031/index.md)
+* September [5](eu20210905/index.md), [12](eu20210912/index.md), [26](eu20210926/index.md)
+* [August 15](eu20210815/index.md)
+
 ### July 10, 2022: [USA by state](usa20220710/index.md)
 
 This report shows the growth of the BA.4 and 5 Omicron variants. 
@@ -92,24 +111,6 @@ Some previous studies:
 * [July 26](bc20210726/index.md)
 * [May 28](bc20210528/index.md)
 * March [9](bc20210309/index.md), [24](bc20210324/index.md)
-
-### December 5, 2021: [29 European nations](eu20211205/index.md)
-
-This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
-coordinated by the European Centre for Disease Prevention and Control.
-
-The model fits include separate infection cycles for the B.1.1.7 and B.1.617.2 variants and
-takes into account the vaccination rates in each country.
-
-In the past few weeks most European nations have experienced a significant increase in
-rate of growth in cases. A similar resurgence appears to be starting in Eastern Canada.
-
-Some previous studies:
-
-* November [7](eu20211107/index.md), [14](eu20211114/index.md), [14](eu20211121/index.md)
-* October [3](eu20211003/index.md), [10](eu20211010/index.md), [24](eu20211024/index.md), [31](eu20211031/index.md)
-* September [5](eu20210905/index.md), [12](eu20210912/index.md), [26](eu20210926/index.md)
-* [August 15](eu20210815/index.md)
 
 ### July 4, 2021: [16 German states](germany20210704/index.md)
 
