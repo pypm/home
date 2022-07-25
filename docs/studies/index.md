@@ -17,7 +17,7 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### July 17, 2022: [6 European nations](eu20220717/index.md)
+### July 24, 2022: [6 European nations](eu20220724/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
 coordinated by the European Centre for Disease Prevention and Control.
@@ -30,13 +30,14 @@ Some escape from natural immunity is included for BA.4/5.
 
 Some previous studies:
 
+* July [17](eu20220717/index.md)
 * December [5](eu20211205/index.md)
 * November [7](eu20211107/index.md), [14](eu20211114/index.md), [14](eu20211121/index.md)
 * October [3](eu20211003/index.md), [10](eu20211010/index.md), [24](eu20211024/index.md), [31](eu20211031/index.md)
 * September [5](eu20210905/index.md), [12](eu20210912/index.md), [26](eu20210926/index.md)
 * [August 15](eu20210815/index.md)
 
-### July 10, 2022: [USA by state](usa20220710/index.md)
+### July 24, 2022: [USA by state](usa20220724/index.md)
 
 This report shows the growth of the BA.4 and 5 Omicron variants. 
 The immunity from the large number of BA.1 infections is assumed to have waned significantly, and as a result
@@ -44,6 +45,7 @@ hospital admissions are expected to grow due to the new variants.
 
 Some previous studies:
 
+* July [10](usa20220710/index.md)
 * May [15](usa20220515/index.md)
 * March [13](usa20220313/index.md)
 * February [6](usa20220206/index.md), [13](usa20220213/index.md), [20](usa20220220/index.md)
