@@ -9,7 +9,9 @@ The method uses hospital admission data alone to estimate population-level immun
 Hospital admission data from August 14 followed the projection from the analysis of August 7 data, except for Norway which
 had greater than expected admissions.
 August 21 data from all six countries were all above expectations, and to interpret these data,
-waning of immunity was added, with typical time scales of about 8 months. More data is required to
+waning of immunity was added, with typical time scales of about 8 months. 
+For comparison, the models from August 21 (solid lines) and August 14 (dashed lines) are compared.
+More data is required to
 establish evidence for waning of population-level immunity.
 
 ### [Belgium](img/be_4_4_0821.pdf)
