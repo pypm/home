@@ -17,7 +17,7 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### August 21, 2022: [6 European nations](eu20220821/index.md)
+### August 28, 2022: [6 European nations](eu20220828/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
 coordinated by the European Centre for Disease Prevention and Control.
@@ -31,6 +31,7 @@ First signs of waning of immunity may be appearing.
 
 Some previous studies:
 
+* August [21](eu20220821/index.md)
 * July [17](eu20220717/index.md), [24](eu20220724/index.md), [31](eu20220731/index.md)
 * December [5](eu20211205/index.md)
 * November [7](eu20211107/index.md), [14](eu20211114/index.md), [14](eu20211121/index.md)
