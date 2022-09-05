@@ -17,7 +17,7 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### August 28, 2022: [6 European nations](eu20220828/index.md)
+### September 4, 2022: [6 European nations](eu20220904/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
 coordinated by the European Centre for Disease Prevention and Control.
@@ -27,11 +27,11 @@ Three Omicron strains are included: BA.1, BA.2, and BA.4/5.
 The analysis uses a new approach to incorporate population immunity, using the observed BA.2
 wave to define the level of population immunity that existed at that time.
 Some escape from natural immunity is included for BA.4/5.
-First signs of waning of immunity may be appearing.
+It appears that time-delayed waning of immunity is starting to have a significant effect.
 
 Some previous studies:
 
-* August [21](eu20220821/index.md)
+* August [21](eu20220821/index.md), [28](eu20220828/index.md)
 * July [17](eu20220717/index.md), [24](eu20220724/index.md), [31](eu20220731/index.md)
 * December [5](eu20211205/index.md)
 * November [7](eu20211107/index.md), [14](eu20211114/index.md), [14](eu20211121/index.md)
@@ -39,15 +39,15 @@ Some previous studies:
 * September [5](eu20210905/index.md), [12](eu20210912/index.md), [26](eu20210926/index.md)
 * [August 15](eu20210815/index.md)
 
-### July 24, 2022: [USA by state](usa20220724/index.md)
+### September 4, 2022: [USA by state](usa20220904/index.md)
 
-This report shows the growth of the BA.4 and 5 Omicron variants. 
-The immunity from the large number of BA.1 infections is assumed to have waned significantly, and as a result
-hospital admissions are expected to grow due to the new variants.
+This report shows the result of the analysis with an improved treatment of
+the effect of immunity waning,
+following the general approach first used in the July 17 study from Europe.
 
 Some previous studies:
 
-* July [10](usa20220710/index.md)
+* July [10](usa20220710/index.md), [24](usa20220724/index.md)
 * May [15](usa20220515/index.md)
 * March [13](usa20220313/index.md)
 * February [6](usa20220206/index.md), [13](usa20220213/index.md), [20](usa20220220/index.md)
@@ -80,7 +80,7 @@ Some previous studies:
 * [May 28](bc20210528/index.md)
 * March [9](bc20210309/index.md), [24](bc20210324/index.md)
 
-### January 4, 2021: [8 provinces](prov20220104/index.md)
+### January 4, 2022: [8 provinces](prov20220104/index.md)
 
 Omicron is spreading rapidly around the globe.
 
