@@ -17,7 +17,7 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### September 4, 2022: [6 European nations](eu20220904/index.md)
+### September 18, 2022: [6 European nations](eu20220918/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
 coordinated by the European Centre for Disease Prevention and Control.
@@ -31,6 +31,7 @@ It appears that time-delayed waning of immunity is starting to have a significan
 
 Some previous studies:
 
+* September [4](eu20220904/index.md)
 * August [21](eu20220821/index.md), [28](eu20220828/index.md)
 * July [17](eu20220717/index.md), [24](eu20220724/index.md), [31](eu20220731/index.md)
 * December [5](eu20211205/index.md)
