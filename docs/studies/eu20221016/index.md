@@ -60,5 +60,12 @@ United Kingdom| 2.1 | 0.059 | 0.66 | 294.6 | 80.9
 * wane delay: time required for half of the immunity waning to take place
 * wane sigma: standard deviation for time delay (gamma distribution) fixed at 60 days, except BE, FR, and UK
 
+## [comparison of waning and infection rates](img/eu_waning.pdf)
+
+The figure below shows the daily waning and infection rates (as fractions of the entire populations).
+The resurgance of BA.5 is due to waning immunity, and once new infection rates exceed waning rates, the growth rate becomes negative again.
+
+![eu](img/eu_waning.png)
+
 ## [return to case studies](../index.md)
 
