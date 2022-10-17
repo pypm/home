@@ -17,7 +17,7 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### October 9, 2022: [6 European nations](eu20221009/index.md)
+### October 16, 2022: [6 European nations](eu20221016/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
 coordinated by the European Centre for Disease Prevention and Control.
@@ -27,10 +27,12 @@ Three Omicron strains are included: BA.1, BA.2, and BA.4/5.
 The analysis uses a new approach to incorporate population immunity, using the observed BA.2
 wave to define the level of population immunity that existed at that time.
 Some escape from natural immunity is included for BA.4/5.
-There is now clear evidence that time-delayed waning of immunity is having a significant effect.
+There is clear evidence that time-delayed waning of immunity is having a significant effect, and also
+that the waning rate is starting to decrease.
 
 Some previous studies:
 
+* October [9](eu20221009/index.md)
 * September [4](eu20220904/index.md), [18](eu20220918/index.md)
 * August [21](eu20220821/index.md), [28](eu20220828/index.md)
 * July [17](eu20220717/index.md), [24](eu20220724/index.md), [31](eu20220731/index.md)
