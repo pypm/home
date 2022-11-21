@@ -70,8 +70,8 @@ the prevalence of BA.5 by late October.
 
 The figure below show the ratios of cases of the new variants to cases of BA.5*, as deduced
 from whole genomic sequencing from the six nations under study.
-Also shown are "nota" (none of the above) which indicates that other variants make up about 20-30% of total cases
-and there appears to be no sign of a new emerging variant.
+Also shown are "nota" (none of the above) which combine to be produce 3-5 times fewer cases than BA.5*
+and has no significant growth advantage.
 
 In 2020 and 2021, the susceptible fraction was large which lead to long periods of constant exponential growth.
 When alpha and delta emerged, the ratio of the new-variant cases to prior-dominant-strain cases also grew
@@ -89,6 +89,9 @@ difference between exponential growth coefficients, despite those coefficiencts 
 the period from September through November 2022.
 Some laboratory tests suggested that the BQ.1* strains are able to evade immunity.
 This population-level data analysis shows that this is not the case.
+
+It is also interesting that the model fits to hospital admissions do not require a new strain to be included to
+reproduce the data. If the BQ.1* strains had significant immunity evasion, this certainly would not be the case.
 
 The selection coefficients are deduced by maximum likelihood assuming constant selection coefficients
 (binomial) with the best fit curves shown in the figures below.
