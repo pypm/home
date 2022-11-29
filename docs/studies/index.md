@@ -17,7 +17,7 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### November 20, 2022: [6 European nations](eu20221120/index.md)
+### November 27, 2022: [6 European nations](eu20221127/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
 coordinated by the European Centre for Disease Prevention and Control.
@@ -30,10 +30,11 @@ Some escape from natural immunity is included for BA.4/5.
 Time-delayed waning of immunity that caused a resurgence in BA.5 infections is peaking now of in the coming weeks.
 The effect of recent vaccination is apparent in Belgium, Switzerland, and UK.
 New variants have emerged during the resurgence in BA.5, in particular BQ.1*. This variant has a substantial
-growth advantage, but it appears that it has no significant immunity evasion.
+growth advantage, but it appears that it does not have significant immunity evasion.
 
 Some previous studies:
 
+* November [20](eu20221120/index.md)
 * October [9](eu20221009/index.md), [16](eu20221016/index.md), [23](eu20221023/index.md), [30](eu20221030/index.md)
 * September [4](eu20220904/index.md), [18](eu20220918/index.md)
 * August [21](eu20220821/index.md), [28](eu20220828/index.md)
@@ -44,14 +45,14 @@ Some previous studies:
 * September [5](eu20210905/index.md), [12](eu20210912/index.md), [26](eu20210926/index.md)
 * [August 15](eu20210815/index.md)
 
-### September 4, 2022: [USA by state](usa20220904/index.md)
+### November 27, 2022: [USA by state](usa20221127/index.md)
 
-This report shows the result of the analysis with an improved treatment of
-the effect of immunity waning,
+This report shows the result of the analysis of US state data,
 following the general approach first used in the July 17 study from Europe.
 
 Some previous studies:
 
+* September [4](usa20220904/index.md)
 * July [10](usa20220710/index.md), [24](usa20220724/index.md)
 * May [15](usa20220515/index.md)
 * March [13](usa20220313/index.md)
