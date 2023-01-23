@@ -43,15 +43,15 @@ Some previous studies:
 * September [5](eu20210905/index.md), [12](eu20210912/index.md), [26](eu20210926/index.md)
 * [August 15](eu20210815/index.md)
 
-### December 18, 2022: [USA by state](usa20221218/index.md)
+### January 22, 2023: [USA by state](usa20230122/index.md)
 
 This report shows the result of the analysis of US state data,
 following the general approach first used in the July 17 study from Europe.
-Recent transition to rapid growth is treated with a new strain with some escape immunity.
+The effect of BQ.1 has peaked, with almost all states having infection rates in rapid decline.
 
 Some previous studies:
 
-* December [4](usa20221204/index.md)
+* December [4](usa20221204/index.md), [18](usa20221218/index.md)
 * November [27](usa20221127/index.md)
 * September [4](usa20220904/index.md)
 * July [10](usa20220710/index.md), [24](usa20220724/index.md)
