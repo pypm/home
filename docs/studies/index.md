@@ -17,24 +17,22 @@
 
 Click on the titles below to see detailed results from the studies.
 
-### November 27, 2022: [6 European nations](eu20221127/index.md)
+### January 22, 2023: [5 European nations](eu20230122/index.md)
 
 This study was prepared for inclusion in the [European forecast-hub](https://covid19forecasthub.eu/index.html),
 coordinated by the European Centre for Disease Prevention and Control.
 
-Three Omicron strains are included: BA.1, BA.2, and BA.4/5.
+Four Omicron strains are included: BA.1, BA.2, BA.4/5, and BQ.1.
 
 The analysis uses a new approach to incorporate population immunity, using the observed BA.2
 wave to define the level of population immunity that existed at that time.
-Some escape from natural immunity is included for BA.4/5.
-Time-delayed waning of immunity that caused a resurgence in BA.5 infections is peaking now of in the coming weeks.
-The effect of recent vaccination is apparent in Belgium, Switzerland, and UK.
+Some escape from natural immunity is included for BA.4/5 or BQ.1.
 New variants have emerged during the resurgence in BA.5, in particular BQ.1*. This variant has a substantial
 growth advantage, but it appears that it does not have significant immunity evasion.
 
 Some previous studies:
 
-* November [20](eu20221120/index.md)
+* November [20](eu20221120/index.md), [27](eu20221127/index.md)
 * October [9](eu20221009/index.md), [16](eu20221016/index.md), [23](eu20221023/index.md), [30](eu20221030/index.md)
 * September [4](eu20220904/index.md), [18](eu20220918/index.md)
 * August [21](eu20220821/index.md), [28](eu20220828/index.md)
