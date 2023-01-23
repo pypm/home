@@ -1,4 +1,4 @@
-## December 18, 2022
+## January 22, 2023
 
 This report shows the result of analyses that use hospital admission data to estimate
 the transmission rates in the past few months to characterize the recent Omicron waves.
